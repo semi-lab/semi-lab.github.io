@@ -10,7 +10,7 @@ profile:
   image: Akin_Semih.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><a href='https://mane.rpi.edu/'>Rensselaer Polytechnic institute (RPI)</a></p>
+    <p>[Rensselaer Polytechnic institute (RPI)](href='https://mane.rpi.edu/)</p>
     <p>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</p>
     <p>Troy, NY 12180</p>
 
