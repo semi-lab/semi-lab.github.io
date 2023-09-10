@@ -12,16 +12,14 @@ profile:
   image: Akin_Semih.png
   image_circular: false # crops the image to make it circular
   address: >
-#    <p href="https://www.example.com">Visit Example.com</p>
-    <p href='https://mane.rpi.edu/'>Rensselaer Polytechnic institute (RPI)</p>
+    <p>Rensselaer Polytechnic institute (RPI)</p>
     <p>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</p>
     <p>Troy, NY 12180</p>
 
-<a href="https://www.example.com">Visit Example.com</a>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
