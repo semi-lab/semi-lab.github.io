@@ -6,13 +6,13 @@ subtitle: Labrotary for Surface Engineering and Manufacturing Innovation (SEMI)
 # <a href='https://mane.rpi.edu/'>Rensselaer Polytechnic institute (RPI)</a>. Troy. NY, 12180
 
 profile:
-  align: center
-  image: prof_pic.jpg
+  align: right
+  image: Akin_Semih.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href='https://mane.rpi.edu/'>Rensselaer Polytechnic institute (RPI)</a></p>
+    <p>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</p>
+    <p>Troy, NY 12180</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
