@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: 
   <h2>Labrotary for Surface Engineering and Manufacturing Innovation (SEMI) </h2>
