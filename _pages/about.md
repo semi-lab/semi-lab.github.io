@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: 
-  <h2>Labrotary for Surface Engineering and Manufacturing Innovation (SEMI) 1</h2>
+  <h2>Labrotary for Surface Engineering and Manufacturing Innovation (SEMI) </h2>
 #subtitle: <a href='https://mane.rpi.edu/'>Rensselaer Polytechnic institute (RPI)</a>. Troy. NY, 12180
 # <a href='https://mane.rpi.edu/'>Rensselaer Polytechnic institute (RPI)</a>. Troy. NY, 12180
 
@@ -12,9 +12,12 @@ profile:
   image: Akin_Semih.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p href='https://mane.rpi.edu/'>Rensselaer Polytechnic institute (RPI)</p>
+    <a href="https://www.example.com">Visit Example.com</a>
+#    <p href='https://mane.rpi.edu/'>Rensselaer Polytechnic institute (RPI)</p>
     <p>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</p>
     <p>Troy, NY 12180</p>
+
+<a href="https://www.example.com">Visit Example.com</a>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
