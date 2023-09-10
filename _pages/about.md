@@ -12,7 +12,7 @@ profile:
   image: Akin_Semih.png
   image_circular: false # crops the image to make it circular
   address: >
-    <a href="https://www.example.com">Visit Example.com</a>
+    <p href="https://www.example.com">Visit Example.com</p>
 #    <p href='https://mane.rpi.edu/'>Rensselaer Polytechnic institute (RPI)</p>
     <p>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</p>
     <p>Troy, NY 12180</p>
