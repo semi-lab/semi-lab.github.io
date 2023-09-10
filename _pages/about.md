@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='(https://mane.rpi.edu/)'>Rensselaer Polytechnic institute (RPI)</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://mane.rpi.edu/'>Rensselaer Polytechnic institute (RPI)</a>. Troy. NY, 12180
 
 profile:
   align: center
