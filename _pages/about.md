@@ -7,7 +7,7 @@ subtitle: Labrotary for Surface Engineering and Manufacturing Innovation (SEMI)
 
 profile:
   align: right
-  image: Akin_Semih.jpg
+  image: Akin_Semih.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Rensselaer Polytechnic institute (RPI)</p>
