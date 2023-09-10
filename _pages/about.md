@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://mane.rpi.edu/'>Rensselaer Polytechnic institute (RPI)</a>. Troy. NY, 12180
+subtitle: Labrotary for Surface Engineering and Manufacturing Innovation (SEMI)
+# <a href='https://mane.rpi.edu/'>Rensselaer Polytechnic institute (RPI)</a>. Troy. NY, 12180
 
 profile:
   align: center
