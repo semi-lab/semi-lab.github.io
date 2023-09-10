@@ -80,14 +80,14 @@ telegram_username: # your Telegram user name
 scholar_userid: https://scholar.google.com/citations?user=1a0m6poAAAAJ&hl=tr
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: https://orcid.org/0000-0002-3644-7133
+orcid_id: 0000-0002-3644-7133
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
 research_gate_profile: https://www.researchgate.net/profile/Semih-Akin
-scopus_id: # your profile on Scopus
+scopus_id: https://www.scopus.com/authid/detail.uri?authorId=57218227618
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
