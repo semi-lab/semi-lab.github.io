@@ -6,7 +6,7 @@ description: publications by categories in reversed chronological order. generat
 nav: false
 nav_order: 
 ---
-<!-- _pages/publications.md -->
+<pages/publications.md>
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
