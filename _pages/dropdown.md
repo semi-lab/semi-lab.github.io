@@ -10,4 +10,6 @@ children:
     #- title: divider
     - title: Conference Papers
       permalink: /conference/
+    - title: Patents
+      permalink: /conference/
 ---
