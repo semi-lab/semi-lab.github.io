@@ -7,7 +7,7 @@ nav: false
 nav_order: 
 ---
 <pages/publications.md>
-<div class="publications">
+<div class="conference">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
