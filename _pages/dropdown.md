@@ -7,7 +7,7 @@ dropdown: true
 children: 
     - title: Journal Publications
       permalink: /publications/
-    - title: divider
+    #- title: divider
     - title: Conference Papers
       permalink: /conference/
 ---
