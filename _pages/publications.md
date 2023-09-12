@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Ordered by most recent. († indicates equal contribution).
+description: Ordered by most recent, († indicates equal contribution).
 nav: false
 nav_order: 
 ---
