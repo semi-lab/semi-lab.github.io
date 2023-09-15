@@ -8,10 +8,10 @@ nav_order:
 ---
 <!-- _pages/conference.md -->
 ## 2023 ##
-<p>This is some <span style="font-size: 24px;">larger text</span> within a sentence.</p>
 
 <p> <span style="font-size: 16px;">9.</span> <u>S. Akin</u>,  MBG. Jun, “Additively manufactured counter electrodes for dye-sensitized solar cells”, <i>World
 Congress on Micro and Nano Manufacturing (WCMNM)</i>, 2023.</p> 
+
 <p> <span style="font-size: 16px;">8. <u>S. Akin</u>,  Y.W. Kim, S. Xu, C. Nath, W.Wu, MBG. Jun, “Cold spray direct writing of flexible electrodes for enhanced performance triboelectric nanogenerators”, <i>North American Manufacturing Research Conference (NAMRC)</i>, 2023.</p> 
 
 ## 2022 ##
@@ -23,7 +23,7 @@ Congress on Micro and Nano Manufacturing (WCMNM)</i>, 2023.</p>
 ## 2021 ##
 <p> <span style="font-size: 16px;">5. <u>S. Akin</u>, J.H. Kim, MBG. Jun, “Electrically conductive textiles based on decoupled atomized spray coating and electroless plating”, <i> International Symposium on Precision Engineering and Sustainable Manufacturing (PRESM).</i>, 2021. </p> 
 
-<p> <span style="font-size: 16px;">4. S. Jo, <u>S. Akin</u>, MS. Park, MBG. Jun, “n integrated method for selective metallization on glass surface: Laser direct writing coupled with supersonic spray coating”, <i> World Congress on Micro and Nano-Manufacturing (WCMNM)</i>, 2021. <a href="https://www.researchgate.net/profile/Semih-Akin/publication/354862384_An_Integrated_Method_for_Selective_Metallization_on_Glass_Surface_Laser_Direct_Writing_Coupled_with_Supersonic_Spray_Coating/links/6151c1b5d2ebba7be750457a/An-Integrated-Method-for-Selective-Metallization-on-Glass-Surface-Laser-Direct-Writing-Coupled-with-Supersonic-Spray-Coating.pdf">[Link] </a>  <span style="font-size: 18px; color: red;">-Best Paper Award-</span></p> 
+<p> <span style="font-size: 16px;">4. S. Jo, <u>S. Akin</u>, MS. Park, MBG. Jun, “n integrated method for selective metallization on glass surface: Laser direct writing coupled with supersonic spray coating”, <i> World Congress on Micro and Nano-Manufacturing (WCMNM)</i>, 2021. <a href="https://www.researchgate.net/profile/Semih-Akin/publication/354862384_An_Integrated_Method_for_Selective_Metallization_on_Glass_Surface_Laser_Direct_Writing_Coupled_with_Supersonic_Spray_Coating/links/6151c1b5d2ebba7be750457a/An-Integrated-Method-for-Selective-Metallization-on-Glass-Surface-Laser-Direct-Writing-Coupled-with-Supersonic-Spray-Coating.pdf">[Link] </a>  <span style="font-size: 17px; color: red;">-Best Paper Award-</span></p> 
 
 ## 2020 ##
 
