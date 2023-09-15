@@ -12,7 +12,7 @@ nav_order:
 Congress on Micro and Nano Manufacturing (WCMNM)</i>, 2023.</p> 
 <p> 8. <u>S. Akin</u>,  Y.W. Kim, S. Xu, C. Nath, W.Wu, MBG. Jun, “Cold spray direct writing of flexible electrodes for enhanced performance triboelectric nanogenerators”, <i>North American Manufacturing Research Conference (NAMRC)</i>, 2023.</p> 
 
-## 2022 ##
+## 2021 ##
 
 <p> 7. <u>S. Akin</u>,  P. Wu, C. Nath, J. Chen, MBG. Jun, “A study on the effect of nozzle geometrical parameters on supersonic cold spraying of droplets”, <i> nternational Manufacturing Science and Engineering Conference (MSEC)</i>, 2022. <a href="https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2022/85802/V001T07A019/1146883">[Link],</a><a href="acs_2022.pdf"> [PDF]</a> 
 
