@@ -9,7 +9,30 @@ nav_order: 2
 
 ## Principle Investigator
 
-<img src="Akin_Semih.png" width="200" height="200">
+
+<img src= "Akin_Semih.png" width="170" height="200">
+
+<br>
+
+<span style="font-size: 20px;"> <b>Semih Akin</b>, Ph.D.</span>
+<br>
+Assistant Professor 
+<br>
+Mechanical, Aerospace, and Nuclear Engineering (MANE)
+<br>
+Rensselaer Polytechnic institute (RPI)
+<br>
+Erik Jonsson Engineering Center, Troy, NY 12180
+<br>
+E-mail:  <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a>
+
+
+Semih Akin is an Assistant Professor in ...
+
+
+
+
+
 
 
 ## Ph.D. Students
