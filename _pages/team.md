@@ -9,12 +9,7 @@ nav_order: 2
 
 ## Principle Investigator
 
-<title>Image Example</title>
-</head>
-<body>
-    <img src="Akin_Semih.png" alt="Princripal Investigator (PI)" width="300" height="200">
-</body>
-</html>
+<img src="Akin_Semih.png" width="200" height="200">
 
 
 ## Ph.D. Students
