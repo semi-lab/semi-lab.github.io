@@ -12,8 +12,6 @@ nav_order: 2
 
 <img src= "Akin_Semih.png" width="170" height="200">
 
-<img src= "jtst_1.jpg" width="170" height="200">
-
 <br>
 
 <span style="font-size: 20px;"> <b>Semih Akin</b>, Ph.D.</span>
