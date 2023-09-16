@@ -31,9 +31,6 @@ We have sveral opening positions for Ph.D. students with the following research 
 
 <li> <u> Data-driven smart additive manufacturing</u>: machine learning, virtual reality, image processing, process monitoring, and predictive maintenance  </li>
 
-   
-</ul> 
-
 
 
 
