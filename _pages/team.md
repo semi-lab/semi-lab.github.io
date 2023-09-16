@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /contact/
-title: Join Us
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /team/
+title: Team
+description: 
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 ## Prospective Students
