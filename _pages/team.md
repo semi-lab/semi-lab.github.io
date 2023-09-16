@@ -2,11 +2,26 @@
 layout: page
 permalink: /team/
 title: Team
-description: 
+description: Group members of SEMI-Lab. 
 nav: true
 nav_order: 2
 ---
 
-## Prospective Students
-Our research group fosters passion, creativity, synergy, and is interdisciplinary and collaborative by nature. We cultivate the collective growth of the whole team, as we enter this new era of microelectronics where there are increasing global demands for a new generation of innovators traversing and blurring traditional boundaries.
+## Principle Investigator
 
+
+<title>Image Example</title>
+</head>
+<body>
+    <img src="Akin_Semih.png" alt="Princripal Investigator (PI)" width="300" height="200">
+</body>
+</html>
+
+
+## Ph.D. Students
+<br>
+
+## MS Students
+<br>
+
+## Undergraduate Students
