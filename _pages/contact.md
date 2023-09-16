@@ -8,30 +8,32 @@ nav_order: 5
 ---
 
 ## Prospective Students
-Our research group fosters passion, creativity, synergy, and is interdisciplinary and collaborative by nature. We cultivate the collective growth of the whole team, as we enter this new era of microelectronics where there are increasing global demands for a new generation of innovators traversing and blurring traditional boundaries.
+Our research group fosters a collaborative, interdisciplinary, and welcoming environment. We are dedicated to cultivating the collective growth of our entire team, pushing the boundaries of knowledge, and generating innovative solutions in the cutting-edge fields of Advanced Multi-Scale Manufacturing.
 
-Our research team nurtures enthusiasm, originality, cooperation, and thrives on interdisciplinarity and collaboration. We actively promote the overall development of our team members as we embark on a new era in microelectronics, responding to rising global demands for a fresh breed of innovators who transcend and dissolve conventional boundaries.
+We are continuously looking for highly motivated and passionate students students at various levels of Ph.D., Masters, and Undergraduate. If interested, please send your CV to Prof. Akin at sakin@purdue.edu. For application and admission questions please concact RPI's admission office.
+
+## Open Ph.D Positions
+
+The SEMI-Lab is currently seeking applications for Ph.D. students for Spring and Fall 2025 with the following research background, interests, and skills. Please contact Prof. Akin at sakin@purdue.edu regarding. Please contact Prof. Akin directly after submitting your application to RPI.
+
+<ul>
+<li> <u> Multi-axis additive manufacturing: </u> process development, control, tool path generation, and optimization of additive manufacturing processes (e.g., material extrusion, vat polymerization, cold spray, aerosol jet printing, directed energy deposition.) </li>
+
+<li> <u> 3-D printed electronics: </u> process modeling, device fabrication, mechanical design, and characterization. 
+  </li>
+
+<li> <u> 3-D printed energy devices and power electronics: </u> design, modeling, fabrication, and characerization of energy devices such as triboelectric nanogenerators, third generation solar cells, and solid-state batteries.
+  </li>
+
+<li> <u> Numerical modeling of additive manufacturing processes </u> Experience with finite element modeling and simulation tools, including but not limited to ANSYS 
+Workbench, Abaqus, HyperMesh, COMSOL. </li>
+
+<li> <u> Data-driven smart additive manufacturing</u>  : Machine learning, virtual reality, and image proessing  </li>
+
+   
+</ul> 
 
 
-We are mostly looking for students with research background and interests in the following areas.
-
-Nanoelectronics: device fabrication and integration, characterization, device modeling.
-VLSI circuits: digital/analog circuit design, chip tapeout, domain-specific accelerators.
-Machine learning, computational neuroscience, emerging application spaces (e.g., AR/VR, autonomous systems, healthcare).
-Meanwhile, beyond what’s mentioned above, we also believe that unique and diverse experiences can often generate new sparks to explore uncharted territory.
 
 
-
-## Ph.D. Students
-
-Multiple fully-funded Ph.D. positions are available for Fall 2023. If you are interested in joining the NanoX research group, please feel free to contact me via email with your CV, transcript, and a brief description of your research background and interests.
-
-When submitting your applications to Purdue ECE’s Graduate Programs (deadline: Dec. 1st, 2022), you may want to mention the faculty of interest in your statement.
-
-
-
-## M.S. and Undergrad Students
-If you are currently a M.S. or undergrad student at Purdue and would like to chat about research opportunities (and potentially collaborative projects with industry), please feel free to reach out via email!
-
-If you are a student from another university, we may discuss potential visiting research projects for Summer 2023 (remote or in-person). Please send an email to start discussions.
 
