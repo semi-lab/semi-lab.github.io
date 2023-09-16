@@ -30,8 +30,7 @@ The SEMI-Lab is currently seeking applications for Ph.D. students for Spring and
 
 <li> <u> Numerical modeling of additive manufacturing processes: </u> finite element modeling and simulation tools, including but not limited to ANSYS Workbench, Abaqus, HyperMesh, and COMSOL. </li>
 
-
-<li> <u> Data-driven smart additive manufacturing</u>  : Machine learning, virtual reality, and image proessing  </li>
+<li> <u> Data-driven smart additive manufacturing</u>  : Machine learning, virtual reality, image processing, and smart process monitoring, predictive maintenance  </li>
 
    
 </ul> 
