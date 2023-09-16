@@ -20,23 +20,15 @@ The SEMI-Lab is currently seeking applications for Ph.D. students for Spring and
 
 <ul>
 <li> <u> Multi-axis additive manufacturing: </u> process development, control, tool path generation, and optimization of additive manufacturing processes (e.g., material extrusion, vat polymerization, cold spray, aerosol jet printing, directed energy deposition.) </li>
-<br>
 
 <li> <u> 3-D printed electronics: </u> process modeling, device fabrication, mechanical design, and characterization. 
   </li>
-  <br>
-
 <li> <u> 3-D printed energy devices and power electronics: </u> design, modeling, fabrication, and characerization of energy devices such as triboelectric nanogenerators, third generation solar cells, and solid-state batteries.
   </li>
-  <br>
-
 <li> <u> Multi-material additive manufacturing: </u> multi-material processing, functionally gradient materials, cellular materials,   </li>
-
-<br>
 
 <li> <u> Numerical modeling of additive manufacturing processes: </u> finite element modeling and simulation tools, including but not limited to ANSYS Workbench, Abaqus, HyperMesh, and COMSOL. </li>
 
-<br>
 <li> <u> Data-driven smart additive manufacturing</u>  : Machine learning, virtual reality, image processing, and smart process monitoring, predictive maintenance  </li>
 
    
