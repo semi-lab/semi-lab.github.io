@@ -9,7 +9,6 @@ nav_order: 2
 
 ## Principle Investigator
 
-
 <title>Image Example</title>
 </head>
 <body>
