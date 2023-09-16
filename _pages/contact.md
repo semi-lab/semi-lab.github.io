@@ -25,8 +25,11 @@ The SEMI-Lab is currently seeking applications for Ph.D. students for Spring and
 <li> <u> 3-D printed energy devices and power electronics: </u> design, modeling, fabrication, and characerization of energy devices such as triboelectric nanogenerators, third generation solar cells, and solid-state batteries.
   </li>
 
-<li> <u> Numerical modeling of additive manufacturing processes </u> Experience with finite element modeling and simulation tools, including but not limited to ANSYS 
-Workbench, Abaqus, HyperMesh, COMSOL. </li>
+<li> <u> Multi-material additive manufacturing: </u> multi-material processing, functionally gradient materials, cellular materials,   </li>
+
+
+<li> <u> Numerical modeling of additive manufacturing processes: </u> finite element modeling and simulation tools, including but not limited to ANSYS Workbench, Abaqus, HyperMesh, and COMSOL. </li>
+
 
 <li> <u> Data-driven smart additive manufacturing</u>  : Machine learning, virtual reality, and image proessing  </li>
 
