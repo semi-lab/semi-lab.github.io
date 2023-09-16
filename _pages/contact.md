@@ -8,15 +8,14 @@ nav_order: 5
 ---
 
 ## Prospective Students
-Our research group fosters a collaborative, interdisciplinary, and welcoming environment. We are dedicated to cultivating the collective growth of our entire team, pushing the boundaries of knowledge, and generating innovative solutions in the cutting-edge fields of Advanced Multi-Scale Manufacturing.
 
-We are continuously looking for highly motivated and passionate students students at various levels of Ph.D., Masters, and Undergraduate. If interested, please send your CV to Prof. Akin at sakin@purdue.edu. For application and admission questions please concact RPI's admission office.
-<br>
+SEMI-Lab is continuously looking for highly motivated and passionate students students at various levels of Ph.D., Masters, and Undergraduate. If interested, please send your CV to Prof. Akin at sakin@purdue.edu. For application and admission questions please concact [RPI's admission office](https://admissions.rpi.edu/graduate).
+
 <br>
 
 ## Open Ph.D Positions
 
-The SEMI-Lab is currently seeking applications for Ph.D. students for Spring and Fall 2025 with the following research background, interests, and skills. Please contact Prof. Akin at sakin@purdue.edu regarding. Please contact Prof. Akin directly after submitting your application to RPI.
+We have sveral opening positions for Ph.D. students with the following research background, interests, and skills. Please contact Prof. Akin at sakin@purdue.edu regarding. Please contact Prof. Akin directly after submitting your application to RPI.
 
 <ul>
 <li> <u> Multi-axis additive manufacturing: </u> process development, control, tool path generation, and optimization of additive manufacturing processes (e.g., material extrusion, vat polymerization, cold spray, aerosol jet printing, directed energy deposition.) </li>
