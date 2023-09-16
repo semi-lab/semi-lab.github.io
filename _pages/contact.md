@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /team/
-title: Team
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /join us/
+title: 
+description: 
 nav: true
 nav_order: 5
 ---
