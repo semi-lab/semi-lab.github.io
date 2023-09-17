@@ -16,7 +16,7 @@ nav_order: 2
 
 <span style="font-size: 20px;"> <b>Semih Akin</b>, Ph.D.</span>
 <br>
-Assistant Professor
+Assistant 
 <br>
 Mechanical, Aerospace, and Nuclear Engineering (MANE)
 <br>
