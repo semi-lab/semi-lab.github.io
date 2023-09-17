@@ -23,7 +23,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-SEMI-Lab focuses on bridging a critical gap between engineering and unmet clinical needs. Our scholarly efforts are dedicated to addressing the gap using novel yet simple microscale transducers with a clear path towards translation into measurable economic and societal impacts. We explore a variety type of wearable biomedical devices that are safely attachable to the skin or eye, allowing for continuous remote assessment of human health and diseases. The pragmatic application of these devices is boundless ranging from healthcare to rehabilitation and to telemedicine.
+SEMI-Lab focuses- on bridging a critical gap between engineering and unmet clinical needs. Our scholarly efforts are dedicated to addressing the gap using novel yet simple microscale transducers with a clear path towards translation into measurable economic and societal impacts. We explore a variety type of wearable biomedical devices that are safely attachable to the skin or eye, allowing for continuous remote assessment of human health and diseases. The pragmatic application of these devices is boundless ranging from healthcare to rehabilitation and to telemedicine.
 
 Our research group fosters a collaborative, interdisciplinary, and welcoming environment. We are dedicated to cultivating the collective growth of our entire team, pushing the boundaries of knowledge, and generating innovative solutions in the cutting-edge fields of Advanced Multi-Scale Manufacturing.
 
