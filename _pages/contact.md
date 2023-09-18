@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-## Open Positions
+## Prospective Students
 
 SEMI-Lab is continuously looking for highly motivated and passionate students at various levels of Ph.D., Masters, and Undergraduate. If interested, please send your CV to Prof. Akin at <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a>.
 
