@@ -16,7 +16,7 @@ SEMI-Lab is continuously looking for highly motivated and passionate students at
 We have sveral opening positions for Ph.D. students with the following research background, interests, and skills. Please contact Prof. Akin at <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a> after submitting your application to [RPI](https://admissions.rpi.edu/graduate).
 
 <ul>
-<li> <u> Multi-axis additive manufacturing</u>: process development, control, tool path generation, and optimization of additive manufacturing processes (e.g., material extrusion, vat polymerization, cold spray, aerosol jet printing, directed energy deposition.) </li>
+<li> <u> Multi-scale additive manufacturing</u>: process development, control, tool path generation, and optimization of additive manufacturing processes (e.g., material extrusion, vat polymerization, cold spray, aerosol jet printing, directed energy deposition.) </li>
 
 <li> <u> 3-D printed electronics</u>: process modeling, device fabrication, mechanical design, and characterization. 
   </li>
