@@ -10,8 +10,7 @@ nav_order: 2
 ## Principle Investigator
 
 
-
-<img src= "Akin_Semihh-2.JPG" width="170" height="200">
+<img src= "semihakin.png" width="170" height="200">
 
 <br>
 
