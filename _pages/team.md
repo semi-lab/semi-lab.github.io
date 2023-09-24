@@ -12,8 +12,9 @@ nav_order: 2
 
 <img src="jtst_1.JPG" width="170" height="200"/>
 
-<img src="../assets/img\Akin_Semihh.jpg" alt="">
+<img src="../assets/img/Akin_Semihh.jpg" alt="">
 
+<img src="../assets/img/Akin_Semihh.jpg" width="170" height="200"/>
 
 <br>
 
