@@ -31,9 +31,7 @@ We have sveral opening positions for Ph.D. students with the following research 
 
 <br>
 
-<img src= "C:\Users\semiH\Desktop\Web-page (SEMI Lab)\website\semi-lab.github.io\assets\img\publication_preview\ACS_cover.jpg" width="170" height="200">
 
-
-
+<img src="https://raw.githubusercontent.com/bell-kevin/Kevin-Bell/main/kevinBell.png" alt="Kevin" class="inline"/>
 
 
