@@ -29,6 +29,10 @@ We have sveral opening positions for Ph.D. students with the following research 
 
 <li> <u> Data-driven smart additive manufacturing</u>: machine learning, virtual reality, image processing, process monitoring, and predictive maintenance  </li>
 
+<br>
+
+<img src= "C:\Users\semiH\Desktop\Web-page (SEMI Lab)\website\semi-lab.github.io\assets\img\publication_preview\ACS_cover.jpg" width="170" height="200">
+
 
 
 
