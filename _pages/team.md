@@ -10,9 +10,9 @@ nav_order: 2
 ## Principle Investigator
 
 
-<img src="jtst_1.jpg" width="170" height="200"/>
+<img src="jtst_1.JPG" width="170" height="200"/>
 
-<img src="https://github.com/semi-lab/semi-lab.github.io/blob/master/assets/img/Akin_Semihh.jpg" width="170" height="200"/>
+<img src="../assets/img\Akin_Semihh.jpg" alt="">
 
 
 <br>
