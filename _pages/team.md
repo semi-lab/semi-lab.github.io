@@ -12,6 +12,8 @@ nav_order: 2
 
 <img src="jtst_1.jpg" width="170" height="200"/>
 
+<img src="https://github.com/semi-lab/semi-lab.github.io/blob/master/assets/img/Akin_Semihh.jpg" width="170" height="200"/>
+
 
 <br>
 
