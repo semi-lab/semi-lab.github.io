@@ -13,7 +13,7 @@ We are looking for highly motivated and passionate students at various levels of
 
 ## Open Ph.D. Positions
 
-We have sveral opening positions for Ph.D. students with the following research background, interests, and skills. Previous backgrounds can include (but not limited to) mechanical engineering, materials science, and electrical engineering. If you are interested, please contact Prof. Akin at <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a>.
+We have sveral opening positions for Ph.D. students with the following research background, interests, and skills. Previous backgrounds can include (but not limited to) mechanical engineering, materials science, and electrical engineering. If you are interested, please contact <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a>.
 
 <ul>
 <li> <u> Multi-scale additive manufacturing</u>: process development, control, tool path generation, and optimization of additive manufacturing processes (e.g., material extrusion, vat polymerization, cold spray, aerosol jet printing, directed energy deposition.) </li>
