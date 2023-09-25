@@ -9,11 +9,11 @@ nav_order: 5
 
 ## Prospective Students
 
-SEMI-Lab is continuously looking for highly motivated and passionate students at various levels of Ph.D., masters, and undergraduate. If interested, please send your CV to Prof. Akin at <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a>.
+We are looking for highly motivated and passionate students at various levels of Ph.D., masters, and undergraduate with an interest in surface engineering, additive manufacturing, printed electronics, electronic textiles, and energy devices. If you are interested, please contact Prof. Akin at <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a>.
 
 ## Open Ph.D. Positions
 
-We have sveral opening positions for Ph.D. students with the following research background, interests, and skills. Please contact Prof. Akin at <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a> after submitting your application to [RPI](https://admissions.rpi.edu/graduate).
+We have sveral opening positions for Ph.D. students with the following research background, interests, and skills. Previous backgrounds can include (but not limited to) mechanical engineering, materials science, and electrical engineering. If you are interested, please contact Prof. Akin at <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a>.
 
 <ul>
 <li> <u> Multi-scale additive manufacturing</u>: process development, control, tool path generation, and optimization of additive manufacturing processes (e.g., material extrusion, vat polymerization, cold spray, aerosol jet printing, directed energy deposition.) </li>
