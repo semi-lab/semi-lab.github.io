@@ -31,6 +31,30 @@ Dr. Semih Akin is a tenure-track Assistant Professor of Mechanical Engineering i
 ## Ph.D. Students
 <br>
 
+<!--<style>
+        .image-row {
+            display: flex; /* Use flexbox for horizontal alignment */
+            justify-content: space-between; /* Space evenly between the images */
+            align-items: center; /* Center vertically */
+        }
+
+        .image-row img {
+            max-width: 45%; /* Limit the width of each image */
+            height: auto; /* Maintain aspect ratio */
+        }
+    </style>
+</head>
+<body>
+    <div class="image-row">
+        <img src="image1.jpg" alt="Image 1">
+        <img src="image2.jpg" alt="Image 2">
+    </div>
+</body>
+</html>
+-->
+
+
+
 ## MS Students
 <br>
 
