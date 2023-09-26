@@ -28,4 +28,4 @@ intelligence, and sensor networks, a crucial need has become evident for smart f
 
 Our group is committed to humbly and tirelessly battling against intricate surface structures. We are dedicated to cultivating the collective growth of our entire team, pushing the limits of knowledge, and creating innovative solutions in the forefront areas of surface engineering and multi-scale additive manufacturing. 
 
-<i>"God made the bulk; the surface was invented by the devil."-Wolfgang Pauli-</i>
+<i>"God made the bulk; the surface was invented by the devil." -Wolfgang Pauli-</i>
