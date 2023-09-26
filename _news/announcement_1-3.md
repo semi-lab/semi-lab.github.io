@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2023-04-19 15:59:00-0400
+date: 2023-05-20 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Dr. Akin received the [Outstanding Graduate Student Research Award](https://engineering.purdue.edu/Engr/People/Awards/Graduate/ptRecipientListing?group_id=237384&show_sub_groups=1) by the CoE at Purdue University.:sparkles:
+Dr. Akin received the Early Career Travel Award by the NSF to atteng NAMRC/MSEC 2023.&#x1F44D;
+
