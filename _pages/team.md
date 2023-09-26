@@ -24,8 +24,16 @@ Erik Jonsson Engineering Center, Troy, NY 12180
 <br>
 E-mail:  <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a>
 
+<style>
+  .justified-text {
+    text-align: justify;
+  }
+</style>
 
-Dr. Semih Akin is a tenure-track Assistant Professor of Mechanical Engineering in  the Department of Mechanical, Aerospace, and Nuclear Engineering [(MANE)](https://mane.rpi.edu/) at [Rensselaer Polytechnic Institute (RPI)](https://www.rpi.edu/). He earned his Ph.D. in Mechanical Engineering from [Purdue University](https://www.purdue.edu/) in 2022, where he also worked as a Post-doctoral Fellow before joining [RPI](https://www.rpi.edu/). He is the recipient of the Outstanding Graduate Student Research Award, as well as the Lambert Teaching Fellowship at [Purdue University](https://www.purdue.edu/) for excellence in research and teaching. Dr. Akin’s cross-disciplinary research focuses on surface engineering and advanced manufacturing of smart functional surfaces, with applications in 3D-printed electronics, electronic textiles, smart thin-films, and energy devices.
+<body>
+
+<p class="justified-text">
+    Dr. Semih Akin is a tenure-track Assistant Professor of Mechanical Engineering at [Rensselaer Polytechnic Institute (RPI)](https://www.rpi.edu/). He earned his Ph.D. in Mechanical Engineering from [Purdue University](https://www.purdue.edu/) in 2022. Before joining RPI, he worked as a Postdoctoral Fellow at Purdue University. He is the recipient of the Outstanding Graduate Student Research Award and the Lambert Teaching Fellowship at Purdue University, recognizing his excellence in both research and teaching. Dr. Akin's cross-disciplinary research focuses on surface engineering and advanced manufacturing of smart functional surfaces, with applications in 3D-printed electronics, smart films, electronic textiles,and energy devices.
 
 ## Ph.D. Students
 <br>
