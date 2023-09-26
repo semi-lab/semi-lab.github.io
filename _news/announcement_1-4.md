@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Dr. Akin was selected as one of winners of the Italin Packaging Technology Awards.&#x1F44D;
+Dr. Akin was selected as one of winners of the [Italin Packaging Technology Awards](https://machinesitalia.org/italian-technology-awards).&#x1F44D;
 
