@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Dr. Akin received the Early Career Travel Award by the NSF to atteng NAMRC/MSEC 2023.&#x1F44D;
+Dr. Akin received the Early Career Travel Award by the NSF to attend [NAMRC/MSEC 2023](https://msec-namrc2023.rutgers.edu/).&#x1F44D;
 
