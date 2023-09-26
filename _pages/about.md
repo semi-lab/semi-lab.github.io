@@ -38,8 +38,8 @@ social: true  # includes social icons at the bottom of the page
 <p class="justified-text">
   <i>"God made the bulk; the surface was invented by the devil."</i> 
   <br>
-  -Wolfgang Pauli- , Nobel Prize Physicist
-
+  -Wolfgang Pauli- , Nobel Prize Physicist </p>
+  
   We are committed to humbly and tirelessly dealing with intricate surface structures. If you want to be a part of this effort, please contact Dr. Akin at sakin@purdue.edu. 
 
 
