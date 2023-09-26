@@ -30,4 +30,4 @@ intelligence, and sensor networks, a crucial need has become evident for smart f
 
 <i>"God made the bulk; the surface was invented by the devil."</i>  -Wolfgang Pauli-
 
-Our group is committed to humbly and tirelessly dealing with intricate surface structures. If you want to be a part of this effort against  complex surface stuctrures, please contact Prof. Akin at sakin@purdue.edu.
+We are committed to humbly and tirelessly dealing with intricate surface structures. If you want to be a part of this effort against complex surface stuctures, please contact Dr. Akin at sakin@purdue.edu.
