@@ -18,7 +18,7 @@ Congress on Micro and Nano Manufacturing (WCMNM)</i>, 2023.
 
 ## 2022 ##
 
-<p>7. <u>S. Akin</u>,  P. Wu, C. Nath, J. Chen, MBG. Jun, “A study on the effect of nozzle geometrical parameters on supersonic cold spraying of droplets”, <i> nternational Manufacturing Science and Engineering Conference (MSEC)</i>, 2022. <a href="https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2022/85802/V001T07A019/1146883">[Link],</a><span style="font-size: 14px;">  <a href="https://semi-lab.github.io/assets\pdf\MSEC1.pdf">[PDF]</a></span> </p>  </p> 
+<p>7. <u>S. Akin</u>,  P. Wu, C. Nath, J. Chen, MBG. Jun, “A study on the effect of nozzle geometrical parameters on supersonic cold spraying of droplets”, <i> nternational Manufacturing Science and Engineering Conference (MSEC)</i>, 2022. <a href="https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2022/85802/V001T07A019/1146883">[Link],</a><span style="font-size: 14px;">  <a href="https://semi-lab.github.io/assets\pdf\MSEC1.pdf">[PDF]</a></span> </p>  
 
 <p>6. T. Gabor, <u>S. Akin</u>, JT. Tsai, S. Jo, F. Najjar, MBG. Jun, “Numerical studies on cold spray particle deposition using a rectangular nozzle”, <i> International Manufacturing Science and Engineering Conference (MSEC)</i>, 2022. <a href="https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2020/84263/V002T06A025/1095659">[Link],</a><a href="acs_2022.pdf"> [PDF]</a> </p> 
 
