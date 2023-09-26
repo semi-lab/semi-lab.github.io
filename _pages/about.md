@@ -32,4 +32,4 @@ intelligence, and sensor networks, a crucial need has become evident for smart f
 <br>
  -Wolfgang Pauli- , Nobel Prize Physicist
 
-We are committed to humbly and tirelessly dealing with intricate surface structures. If you want to be a part of this effort against complex surface stuctures, please contact Dr. Akin at sakin@purdue.edu.
+We are committed to humbly and tirelessly dealing with intricate surface structures. If you want to be a part of this effort, please contact Dr. Akin at sakin@purdue.edu.
