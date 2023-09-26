@@ -36,9 +36,8 @@ social: true  # includes social icons at the bottom of the page
 <p class="justified-text">
   Our group is dedicated to cultivating the collective growth of our entire team, pushing the limits of knowledge, and creating innovative solutions in the forefront areas of surface engineering and multi-scale additive manufacturing. 
 <p class="justified-text">
-  <i>"God made the bulk; the surface was invented by the devil."</i> 
+  <i>"God made the bulk; the surface was invented by the devil."</i>-Wolfgang Pauli- 
   <br>
-  -Wolfgang Pauli- , Nobel Prize Physicist </p>
-  
+   
   We are committed to humbly and tirelessly tackling intricate surface structures to bridge the realms of surface engineering and advanced manufacturing. If you wish to be a part of this endeavor, please contact Dr. Akin at sakin@purdue.edu.
 
