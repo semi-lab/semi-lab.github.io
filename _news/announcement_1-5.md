@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Dr. Akin was selected as one of winners of the International Research Awards on Computer Aided Design in Mechanical Engineering.&#x1F44D;
+Dr. Akin was selected as one of the winners of the International Research Awards on Computer Aided Design in Mechanical Engineering.&#x1F44D;
 
