@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+  Our group is dedicated to cultivating the collective growth of our entire team, pushing the limits of knowledge, and creating innovative solutions in the forefront areas of surface engineering and multi-scale additive manufacturing. 
+  
 ## Prospective Students
 
 We have several opening positions for Ph.D. students with the following research interests, and skills. Previous backgrounds can include (but are not limited to) mechanical engineering, materials science, and electrical engineering. If you are interested, please contact Prof. Akin at <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a>.
