@@ -20,6 +20,7 @@ Congress on Micro and Nano Manufacturing (WCMNM)</i>, 2023. </p>
 
 <p>6. T. Gabor, <u>S. Akin</u>, JT. Tsai, S. Jo, F. Najjar, MBG. Jun, “Numerical studies on cold spray particle deposition using a rectangular nozzle”, <i> International Manufacturing Science and Engineering Conference (MSEC)</i>, 2022. <a href="https://asmedigitalcollection.asme.org/MSEC/proceedings/MSEC2022/85802/V001T01A029/1146942">[Link],</a><span style="font-size: 14px;">  <a href="https://semi-lab.github.io/assets\pdf\MSEC_2.pdf">[PDF]</a></span></p>  
 
+
 ## 2021 ##
 <p>5. <u>S. Akin</u>, J.H. Kim, MBG. Jun, “Electrically conductive textiles based on decoupled atomized spray coating and electroless plating”, <i> International Symposium on Precision Engineering and Sustainable Manufacturing (PRESM).</i>, 2021. </p> 
 
