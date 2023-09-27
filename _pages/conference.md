@@ -32,7 +32,7 @@ Congress on Micro and Nano Manufacturing (WCMNM)</i>, 2023. </p>
 <p>2. JT. Tsai, <u>S. Akin</u>, F. Zhou, DF. Bahr, MBG. Jun, “Simulation and characterization of cold spray deposition of metal powders on polymer substrate electrically conductive application”, <i> International Manufacturing Science and Engineering Conference (MSEC)</i>, 2020. <a href="https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2020/84263/V002T06A026/1095668">[Link],</a><a href="acs_2022.pdf"> [PDF]</a> </p> 
 
 ## 2019 ##
-<p>1. <u>S. Akin</u>, T. Gabor, S. Jo, H. Joe, JT. Tsai, Y. Park, CH. Lee, MS. Park, MBG. Jun, “Dual regime spray deposition based laser direct writing of metal patterns on polymer substrates”, <i> World Congress on Micro and Nano-Manufacturing (WCMNM)</i>, 2019. <a href="https://engineering.purdue.edu/StickTronics/wp-content/uploads/2020/12/48.pdf">[Link] </a> </p> 
+<p>1. <u>S. Akin</u>, T. Gabor, S. Jo, H. Joe, JT. Tsai, Y. Park, CH. Lee, MS. Park, MBG. Jun, “Dual regime spray deposition based laser direct writing of metal patterns on polymer substrates”, <i> World Congress on Micro and Nano-Manufacturing (WCMNM)</i>, 2019. <a href="https://engineering.purdue.edu/StickTronics/wp-content/uploads/2020/12/48.pdf">[Link] </a> </p> [PDF]
 
 
 
