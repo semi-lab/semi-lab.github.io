@@ -34,12 +34,12 @@ social: true  # includes social icons at the bottom of the page
 <p class="justified-text">
   As the world enters the era of the internet of things (IoT), artificial intelligence, and sensor networks, a crucial need has become evident for smart functional surfaces for these emerging fields. In the SEMI-Lab, we aim to play a pivotal role in shaping the future of surface manufacturing by developing novel manufacturing capabilities for functional and smart surfaces. We craft theoretical and fundamental frameworks to push the boundaries of surface manufacturing technologies while targeting innvoations in advanced additive manufacturing and rapid prototyping. These endeavors are geared towards designing and fabricating functional smart surfaces for a wide range of practical applications, including 3-D printed electronics, smart films, energy devices, electronic textiles, healthcare, and product design. 
 <p class="justified-text">
-  Our group is dedicated to cultivating the collective growth of our entire team, pushing the limits of knowledge, and creating innovative solutions in the forefront areas of surface engineering and multi-scale additive manufacturing. 
+
 <p class="justified-text">
   <i>"God made the bulk; the surface was invented by the devil."</i>
   <br>
   <i>-Wolfgang Pauli-</i> Nobel Prize Physicist
-    
+  <br>    
 
   We are committed to humbly and tirelessly tackling intricate surface structures to bridge the realms of surface engineering and advanced manufacturing. If you wish to be a part of this endeavor, please contact Dr. Akin at sakin@purdue.edu.
 
