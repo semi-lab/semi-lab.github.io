@@ -28,12 +28,12 @@ Congress on Micro and Nano Manufacturing (WCMNM)</i>, 2023. </p>
 
 ## 2020 ##
 
-<p>3. T. Gabor, H. Joe, <u>S. Akin</u>, KH. Kim,JK. Park, MBG. Jun, “Numerical investigations of various coaxial nozzle designs for direct laser deposition”, <i> International Manufacturing Science and Engineering Conference (MSEC)</i>, 2020. <a href="https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2020/84263/V002T06A025/1095659">[Link],</a><a href="https://semi-lab.github.io/assets\pdf\MSEC_2020.pdf">[PDF]</a></span> </p> 
+<p>3. T. Gabor, H. Joe, <u>S. Akin</u>, KH. Kim,JK. Park, MBG. Jun, “Numerical investigations of various coaxial nozzle designs for direct laser deposition”, <i> International Manufacturing Science and Engineering Conference (MSEC)</i>, 2020. <a href="https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2020/84263/V002T06A025/1095659">[Link],</a><a href="https://semi-lab.github.io/assets\pdf\MSEC_2020.pdf">[PDF]</a></p> 
 
-<p>2. JT. Tsai, <u>S. Akin</u>, F. Zhou, DF. Bahr, MBG. Jun, “Simulation and characterization of cold spray deposition of metal powders on polymer substrate electrically conductive application”, <i> International Manufacturing Science and Engineering Conference (MSEC)</i>, 2020. <a href="https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2020/84263/V002T06A026/1095668">[Link],</a><a href="https://semi-lab.github.io/assets\pdf\MSEC_3.pdf">[PDF]</a></span> </p> 
+<p>2. JT. Tsai, <u>S. Akin</u>, F. Zhou, DF. Bahr, MBG. Jun, “Simulation and characterization of cold spray deposition of metal powders on polymer substrate electrically conductive application”, <i> International Manufacturing Science and Engineering Conference (MSEC)</i>, 2020. <a href="https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2020/84263/V002T06A026/1095668">[Link],</a><a href="https://semi-lab.github.io/assets\pdf\MSEC_3.pdf">[PDF]</a></p> 
 
 ## 2019 ##
-<p>1. <u>S. Akin</u>, T. Gabor, S. Jo, H. Joe, JT. Tsai, Y. Park, CH. Lee, MS. Park, MBG. Jun, “Dual regime spray deposition based laser direct writing of metal patterns on polymer substrates”, <i> World Congress on Micro and Nano-Manufacturing (WCMNM)</i>, 2019. <a href="https://semi-lab.github.io/assets\pdf\WCMNM_2019.pdf">[PDF]</a></span> </p> 
+<p>1. <u>S. Akin</u>, T. Gabor, S. Jo, H. Joe, JT. Tsai, Y. Park, CH. Lee, MS. Park, MBG. Jun, “Dual regime spray deposition based laser direct writing of metal patterns on polymer substrates”, <i> World Congress on Micro and Nano-Manufacturing (WCMNM)</i>, 2019. <a href="https://semi-lab.github.io/assets\pdf\WCMNM_2019.pdf">[PDF]</a></p> 
 
 
 <div class="conference">
