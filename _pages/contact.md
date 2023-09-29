@@ -4,7 +4,7 @@ permalink: /join us/
 title: Join Us
 description: 
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
   Our group is dedicated to cultivating the collective growth of our entire team, pushing the limits of knowledge, and creating innovative solutions in the forefront areas of surface engineering and multi-scale additive manufacturing. 
