@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Selective Surface Metallization of Polymers
-description: a project with a background image
+description: This project aims the ...
 img: assets\img\project_1_image.jpg
 importance: 1
 category: work
