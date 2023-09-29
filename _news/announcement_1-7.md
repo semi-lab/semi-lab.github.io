@@ -13,5 +13,5 @@ related_posts: false
 <body>
    
 
-Dr. Akin has joined [RPI](https://www.rpi.edu/) as an Assistant Professor of Mechanical Engineering.  <span class="star">&#9733;</span>
+Dr. Akin has joined Rensselaer Polytechnic Institute as an Assistant Professor of Mechanical Engineering.  <span class="star">&#9733;</span>
  
