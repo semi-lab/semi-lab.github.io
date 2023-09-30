@@ -2,10 +2,10 @@
 layout: page
 title: Research
 permalink: /research/
-description: A growing collection of your cool projects.
+description: 
 nav: true
 nav_order: 2
-display_categories: [Functional Metallization of Polymers, Spray Modeling (Particles In-flight and Upon-Impact Dynamics)]
+display_categories: [Functional Metallization of Polymers, Spray Modeling]
 horizontal: true
 ---
 
