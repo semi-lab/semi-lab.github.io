@@ -7,10 +7,10 @@ nav: true
 nav_order: 5
 ---
 
-### Before joining RPI
-### ME 270 - Basic Mechanics I: Statics
-Purdue University - Dept. of Mechanical Engineering
-Lecturer
-Course contents: Vector operations, forces and couples. Free body diagrams, equilibrium of a particle and of rigid bodies. Distributed forces. Centers of gravity and centroids. Friction. Trusses, frames, and machines. Internal reactions resulting from axial, shear, torsional, and bending loading. Stress and strain analyses and elementary failure criteria.
+## <u> Before joining RPI</u>:
+<p style="font-size: 16px;">ME 354 - Machine Design<br>Purdue University - School of Mechanical Engineering <br> <u>Lecturer</u> as the Ward.A. Lambert Fellow</p>
 
-Taught on Spring 2023 (partially) and Fall 2023.
+Course contents: Factor of safety, Combined Stress, Static Failure Theories, Fatigue analysis methods, Fatigue failure criteria, Shaft design, Design of keys, Limits and fits, Mechanical springs, Material properties & processing, Contact stresses, Rolling element bearings, Lubrication, Journal bearings, Mechanical gears, Thread standards, Threaded fasteners, Geometric dimensioning & tolerancing
+
+Taught on Spring 2022 and Fall 2022.
+
