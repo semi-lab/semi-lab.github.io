@@ -4,7 +4,7 @@ title: Selective Surface Metallization of Polymers
 description: This project aims the ...
 img: assets\img\project_1_image.jpg
 importance: 1
-category: Functional Metallization of Polymers
+category: Spray Modeling
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
