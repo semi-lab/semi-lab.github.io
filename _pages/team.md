@@ -4,7 +4,7 @@ permalink: /team/
 title: Team
 description: Group members of SEMI-Lab. 
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 ## Faculty
