@@ -14,7 +14,8 @@ nav_order: 5
  <br>
 
 Taught in Spring 2022 and Fall 2022.
-<p style="font-size: 15px;"> <u>Recognitisions:</u><br> 
+<br>
+<p style="font-size: 15px;"> <u>Recognitisions:</u>
 <li>Ward A. Lambert Graduate Teaching Fellowship at Purdue University, 2022.
 </li> 
 <li>Graduate Teaching Award by Purdue University Teaching Academy, CoE, 2022.
