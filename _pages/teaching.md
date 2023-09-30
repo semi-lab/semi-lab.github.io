@@ -7,10 +7,15 @@ nav: true
 nav_order: 5
 ---
 
-## <u> Before joining RPI</u>:
-<p style="font-size: 16px;">ME 354 - Machine Design<br>Purdue University - School of Mechanical Engineering <br> <u>Lecturer</u> as the Ward.A. Lambert Fellow</p>
+<p style="font-size: 20px;"> Before joining RPI<br>
+<p style="font-size: 16px;">ME 354 - Machine Design<br>Purdue University - School of Mechanical Engineering <br> <u>Lecturer</u> as the Ward.A. Lambert Fellow <br></p>
 
-Course contents: Factor of safety, Combined Stress, Static Failure Theories, Fatigue analysis methods, Fatigue failure criteria, Shaft design, Design of keys, Limits and fits, Mechanical springs, Material properties & processing, Contact stresses, Rolling element bearings, Lubrication, Journal bearings, Mechanical gears, Thread standards, Threaded fasteners, Geometric dimensioning & tolerancing
+ <u>Course Content:</u> Factor of safety, Combined Stress, Static Failure Theories, Fatigue analysis methods, Fatigue failure criteria, Shaft design, Design of keys, Limits and fits, Mechanical springs, Material properties & processing, Contact stresses, Rolling element bearings, Lubrication, Journal bearings, Mechanical gears, Thread standards, Threaded fasteners, Geometric dimensioning & tolerancing.
 
-Taught on Spring 2022 and Fall 2022.
+Taught in Spring 2022 and Fall 2022.
+<p style="font-size: 15px;"> <u>Recognitisions:</u><br> 
+<li> Ward A. Lambert Graduate Teaching Fellowship at Purdue University, 2022.
+  </li> 
+  <li> Graduate Teaching Award by Purdue University Teaching Academy, CoE, 2022.
+  </li> 
 
