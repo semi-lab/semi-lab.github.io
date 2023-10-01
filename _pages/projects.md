@@ -5,7 +5,7 @@ permalink: /research/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Polymer Metallization, Printed Flexible Electronics, Spray Modeling]
+display_categories: [Polymer Metallization, Printed Flexible Electronics, Energy Devices, Spray Modeling]
 horizontal: true
 ---
 
