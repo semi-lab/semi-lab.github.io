@@ -5,7 +5,7 @@ permalink: /research/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Spray Modeling, Functional Metallization of Polymers, Printed Flexible Electronics]
+display_categories: [Polymer Metallization, Printed Flexible Electronics, Spray Modeling]
 horizontal: true
 ---
 
@@ -20,7 +20,11 @@ horizontal: true
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
   </div>
   {%- else -%}
   <div class="grid">
@@ -37,7 +41,11 @@ horizontal: true
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
   </div>
   {%- else -%}
   <div class="grid">
