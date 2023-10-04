@@ -41,4 +41,4 @@ social: true  # includes social icons at the bottom of the page
   <i>-Wolfgang Pauli-</i>
   </p>  
 <p class="justified-text">
-  We are committed to humbly and tirelessly tackling intricate surface structures in order to seamlessly merge surface engineering and advanced manufacturing. If you wish to be a part of this endeavor, please contact Dr. Akin at <a href="mailto:sakin@purdue.edu">sakin@purdue.edu</a>. </p>  
+  We are committed to humbly and tirelessly tackling intricate surface structures in order to seamlessly merge surface engineering and advanced manufacturing. If you wish to be a part of this endeavor, please contact PRof. Akin at <a href="mailto:sakin@purdue.edu">sakin@purdue.edu</a>. </p>  
