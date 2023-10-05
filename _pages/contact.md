@@ -11,7 +11,7 @@ nav_order: 7
   
 ## Prospective Students
 
-The SEMI-Lab is continuously seeking for enthusiastic students at various levels of PhD, Masters, and undergraduate, who have an interest in surface engineering, additive manufacturing, printed electronics, electronic textiles, and energy devices. If interested, please send your CV to Prof. Akin at sakin@purdue.edu.  
+The SEMI-Lab is seeking for enthusiastic students at various levels of PhD, Masters, and undergraduate, who have an interest in surface engineering, additive manufacturing, printed electronics, electronic textiles, and energy devices. If interested, please send your CV to Prof. Akin at <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a>. 
 
 ## Open Ph.D. Positions
 
