@@ -16,6 +16,6 @@ nav_order: 5
   <p style="font-size: 16px;"> <u>Recognitisions:</u> 
  <li>Ward A. Lambert Graduate Teaching Fellowship at Purdue University, 2022.
 </li> 
-<li>Graduate Teaching Award by Purdue University Teaching Academy, CoE, 2022.
+<li>Graduate Teaching Award by Purdue University Teaching Academy, 2022.
 </li>  
 
