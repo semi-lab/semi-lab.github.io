@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /join us/
-title: Join Us
+permalink: /news/
+title: News
 description: 
 nav: true
 nav_order: 6
