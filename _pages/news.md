@@ -8,6 +8,6 @@ nav_order: 6
 ---
 
 
-<li> <u> 3-D printed electronics</u>: process modeling, device fabrication, mechanical design, and characterization. 
+<li> Dr. Akin has joined [Rensselaer Polytechnic Institute](https://www.rpi.edu/) as an Assistant Professor of Mechanical Engineering.  <span class="star">&#9733;</span>
   </li>
   
