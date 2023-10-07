@@ -2,10 +2,10 @@
 layout: page
 title: Research
 permalink: /research/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: 
-display_categories: [Project 1, Project 2]
+description: 
+nav: true
+nav_order: 2
+display_categories: [Polymer Metallization, Printed Flexible Electronics, Energy Devices, Spray Modeling]
 horizontal: true
 ---
 
