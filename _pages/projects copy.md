@@ -3,8 +3,8 @@ layout: page
 title: Research
 permalink: /research/
 description: 
-nav: true
-nav_order: 2
+nav: false
+nav_order: 
 display_categories: [Polymer Metallization, Printed Flexible Electronics, Energy Devices, Spray Modeling]
 horizontal: true
 ---
