@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/12.jpg  {width: 100%; height: auto;}
+title: Polymer Metallization
+description: Heterogeneous intelligent systems bring together deep learning, neuromorphic models, brain-inspired associative memories, and fundamentally new ways of encoding information.
+img: assets/img/12.jpg  
 importance: 2
 category: Polymer Metallization
 giscus_comments: true
