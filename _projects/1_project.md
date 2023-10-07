@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Selective Surface Metallization of Polymers
+title: Spray Modeling
 description: This project aims the ...
-img: assets\img\project_1_image.jpg
+img: assets\img\ACS_cover1.jpg
 importance: 1
 category: Spray Modeling
 related_publications: einstein1956investigations, einstein1950meaning
 ---
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
