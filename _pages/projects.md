@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 2
 display_categories: [Polymer Metallization, Printed Flexible Electronics, Energy Devices, Spray Modeling]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
