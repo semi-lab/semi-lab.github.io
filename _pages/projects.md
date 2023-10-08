@@ -29,7 +29,6 @@ horizontal: true
       </div>
     </div>
   </div>
-  </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
