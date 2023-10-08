@@ -21,9 +21,9 @@ horizontal: true
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-1">
-    <div class="cols-4">
-    <div class="cols-8">
-    {%- for project in sorted_projects -%} 
+      <div class="col-4"></div>
+      <div class="col-8">C</div>
+     {%- for project in sorted_projects -%} 
       {% include projects_horizontal.html %}
     {%- endfor %}
     </div>
