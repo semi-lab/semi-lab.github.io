@@ -9,7 +9,6 @@ display_categories: [Polymer Metallization, Printed Flexible Electronics, Energy
 horizontal: true
 ---
 
-
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
@@ -42,7 +41,7 @@ horizontal: true
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-1">
+    <div class="row row-cols-0.5">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
