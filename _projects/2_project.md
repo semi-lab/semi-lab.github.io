@@ -5,7 +5,7 @@ description: Heterogeneous intelligent systems bring together deep learning, neu
 img: /assets/img/ACS_cover1.jpg
 importance: 2
 category: Polymer Metallization
-giscus_comments: true
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
@@ -20,6 +20,7 @@ To give your project a background in the portfolio page, just add the img tag to
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
+<!-- This is a comment. It won't be displayed in the browser. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -42,11 +43,11 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="caption">
     This image can also have a caption. It's like magic.
-</div>
+</div> 
 
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images. 
 
 
 <div class="row justify-content-sm-center">
@@ -59,7 +60,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 </div>
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+</div> 
 
 
 The code is simple.
@@ -79,3 +80,10 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+ <img src="image_url.jpg" alt="Image Description" width="300" height="200"> 
+ -->
+
+
+<div class="row justify-content-sm-center">
+    <img src="assets/img/11.jpg" alt="Image Description"> 
+</div>
