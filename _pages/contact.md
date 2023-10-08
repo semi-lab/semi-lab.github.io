@@ -32,9 +32,9 @@ We have several opening positions for Ph.D. students with the following research
 <li> <u> Data-driven smart additive manufacturing</u>: machine learning, virtual reality, process monitoring, and predictive maintenance  </li> 
 <br>
 
-<span style="font-size: 25px; color: red;"> <b> <i>Why not change the world <u>layer by layer? </u> </i></b></span>  
+<span style="font-size: 25px; color: red;"> <b> <i>Why not change the world layer by layer? </i></b></span>  
 
-<p style="font-size: 22px;"> <b>Rensselaer Polytechnic Institute </b></p>
+<p style="font-size: 24px;"> <b>Rensselaer Polytechnic Institute </b></p>
 
 
 <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2930.776523035785!2d-73.68286802402913!3d42.729620571161036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89de0fa08064a661%3A0x9988e3fc27d910a9!2sDepartment%20of%20Mechanical%2C%20Aerospace%2C%20and%20Nuclear%20Engineering!5e0!3m2!1sen!2sus!4v1696722460555!5m2!1sen!2sus" width="750" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> </p>
