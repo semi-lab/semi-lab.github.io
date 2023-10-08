@@ -20,14 +20,17 @@ horizontal: true
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-1">
-       <div class="col-sm-4 mt-3 mt-md-0"></div>
-       <div class="col-sm-8 mt-3 mt-md-0"></div>
-     {%- for project in sorted_projects -%} 
-      {% include projects_horizontal.html %}
-    {%- endfor %}
+    <div class="row justify-content-sm-center">
+      <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      </div>
+      <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      </div>
     </div>
   </div>
+
+
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
