@@ -84,7 +84,5 @@ Here's the code for the last row of images above:
  <img src="image_url.jpg" alt="Image Description" width="300" height="200"> 
  -->
 
+<img src="../assets/img/11.jpg" width="400" height="200"/>
 
-<div class="row justify-content-sm-center">
-    <img src="assets/img/11.jpg" alt="Image Description"> 
-</div>
