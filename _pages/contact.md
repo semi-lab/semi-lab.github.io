@@ -32,7 +32,7 @@ We have several opening positions for Ph.D. students with the following research
 <li> <u> Data-driven smart additive manufacturing</u>: machine learning, virtual reality, process monitoring, and predictive maintenance  </li> 
 <br>
 
-<span style="font-size: 25px; color: red;"> <b> <i>Why not change the world layer by layer? </i></b></span>  
+<span style="font-size: 25px; color: red;"> <b> <i>Why not change the world <u>layer by layer? </u> </i></b></span>  
 
 <p style="font-size: 22px;"> <b>Rensselaer Polytechnic Institute </b></p>
 
