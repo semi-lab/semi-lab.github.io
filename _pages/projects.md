@@ -20,8 +20,8 @@ horizontal: true
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-1">
-    {%- for project in sorted_projects -%}
+    <div class="row row-col-4-col-8">
+    {%- for project in sorted_projects -%} col-4
       {% include projects_horizontal.html %}
     {%- endfor %}
     </div>
