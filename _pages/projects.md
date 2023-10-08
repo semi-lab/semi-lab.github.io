@@ -21,6 +21,8 @@ horizontal: true
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-col-sm">
+    <div class="col-sm-4">
+    <div class="col-sm-8">
     {%- for project in sorted_projects -%} 
       {% include projects_horizontal.html %}
     {%- endfor %}
