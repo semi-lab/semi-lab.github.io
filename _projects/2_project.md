@@ -1,13 +1,16 @@
 ---
 layout: page
 title: Polymer Metallization
-description: Heterogeneous intelligent systems bring together deep learning, neuromorphic models, brain-inspired associative memories, and fundamentally new ways of encoding information.
+description: Selective surface metallization of polymers ... 
 img: /assets/img/ACS_cover1.jpg
 importance: 2
 category: Polymer Metallization
 giscus_comments: false
 ---
 
+<div class="row justify-content-sm-center">
 
-<img src="../assets/img/11.jpg" width="400" height="200"/>
+<img src="../assets/img/11.jpg" width="400" height="300"/>
+</div>
 
+<img src="../assets/img/Akin_Semihh.jpg" width="200" height="240"/>
