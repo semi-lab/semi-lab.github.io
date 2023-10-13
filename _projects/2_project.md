@@ -20,8 +20,8 @@ Polymer metallization is instrumental in the production of flexible electronics,
 <b> Our current work explores:</b>
 <ul>
 <li> <b> Multifield modeling framework for polymer metallization. </b> </li>
-<li> <b> Explorations of novel surface structures, design and development of multifunctional smart coatings and surfaces. </b> 
-<li> <b> Mulir-scale additive manufacturing of smart and self-powered surfaces on polymer substrates. </b> </li>
+<li> <b> Explorations of novel surface structures, design and development of multifunctional smart surfaces. </b> 
+<li> <b> Multi-scale additive manufacturing of smart and self-powered surfaces on polymer substrates. </b> </li>
 
 
 
