@@ -20,10 +20,8 @@ horizontal: true
   <!-- Generate cards for each project -->
   
   {% if page.horizontal -%}
-<!-- Generate cards for each project -->
-{% if page.horizontal -%}
 
-  <div class="container">
+<div class="container">
   <div class="row row-cols-1">    
   {%- for project in sorted_projects -%}
     {% if loop.index == 1 %}  <!-- Add this condition to target the first column -->
@@ -56,17 +54,6 @@ horizontal: true
 </div>
 
 {%- endif -%}
-
-
-/* Custom CSS to adjust the width of the first column */
-.col-first {
-  width: 30%; /* Adjust the width as needed */
-}
-
-/* CSS for other columns (optional) */
-.col {
-  width: 70%; /* Adjust the width for other columns */
-}
 
 
 
