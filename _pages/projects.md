@@ -56,7 +56,7 @@ horizontal: true
 </div>
 
 {%- endif -%}
-{% endfor %}
+
 
 /* Custom CSS to adjust the width of the first column */
 .col-first {
