@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Spray Modeling
-description: This project aims the ...
-img: assets\img\ACS_cover1.jpg
+description: 
+img: /assets/img/ASME_11.jpg
 importance: 1
 category: Spray Modeling
 related_publications: 
