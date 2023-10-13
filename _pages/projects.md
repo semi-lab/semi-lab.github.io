@@ -9,6 +9,18 @@ display_categories: [Polymer Metallization, Printed Flexible Electronics, Energy
 horizontal: true
 ---
 
+<style>
+  /* Custom CSS to adjust the width of the first column */
+  .col-first {
+    width: 20%; /* Adjust the width as needed */
+  }
+
+  /* CSS for other columns (optional) */
+  .col {
+    width: 30%; /* Adjust the width for other columns */
+  }
+</style>
+
 <!-- pages/projects.md -->
 <div class="projects">
   {%- if site.enable_project_categories and page.display_categories %}
@@ -47,14 +59,3 @@ horizontal: true
   {%- endif -%}
 </div>
 
-<style>
-  /* Custom CSS to adjust the width of the first column */
-  .col-first {
-    width: 30%; /* Adjust the width as needed */
-  }
-
-  /* CSS for other columns (optional) */
-  .col {
-    width: 70%; /* Adjust the width for other columns */
-  }
-</style>
