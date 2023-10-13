@@ -21,42 +21,40 @@ horizontal: true
   
   {% if page.horizontal -%}
 
-<div class="container">
-  <div class="row row-cols-1">    
-  {%- for project in sorted_projects -%}
-    {% if loop.index == 1 %}  <!-- Add this condition to target the first column -->
-      <div class="col-first"> <!-- Assign a custom class to the first column -->
-        {% include projects_horizontal.html %}
-      </div>
-    {% else %}
-      <div class="col">
-        {% include projects_horizontal.html %}
-      </div>
-    {% endif %}
-  {%- endfor %}
+  <div class="container">
+    <div class="row row-cols-1">    
+      {%- for project in sorted_projects -%}
+        {% if loop.index == 1 %}  <!-- Add this condition to target the first column -->
+          <div class="col-first"> <!-- Assign a custom class to the first column -->
+            {% include projects_horizontal.html %}
+          </div>
+        {% else %}
+          <div class="col">
+            {% include projects_horizontal.html %}
+          </div>
+        {% endif %}
+      {%- endfor %}
+    </div>
   </div>
-</div>
 
-{%- else -%}
+  {%- else -%}
 
-<div class="grid">
-  {%- for project in sorted_projects -%}
-    {% if loop.index == 1 %}  <!-- Add this condition to target the first column -->
-      <div class="col-first"> <!-- Assign a custom class to the first column -->
-        {% include projects.html %}
-      </div>
-    {% else %}
-      <div class="col">
-        {% include projects.html %}
-      </div>
-    {% endif %}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% if loop.index == 1 %}  <!-- Add this condition to target the first column -->
+        <div class="col-first"> <!-- Assign a custom class to the first column -->
+          {% include projects.html %}
+        </div>
+      {% else %}
+        <div class="col">
+          {% include projects.html %}
+        </div>
+      {% endif %}
+    {%- endfor %}
+  </div>
+
+  {%- endif -%}
+  <!-- End Generate cards for each project -->
+  
   {%- endfor %}
 </div>
-
-{%- endif -%}
-
-
-
-
-
-
