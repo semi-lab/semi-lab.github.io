@@ -19,7 +19,27 @@ horizontal: true
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
-  
+  <div class="container">
+  <div class="row row-cols-1">
+    {%- for project in sorted_projects -%}
+    <div class="col-md-3"> <!-- Adjust the width of the first column here -->
+      {% include projects_horizontal.html %}
+    </div>
+    <div class="col-md-9"> <!-- Adjust the width of the second column here -->
+      {% include projects_horizontal.html %}
+    </div>
+    {%- endfor %}
+    </div>
+  </div>
+{%- else -%}
+<div class="grid">
+  {%- for project in sorted_projects -%}
+    {% include projects.html %}
+  {%- endfor %}
+</div>
+{%- endif -%}
+{%- endfor %}
+  <!--
   <div class="container">
     <div class="row row-cols-1">    
     {%- for project in sorted_projects -%} 
@@ -34,7 +54,7 @@ horizontal: true
     {%- endfor %}
   </div>
   {%- endif -%}
-  {% endfor %}
+  {% endfor %} --> 
 
 {%- else -%}
 <!-- Display projects without categories -->
