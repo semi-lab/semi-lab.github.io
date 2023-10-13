@@ -47,12 +47,14 @@ horizontal: true
   {%- endif -%}
 </div>
 
-/* Custom CSS to adjust the width of the first column */
-.col-first {
-  width: 30%; /* Adjust the width as needed */
-}
+<style>
+  /* Custom CSS to adjust the width of the first column */
+  .col-first {
+    width: 30%; /* Adjust the width as needed */
+  }
 
-/* CSS for other columns (optional) */
-.col {
-  width: 70%; /* Adjust the width for other columns */
-}
+  /* CSS for other columns (optional) */
+  .col {
+    width: 70%; /* Adjust the width for other columns */
+  }
+</style>
