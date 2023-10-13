@@ -52,7 +52,7 @@ horizontal: true
       {% endif %}
     {%- endfor %}
   </div>
-  {% endif -%} <!-- Move the endif here -->
+  {% endif %} <!-- Move the endif to this location -->
   <!-- End Generate cards for each project -->
   
   {%- endfor %}
