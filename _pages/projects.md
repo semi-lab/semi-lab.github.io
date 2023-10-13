@@ -12,12 +12,12 @@ horizontal: true
 <style>
   /* Custom CSS to adjust the width of the first column */
   .col-first {
-    width: 20%; /* Adjust the width as needed */
+    width: 30%; /* Width for the first column */
   }
 
   /* CSS for other columns (optional) */
   .col {
-    width: 30%; /* Adjust the width for other columns */
+    width: 70%; /* Width for other columns */
   }
 </style>
 
@@ -32,9 +32,9 @@ horizontal: true
     <!-- Generate cards for each project -->
     
     <div class="container">
-      <div class="row row-cols-1">
+      <div class="row row-cols-1">    
         {%- for project in sorted_projects -%}
-          <div class="col {% if forloop.first %}col-first{% else %}col{% endif %}"> <!-- Add a class for the first column -->
+          <div class="{% if forloop.first %}col-first{% else %}col{% endif %}"> <!-- Adjust the class for the first and other columns -->
             {% include projects_horizontal.html %}
           </div>
         {%- endfor %}
