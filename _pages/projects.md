@@ -13,11 +13,13 @@ horizontal: true
   /* Custom CSS to adjust the width of the first column */
   .col-first {
     width: 10%; /* Width for the first column */
+    height: 100px; /* Height for the first column */
   }
 
   /* CSS for other columns (optional) */
   .col {
-    width: 70%; /* Width for other columns */
+    width: 40%; /* Width for other columns */
+    height: 100px; /* Height for other columns */
   }
 </style>
 
