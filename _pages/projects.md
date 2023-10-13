@@ -27,9 +27,8 @@ horizontal: true
     </div>
     <div class="col-md-9"> <!-- Adjust the width of the second column here -->
       {% include projects_horizontal.html %}
-    </div>
-    {%- endfor %}
-    </div>
+      {%- endfor %}
+    </div>    
   </div>
 {%- else -%}
 <div class="grid">
