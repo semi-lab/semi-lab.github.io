@@ -31,31 +31,18 @@ horizontal: true
     {%- assign sorted_projects = categorized_projects | sort: "importance" %}
     <!-- Generate cards for each project -->
     
-    {% if page.horizontal -%}
-    
     <div class="container">
-      <div class="row row-cols-1">    
+      <div class="row row-cols-1">
         {%- for project in sorted_projects -%}
-          <div class="col {% if forloop.first %}col-first{% endif %}"> <!-- Add a class for the first column -->
+          <div class="col {% if forloop.first %}col-first{% else %}col{% endif %}"> <!-- Add a class for the first column -->
             {% include projects_horizontal.html %}
           </div>
         {%- endfor %}
       </div>
     </div>
     
-    {%- else -%}
-    
-    <div class="grid">
-      {%- for project in sorted_projects -%}
-        <div class="col {% if forloop.first %}col-first{% endif %}"> <!-- Add a class for the first column -->
-          {% include projects_horizontal.html %}
-        </div>
-      {%- endfor %}
-    </div>
-    {% endif -%} <!-- Close the "if" statement for page.horizontal -->
     <!-- End Generate cards for each project -->
     
     {%- endfor %}
   {%- endif -%}
 </div>
-
