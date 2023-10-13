@@ -5,7 +5,7 @@ permalink: /research/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Polymer Metallization, Printed Flexible Electronics, Energy Devices, Spray Modeling, Deneme]
+display_categories: [Polymer Metallization, Printed Flexible Electronics, Energy Devices, Spray Modeling]
 horizontal: false
 ---
 
@@ -13,13 +13,16 @@ horizontal: false
   /* Custom CSS to adjust the width of the first column */
   .col-first {
     width: 10%; /* Width for the first column */
-    height: 200px; /* Height for the first column */
   }
 
   /* CSS for other columns (optional) */
   .col {
     width: 40%; /* Width for other columns */
-    height: 200px; /* Height for other columns */
+  }
+
+  /* Adjust the image width */
+  .col img {
+    width: 30%; /* Adjust the width as needed */
   }
 </style>
 
