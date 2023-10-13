@@ -9,7 +9,7 @@ display_categories: [Polymer Metallization, Printed Flexible Electronics, Energy
 horizontal: true
 ---
 
-!-- pages/projects.md -->
+<!-- pages/projects.md -->
 <div class="projects">
   {%- if site.enable_project_categories and page.display_categories %}
     <!-- Display categorized projects -->
@@ -24,15 +24,9 @@ horizontal: true
     <div class="container">
       <div class="row row-cols-1">    
         {%- for project in sorted_projects -%}
-          {% if forloop.first %}  <!-- Add this condition to target the first column -->
-            <div class="col-first"> <!-- Assign a custom class to the first column -->
-              {% include projects_horizontal.html %}
-            </div>
-          {% else %}
-            <div class="col">
-              {% include projects_horizontal.html %}
-            </div>
-          {% endif %}
+          <div class="col {% if forloop.first %}col-first{% endif %}"> <!-- Add a class for the first column -->
+            {% include projects_horizontal.html %}
+          </div>
         {%- endfor %}
       </div>
     </div>
@@ -41,15 +35,9 @@ horizontal: true
     
     <div class="grid">
       {%- for project in sorted_projects -%}
-        {% if forloop.first %}  <!-- Add this condition to target the first column -->
-          <div class="col-first"> <!-- Assign a custom class to the first column -->
-            {% include projects.html %}
-          </div>
-        {% else %}
-          <div class="col">
-            {% include projects.html %}
-          </div>
-        {% endif %}
+        <div class="col {% if forloop.first %}col-first{% endif %}"> <!-- Add a class for the first column -->
+          {% include projects_horizontal.html %}
+        </div>
       {%- endfor %}
     </div>
     {% endif -%} <!-- Close the "if" statement for page.horizontal -->
@@ -58,3 +46,13 @@ horizontal: true
     {%- endfor %}
   {%- endif -%}
 </div>
+
+/* Custom CSS to adjust the width of the first column */
+.col-first {
+  width: 30%; /* Adjust the width as needed */
+}
+
+/* CSS for other columns (optional) */
+.col {
+  width: 70%; /* Adjust the width for other columns */
+}
