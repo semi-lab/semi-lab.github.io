@@ -15,15 +15,14 @@ Polymer metallization is a crucial technology that bridges the gap between the d
         {% include figure.html path="assets/img/Polymer_metallization.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-</br>
 
-By depositing a thin layer of metal onto polymer substrates, it imparts electrical conductivity, shielding capabilities, and enhanced aesthetics to a variety of products. Polymer metallization is instrumental in the production of flexible electronics, RFID tags, and electromagnetic interference (EMI) shielding materials, allowing for lightweight and durable solutions in an ever-evolving technological landscape. It represents an essential aspect of modern materials science, surface engineering, and manufacturing, facilitating innovation in product design and performance across numerous sectors.
+Polymer metallization is instrumental in the production of flexible electronics, RFID tags, and electromagnetic interference (EMI) shielding materials, allowing for lightweight and durable solutions in an ever-evolving technological landscape. It represents an essential aspect of modern materials science, surface engineering, and manufacturing, facilitating innovation in product design and performance across numerous sectors.
 
 <b> Our current work explores:</b>
 <ul>
-<li> <b> Multifield modeling of surface deposition. </b> </li>
+<li> <b> Multifield modeling of polymer metallization. </b> </li>
 <li> <b> Design and development of multifunctional smart coatings and surfaces. </b> </li>
-<li> <b> Advanced manufacturing of smart and self-powered surfaces. </b> </li>
+<li> <b> Advanced manufacturing of smart and self-powered surfaces on polymer substrates. </b> </li>
 
 
 
