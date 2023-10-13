@@ -12,12 +12,12 @@ horizontal: false
 <style>
   /* Custom CSS to adjust the width of the first column */
   .col-first {
-    width: 10%; /* Width for the first column */
+    width: 30%; /* Width for the first column */
   }
 
   /* CSS for other columns (optional) */
   .col {
-    width: 40%; /* Width for other columns */
+    width: 70%; /* Width for other columns */
   }
 
   /* Adjust the image width */
@@ -34,8 +34,7 @@ horizontal: false
     <h2 class="category">{{ category }}</h2>
     {%- assign categorized_projects = site.projects | where: "category", category -%}
     {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-    <!-- Generate cards for each project -->
-    
+    <!-- Generate cards for each project -->    
     <div class="container">
       <div class="row row-cols-1">    
         {%- for project in sorted_projects -%}
@@ -44,10 +43,8 @@ horizontal: false
           </div>
         {%- endfor %}
       </div>
-    </div>
-    
-    <!-- End Generate cards for each project -->
-    
+    </div>    
+    <!-- End Generate cards for each project -->    
     {%- endfor %}
   {%- endif -%}
 </div>
