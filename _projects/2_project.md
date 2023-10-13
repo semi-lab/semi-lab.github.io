@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Polymer Metallization
-description: Selective surface metallization of polymers ... 
+description: Polymer metallization is a crucial technology that bridges the gap between the diverse properties of polymers and the desirable electrically conductive attributes of metals. It plays a pivotal role in a wide range of industries, including electronics, automotive, aerospace, energy harvesting, and many more.  
 img: /assets/img/ACS_cover1.jpg
 importance: 2
 category: Polymer Metallization
 giscus_comments: false
 ---
 
-Polymer metallization is a crucial technology that bridges the gap between the diverse properties of polymers and the desirable electrically conductive attributes of metals. It plays a pivotal role in a wide range of industries, including electronics, automotive, aerospace, energy harvesting, and many more. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,9 +19,9 @@ Polymer metallization is instrumental in the production of flexible electronics,
 
 <b> Our current work explores:</b>
 <ul>
-<li> <b> Multifield modeling of polymer metallization. </b> </li>
-<li> <b> Design and development of multifunctional smart coatings and surfaces. </b> </li>
-<li> <b> Advanced manufacturing of smart and self-powered surfaces on polymer substrates. </b> </li>
+<li> <b> Multifield modeling framework for polymer metallization. </b> </li>
+<li> <b> Explorations of novel surface structures, design and development of multifunctional smart coatings and surfaces. </b> 
+<li> <b> Mulir-scale additive manufacturing of smart and self-powered surfaces on polymer substrates. </b> </li>
 
 
 
