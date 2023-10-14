@@ -18,16 +18,15 @@ horizontal: true
     <!-- <div class="row row-cols-2"> -->
     <div class="row row-cols-1">
 <div class="card-item col">
-<a href="/semi-lab/projects/2_project/"><div class="card hoverable">
+<a href="_projects\2_project.md"><div class="card hoverable">
       <div class="row g-0">
 <div class="card-img col-md-4">
           <figure>
- 
-  <picture>    
-    <class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/ACS_cover1.jpg">>   
+   <picture>
+    <!-- Add source element for responsive images -->
+    <source media="(max-width: 600px)" srcset="/assets/img/ACS_cover1.jpg">
     <!-- Fallback to the original file -->
-    <img src="/assets/img/ACS_cover1.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
+    <img src="/assets/img/ACS_cover1.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; this.remove();">
   </picture>
 
 </figure>
@@ -46,7 +45,7 @@ horizontal: true
   </a>
 </div>
 <div class="card-item col">
-<a href="/NanoX/projects/hd/"><div class="card hoverable">
+<a href="_projects\2_project.md"><div class="card hoverable">
       <div class="row g-0">
 <div class="card-img col-md-4">
  
