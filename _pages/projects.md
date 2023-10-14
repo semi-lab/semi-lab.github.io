@@ -50,9 +50,6 @@ horizontal: true
 <div class="card-img col-md-4">
 
 
-
-
-
 <!-- 2nd card (project) -->
 
 <div class="projects">
