@@ -35,7 +35,7 @@ horizontal: true
 <div class="card-body">
             <h3 class="card-title">Polymer Metallization
 </h3>
-            <p class="card-text">Polymer metallization is a crucial technology that bridges the gap between the diverse properties of polymers and the desirable electrically conductive attributes of metals. It plays a pivotal role in a wide range of industries, including electronics, automotive, aerospace, energy harvesting, and many more.  
+            <p class="card-text">Polymer metallization is a crucial technology that bridges the gap between the diverse properties of polymers and the desirable electrically conductive attributes of metals.
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
