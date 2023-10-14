@@ -33,7 +33,30 @@ horizontal: true
   </picture>
 
 </figure>
+        </div>
+        <div class="col-md-8">
+<div class="card-body">
+            <h3 class="card-title">Polymer Metallization
+</h3>
+            <p class="card-text">Polymer metallization is a crucial technology that bridges the gap between the diverse properties of polymers and the desirable electrically conductive attributes of metals. It plays a pivotal role in a wide range of industries, including electronics, automotive, aerospace, energy harvesting, and many more.  
+</p>
+            <div class="row ml-1 mr-1 p-0"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+<div class="card-item col">
+<a href="/NanoX/projects/hd/"><div class="card hoverable">
+      <div class="row g-0">
+<div class="card-img col-md-4">
+          <figure>
 
+  <picture>    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/NanoX/assets/img/hd-map-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/NanoX/assets/img/hd-map-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/NanoX/assets/img/hd-map-1400.webp"></source>
 
 
 
