@@ -22,9 +22,9 @@ horizontal: true
       <div class="row g-0">
 <div class="card-img col-md-4">
           <figure>
-
+ 
   <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/ACS_cover1.jpg"></source>   
+    <class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/ACS_cover1.jpg">>   
     <!-- Fallback to the original file -->
     <img src="/assets/img/ACS_cover1.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
@@ -49,13 +49,8 @@ horizontal: true
 <a href="/NanoX/projects/hd/"><div class="card hoverable">
       <div class="row g-0">
 <div class="card-img col-md-4">
-          <figure>
-
-  <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/NanoX/assets/img/hd-map-480.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/NanoX/assets/img/hd-map-800.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/NanoX/assets/img/hd-map-1400.webp"></source>
-
+ 
+  
 
 
 
