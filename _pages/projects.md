@@ -76,9 +76,9 @@ horizontal: true
         </div>
         <div class="col-md-8">
 <div class="card-body">
-            <h3 class="card-title">Polymer Metallization
+            <h3 class="card-title">Printed Electronics
 </h3>
-            <p class="card-text">Polymer metallization is a crucial technology that bridges the gap between the diverse properties of polymers and the desirable electrically conductive attributes of metals.s
+            <p class="card-text">Printed electronics is a 
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
@@ -87,5 +87,8 @@ horizontal: true
     </div>
   </a>
 </div>
-
+<div class="card-item col">
+<a href="https://semi-lab.github.io/projects/Printed_electronics/"><div class="card hoverable">
+      <div class="row g-0">
+<div class="card-img col-md-4">
 
