@@ -8,20 +8,19 @@ category: Polymer Metallization
 giscus_comments: false
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Polymer_metallization.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 <style>
 .custom-image-size {
     max-width: 70%;
 }
 </style>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Polymer_metallization.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 Polymer metallization is instrumental in the production of flexible electronics, RFID tags, and electromagnetic interference (EMI) shielding materials, allowing for lightweight and durable solutions in an ever-evolving technological landscape. It represents an essential aspect of modern materials science, surface engineering, and manufacturing, facilitating innovation in product design and performance across numerous sectors.
-<br>
 <br>
 <br>
 <b> Our current work explores:</b>
