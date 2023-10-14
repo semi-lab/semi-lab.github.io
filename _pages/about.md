@@ -9,7 +9,7 @@ subtitle:
 
 profile:
   align: right
-  image: Akin_Semihh.jpg
+  image: semilab_logo.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Rensselaer Polytechnic institute (RPI)</p>
