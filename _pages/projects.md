@@ -45,7 +45,7 @@ horizontal: true
   </a>
 </div>
 <div class="card-item col">
-<a href="_projects/2_project.md"><div class="card hoverable">
+<a href="https://semi-lab.github.io/team/"><div class="card hoverable">
       <div class="row g-0">
 <div class="card-img col-md-4">
 
