@@ -24,9 +24,7 @@ horizontal: true
           <figure>
 
   <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/ACS_cover1.jpg"></source>
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/NanoX/assets/img/hetero-ai-800.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/NanoX/assets/img/hetero-ai-1400.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/ACS_cover1.jpg"></source>   
     <!-- Fallback to the original file -->
     <img src="/assets/img/ACS_cover1.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
