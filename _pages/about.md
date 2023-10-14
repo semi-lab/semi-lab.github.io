@@ -11,8 +11,9 @@ profile:
   align: right
   image: semilab_logo.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-   
+  image_width: 300px
+  image_height: 500px
+     
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -35,7 +36,5 @@ social: true  # includes social icons at the bottom of the page
 <p class="justified-text">
   We are committed to humbly and tirelessly tackling intricate surface structures in order to seamlessly merge surface engineering and advanced manufacturing. If you wish to be a part of this endeavor, please contact Prof. Akin at <a href="mailto:sakin@purdue.edu">sakin@purdue.edu</a>. </p>  
   <p class="justified-text">
-  <i>"God made the bulk; the surface was invented by the devil."</i>
-  <br>
-  <i>-Wolfgang Pauli-</i>
+  <i>"God made the bulk; the surface was invented by the devil."</i> <i>-Wolfgang Pauli-</i>
   </p>  
