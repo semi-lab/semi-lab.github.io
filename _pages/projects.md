@@ -49,6 +49,10 @@ horizontal: true
       <div class="row g-0">
 <div class="card-img col-md-4">
 
+
+
+
+
 <!-- 2nd card (project) -->
 
 <div class="projects">
@@ -86,8 +90,5 @@ horizontal: true
     </div>
   </a>
 </div>
-<div class="card-item col">
-<a href="https://semi-lab.github.io/projects/Printed_electronics/"><div class="card hoverable">
-      <div class="row g-0">
-<div class="card-img col-md-4">
+
 
