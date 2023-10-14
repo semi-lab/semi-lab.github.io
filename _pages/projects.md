@@ -54,14 +54,14 @@ horizontal: true
 
 <div class="projects">
   <!-- Display categorized projects -->
-  <h2 class="category">Printed Electronics</h2>
+  <h2 class="category">Polymer Metallization</h2>
   <!-- Generate cards for each project -->
   <div class="container">
     <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
     <!-- <div class="row row-cols-2"> -->
     <div class="row row-cols-1">
 <div class="card-item col">
-<a href="https://semi-lab.github.io/projects/Printed_electronics/"><div class="card hoverable">
+<a href="https://semi-lab.github.io/projects/Polymer_metallization/"><div class="card hoverable">
       <div class="row g-0">
 <div class="card-img col-md-4">
           <figure>
@@ -76,9 +76,9 @@ horizontal: true
         </div>
         <div class="col-md-8">
 <div class="card-body">
-            <h3 class="card-title">Printed Electronics
+            <h3 class="card-title">Polymer Metallization
 </h3>
-            <p class="card-text">Printed electronics is a 
+            <p class="card-text">Polymer metallization is a crucial technology that bridges the gap between the diverse properties of polymers and the desirable electrically conductive attributes of metals.s
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
@@ -88,7 +88,6 @@ horizontal: true
   </a>
 </div>
 <div class="card-item col">
-<a href="https://semi-lab.github.io/projects/Printed_electronics/"><div class="card hoverable">
+<a href="https://semi-lab.github.io/projects/Polymer_metallization/"><div class="card hoverable">
       <div class="row g-0">
 <div class="card-img col-md-4">
-
