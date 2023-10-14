@@ -35,7 +35,7 @@ horizontal: true
 <div class="card-body">
             <h3 class="card-title">Polymer Metallization
 </h3>
-            <p class="card-text">Polymer metallization is a crucial technology that bridges the gap between the diverse properties of polymers and the desirable electrically conductive attributes of metals.
+            <p class="card-text">Polymer metallization is a crucial technology that bridges the gap between the diverse properties of polymers and the desirable electrically conductive attributes of metals.s
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
@@ -45,17 +45,9 @@ horizontal: true
   </a>
 </div>
 <div class="card-item col">
-<a href="_projects\2_project.md"><div class="card hoverable">
+<a href="_projects/2_project.md"><div class="card hoverable">
       <div class="row g-0">
 <div class="card-img col-md-4">
- 
-  
-
-
-
-
-
-
 
 
 
