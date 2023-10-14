@@ -12,7 +12,7 @@ profile:
   image: semilab_logo.jpg
   image_circular: false # crops the image to make it circular
   image_width: 300px
-  image_height: 500px
+  image_height: 700px
      
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
