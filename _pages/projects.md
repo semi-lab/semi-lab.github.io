@@ -150,7 +150,7 @@ horizontal: true
         <div class="col-md-8">
 <div class="card-body">
             <h3 class="card-title">Energy Devices and Smart Sensors</h3>
-            <p class="card-text">Energy devices are central to today's techonology, underpinning efficiency and sustainability. Meanwhile, smart sensors act as the sensory network of our connected world, gathering and analyzing real-time data in diverse domains. 
+            <p class="card-text">Energy devices are central to today's technology, underpinning efficiency and sustainability. Meanwhile, smart sensors act as the sensory network of our connected world, gathering and analyzing real-time data in diverse domains.
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
