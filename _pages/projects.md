@@ -113,7 +113,7 @@ horizontal: true
 <div class="card-body">
             <h3 class="card-title">Printed Flexible Electronics
 </h3>
-            <p class="card-text">Printed flexible electronics are central in driving technological progress and revolutionizing industries. Their flexibility unlocks novel applications in healthcare, consumer electronics, and beyond, with wearable devices and conformable sensors.
+            <p class="card-text">Printed flexible electronics are central in driving technological progress and revolutionizing industries. Their flexibility unlocks novel applications in healthcare, consumer electronics, and beyond.
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
