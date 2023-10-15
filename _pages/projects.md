@@ -48,7 +48,7 @@ horizontal: true
 <a href="https://semi-lab.github.io/projects/Polymer_metallization/"><div class="card hoverable">
       <div class="row g-0">
 <div class="card-img col-md-4">
-
+</figure>
 
 <!-- 2nd card (project) -->
 
