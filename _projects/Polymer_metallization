@@ -10,7 +10,7 @@ giscus_comments: false
 
 <style>
 .custom-image-size {
-    max-width: 70%;
+    max-width: 100%;
 }
 </style>
 
