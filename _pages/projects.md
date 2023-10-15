@@ -23,7 +23,7 @@ horizontal: true
 <div class="card-img col-md-4">
           <figure>
   <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 400px)" srcset="/assets/img/spraymodeling.jpg">
+    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling.jpg">
     <!-- Fallback to the original file -->
     <img src="/assets/img/spraymodeling.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
@@ -33,7 +33,7 @@ horizontal: true
         </div>
         <div class="col-md-8">
 <div class="card-body">
-            <h3 class="card-title">Spray-based Additive Manufacturing</h3>
+            <h3 class="card-title">Spray-based Manufacturing</h3>
             <p class="card-text">
 Spray-based additive manufacturing holds significant importance in the world of advanced manufacturing and product development. This innovative technique allows for the creation of complex, customized components with high precision and efficiency.
 </p>
