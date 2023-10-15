@@ -9,7 +9,7 @@ display_categories: [Polymer Metallization, Printed  Electronics, Energy Devices
 horizontal: true
 ---
 <div class="projects">
-  <h2 class="category">Polymer Metallization</h2>
+  <h2 class="category"><b>Polymer Metallization</b></h2>
   <!-- Generate cards for each project -->
   <div class="container">
     <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
@@ -49,7 +49,7 @@ horizontal: true
 
 <div class="projects">
   <!-- Display categorized projects -->
-  <h2 class="category">Printed Electronics</h2>
+  <h2 class="category"> <b>Printed Electronics</b></h2>
   <!-- Generate cards for each project -->
   <div class="container">
     <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
@@ -86,7 +86,7 @@ horizontal: true
 <!-- 3rd card (project) -->
 
 <div class="projects">
-  <h2 class="category">Energy Devices and Smart Sensors</h2>
+  <h2 class="category"><b>Energy Devices and Smart Sensors </b></h2>
   <!-- Generate cards for each project -->
   <div class="container">
     <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
