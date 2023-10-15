@@ -23,7 +23,7 @@ horizontal: true
 <div class="card-img col-md-4">
           <figure>
   <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling.jpg">
+    <source class="responsive-img-srcset" media="(max-width: 400px)" srcset="/assets/img/spraymodeling.jpg">
     <!-- Fallback to the original file -->
     <img src="/assets/img/spraymodeling.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
