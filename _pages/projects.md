@@ -8,8 +8,7 @@ nav_order: 2
 display_categories: [Polymer Metallization, Printed  Electronics, Energy Devices, Spray Modeling]
 horizontal: true
 ---
-
-
+<div class="projects">
   <h2 class="category">Polymer Metallization</h2>
   <!-- Generate cards for each project -->
   <div class="container">
@@ -23,7 +22,7 @@ horizontal: true
           <figure>
 
   <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/ACS_cover1.jpg"></source>
+    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/ACS_cover1.jpg">
     <!-- Fallback to the original file -->
     <img src="/assets/img/ACS_cover1.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
