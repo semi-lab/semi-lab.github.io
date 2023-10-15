@@ -51,10 +51,13 @@ horizontal: true
 
 
 <!-- 2nd card (project) -->
-
 <div class="projects">
+  <!-- Display categorized projects -->
   <h2 class="category">Polymer Metallization</h2>
+  <!-- Generate cards for each project -->
   <div class="container">
+    <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
+    <!-- <div class="row row-cols-2"> -->
     <div class="row row-cols-1">
       <div class="card-item col">
         <a href="https://semi-lab.github.io/projects/Polymer_metallization/">
@@ -63,7 +66,9 @@ horizontal: true
               <div class="card-img col-md-4">
                 <figure>
                   <picture>
+                    <!-- Add source element for responsive images -->
                     <source media="(max-width: 600px)" srcset="/assets/img/ACS_cover1.jpg">
+                    <!-- Fallback to the original file -->
                     <img src="/assets/img/ACS_cover1.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; this.remove();">
                   </picture>
                 </figure>
@@ -86,7 +91,9 @@ horizontal: true
               <div class="card-img col-md-4">
                 <figure>
                   <picture>
+                    <!-- Add source element for responsive images -->
                     <source media="(max-width: 600px)" srcset="/assets/img/ACS_cover1.jpg">
+                    <!-- Fallback to the original file -->
                     <img src="/assets/img/ACS_cover1.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; this.remove();">
                   </picture>
                 </figure>
