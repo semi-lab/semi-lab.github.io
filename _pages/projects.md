@@ -114,7 +114,7 @@ Spray-based additive manufacturing holds significant importance in the world of 
 <div class="card-body">
             <h3 class="card-title">Printed Flexible Electronics
 </h3>
-            <p class="card-text">Printed flexible electronics are crucial for advancing technology and transforming industries in various ways. The flexibility allows for the development of wearable electronics, flexible displays, and sensors that can conform to irregular surfaces, opening up new possibilities in healthcare, consumer electronics, and beyond.
+            <p class="card-text">Printed flexible electronics are pivotal in driving technological progress and revolutionizing industries. Their flexibility enables wearable electronics, adaptable displays, and sensors that can conform to irregular surfaces, unlocking new frontiers in healthcare, consumer electronics, and more.
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
@@ -151,7 +151,7 @@ Spray-based additive manufacturing holds significant importance in the world of 
         <div class="col-md-8">
 <div class="card-body">
             <h3 class="card-title">Energy Devices and Smart Sensors</h3>
-            <p class="card-text">Energy devices are at the heart of the modern technological landscape, playing a pivotal role in ensuring efficiency, sustainability, and conveniences. Meanwhile, smart sensors are the eyes and ears of our interconnected world, enabling real-time data collection and analysis in diverse fields, from healthcare and transportation to industrial automation and environmental monitoring. 
+            <p class="card-text">Energy devices are central to today's techonology, underpinning efficiency and sustainability. Meanwhile, smart sensors act as the sensory network of our connected world, gathering and analyzing real-time data in diverse domains, from healthcare and transport to industry and the environment. 
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
