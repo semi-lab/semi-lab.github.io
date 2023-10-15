@@ -9,7 +9,7 @@ nav_order:
 <!-- _pages/conference.md -->
 ## 2023 ##
 
-<p>10. JT. Tsai, <u>S. Akin</u>, DF. Bahr, MBG. Jun, “, “A predictive modeling for cold spray deposition and the resulting microstructure toward additive manufacturing using polymeric templates”, <i> International Thin Films Conference (TACT-2023)</i>, 2023.</p> 
+<p>10. JT. Tsai, <u>S. Akin</u>, DF. Bahr, MBG. Jun, “A predictive modeling for cold spray deposition and the resulting microstructure toward additive manufacturing using polymeric templates”, <i> International Thin Films Conference (TACT-2023)</i>, 2023.</p> 
 
 <p>9. <u>S. Akin</u>,  MBG. Jun, “Additively manufactured counter electrodes for dye-sensitized solar cells”, <i>World
 Congress on Micro and Nano Manufacturing (WCMNM)</i>, 2023. </p> 
