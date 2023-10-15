@@ -20,7 +20,6 @@ horizontal: true
       <div class="row g-0">
 <div class="card-img col-md-4">
           <figure>
-
   <picture>    
     <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/ACS_cover1.jpg">
     <!-- Fallback to the original file -->
@@ -48,10 +47,9 @@ horizontal: true
 
 <!-- 2nd card (project) -->
 
-
 <div class="projects">
   <!-- Display categorized projects -->
-  <h2 class="category">Polymer Metallization</h2>
+  <h2 class="category">Printed Electronics</h2>
   <!-- Generate cards for each project -->
   <div class="container">
     <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
@@ -72,9 +70,9 @@ horizontal: true
         </div>
         <div class="col-md-8">
 <div class="card-body">
-            <h3 class="card-title">Polymer Metallization
+            <h3 class="card-title">Printed Flexible Electronics
 </h3>
-            <p class="card-text">Polymer metallization is a crucial technology that bridges the gap between the diverse properties of polymers and the desirable electrically conductive attributes of metals.
+            <p class="card-text">Printed flexible electronics ...
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
@@ -83,13 +81,80 @@ horizontal: true
     </div>
   </a>
 </div>
+
+
+<!-- 3rd card (project) -->
+
+<div class="projects">
+  <h2 class="category">Energy Devices and Smart Sensors</h2>
+  <!-- Generate cards for each project -->
+  <div class="container">
+    <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
+    <!-- <div class="row row-cols-2"> -->
+    <div class="row row-cols-1">
 <div class="card-item col">
 <a href="https://semi-lab.github.io/projects/Polymer_metallization/"><div class="card hoverable">
       <div class="row g-0">
 <div class="card-img col-md-4">
+          <figure>
+  <picture>    
+    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/ACS_cover1.jpg">
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/ACS_cover1.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
+  </picture>
 
+</figure>
+        </div>
+        <div class="col-md-8">
+<div class="card-body">
+            <h3 class="card-title">Energy Devices and Smart Sensors</h3>
+            <p class="card-text">Energy devices ...
+</p>
+            <div class="row ml-1 mr-1 p-0"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+    </div>
+  </div>
 
+<!-- 4th card (project) -->
 
+<div class="projects">
+  <h2 class="category">Spray Modeling</h2>
+  <!-- Generate cards for each project -->
+  <div class="container">
+    <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
+    <!-- <div class="row row-cols-2"> -->
+    <div class="row row-cols-1">
+<div class="card-item col">
+<a href="https://semi-lab.github.io/projects/Polymer_metallization/"><div class="card hoverable">
+      <div class="row g-0">
+<div class="card-img col-md-4">
+          <figure>
+  <picture>    
+    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/ACS_cover1.jpg">
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/ACS_cover1.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
+  </picture>
 
+</figure>
+        </div>
+        <div class="col-md-8">
+<div class="card-body">
+            <h3 class="card-title">Spray Modeling</h3>
+            <p class="card-text">Spray modeling ...
+</p>
+            <div class="row ml-1 mr-1 p-0"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+    </div>
+  </div>
