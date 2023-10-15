@@ -34,8 +34,7 @@ horizontal: true
         <div class="col-md-8">
 <div class="card-body">
             <h3 class="card-title">Spray-based Manufacturing</h3>
-            <p class="card-text">
-Spray-based additive manufacturing holds significant importance in the world of advanced manufacturing and product development. This innovative technique allows for the creation of complex, customized components with high precision and efficiency.
+            <p class="card-text"> Spray-based additive manufacturing is pivotal in advanced manufacturing and product design, enabling precise, efficient creation of complex customized components.
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
@@ -114,7 +113,7 @@ Spray-based additive manufacturing holds significant importance in the world of 
 <div class="card-body">
             <h3 class="card-title">Printed Flexible Electronics
 </h3>
-            <p class="card-text">Printed flexible electronics are pivotal in driving technological progress and revolutionizing industries. Their flexibility unlocks novel applications in healthcare, consumer electronics, and beyond, with wearable devices and conformable sensors.
+            <p class="card-text">Printed flexible electronics are central in driving technological progress and revolutionizing industries. Their flexibility unlocks novel applications in healthcare, consumer electronics, and beyond, with wearable devices and conformable sensors.
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
