@@ -62,9 +62,9 @@ horizontal: true
           <figure>
    <picture>
     <!-- Add source element for responsive images -->
-    <source media="(max-width: 600px)" srcset="/assets/img/ACS_cover1.jpg">
+    <source media="(max-width: 600px)" srcset="/assets/img/printedelectronics.jpg">
     <!-- Fallback to the original file -->
-    <img src="/assets/img/ACS_cover1.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; this.remove();">
+    <img src="/assets/img/printedelectronics.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; this.remove();">
   </picture>
 </figure>
         </div>
@@ -72,7 +72,7 @@ horizontal: true
 <div class="card-body">
             <h3 class="card-title">Printed Flexible Electronics
 </h3>
-            <p class="card-text">Printed flexible electronics ...
+            <p class="card-text">Printed flexible ...electronics ...
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
