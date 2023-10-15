@@ -8,6 +8,48 @@ nav_order: 2
 display_categories: [Polymer Metallization, Printed  Electronics, Energy Devices, Spray Modeling]
 horizontal: true
 ---
+<!-- 4th card (project) -->
+
+<div class="projects">
+  <h2 class="category">Spray-based Additive Manufacturing</h2>
+  <!-- Generate cards for each project -->
+  <div class="container">
+    <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
+    <!-- <div class="row row-cols-2"> -->
+    <div class="row row-cols-1">
+<div class="card-item col">
+<a href="https://semi-lab.github.io/projects/Polymer_metallization/"><div class="card hoverable">
+      <div class="row g-0">
+<div class="card-img col-md-4">
+          <figure>
+  <picture>    
+    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling.jpg">
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/spraymodeling.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+        </div>
+        <div class="col-md-8">
+<div class="card-body">
+            <h3 class="card-title">Spray-based Additive Manufacturing</h3>
+            <p class="card-text">
+Spray-based additive manufacturing holds significant importance in the world of advanced manufacturing and product development. This innovative technique allows for the creation of complex, customized components with high precision and efficiency.
+</p>
+            <div class="row ml-1 mr-1 p-0"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+    </div>
+  </div>
+
+
+<!-- 2nd card (project) -->
+
 <div class="projects">
   <h2 class="category"><b>Polymer Metallization</b></h2>
   <!-- Generate cards for each project -->
@@ -45,7 +87,7 @@ horizontal: true
   </div>
 
 
-<!-- 2nd card (project) -->
+<!-- 3th card (project) -->
 
 <div class="projects">
   <!-- Display categorized projects -->
@@ -72,7 +114,7 @@ horizontal: true
 <div class="card-body">
             <h3 class="card-title">Printed Flexible Electronics
 </h3>
-            <p class="card-text">Printed flexible ...electronics ...
+            <p class="card-text">Printed flexible electronics are crucial for advancing technology and transforming industries in various ways. The flexibility allows for the development of wearable electronics, flexible displays, and sensors that can conform to irregular surfaces, opening up new possibilities in healthcare, consumer electronics, and beyond.
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
@@ -83,7 +125,7 @@ horizontal: true
 </div>
 
 
-<!-- 3rd card (project) -->
+<!-- 4th card (project) -->
 
 <div class="projects">
   <h2 class="category"><b>Energy Devices and Smart Sensors </b></h2>
@@ -109,7 +151,7 @@ horizontal: true
         <div class="col-md-8">
 <div class="card-body">
             <h3 class="card-title">Energy Devices and Smart Sensors</h3>
-            <p class="card-text">Energy devices ...
+            <p class="card-text">Energy devices are at the heart of the modern technological landscape, playing a pivotal role in ensuring efficiency, sustainability, and conveniences. Meanwhile, smart sensors are the eyes and ears of our interconnected world, enabling real-time data collection and analysis in diverse fields, from healthcare and transportation to industrial automation and environmental monitoring. 
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
@@ -121,40 +163,3 @@ horizontal: true
     </div>
   </div>
 
-<!-- 4th card (project) -->
-
-<div class="projects">
-  <h2 class="category">Spray Modeling</h2>
-  <!-- Generate cards for each project -->
-  <div class="container">
-    <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
-    <!-- <div class="row row-cols-2"> -->
-    <div class="row row-cols-1">
-<div class="card-item col">
-<a href="https://semi-lab.github.io/projects/Polymer_metallization/"><div class="card hoverable">
-      <div class="row g-0">
-<div class="card-img col-md-4">
-          <figure>
-  <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling.jpg">
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/spraymodeling.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
-  </picture>
-
-</figure>
-        </div>
-        <div class="col-md-8">
-<div class="card-body">
-            <h3 class="card-title">Spray Modeling</h3>
-            <p class="card-text">Spray modeling ...
-</p>
-            <div class="row ml-1 mr-1 p-0"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </a>
-</div>
-    </div>
-  </div>
