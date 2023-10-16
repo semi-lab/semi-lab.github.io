@@ -10,16 +10,18 @@ giscus_comments: false
 
 <style>
 .custom-image-size {
-    max-width: 100%;
+    max-width: 80%; /* You can adjust the maximum width here */
+    border: 2px solid #333; /* Add a border around the image */
+    border-radius: 10px; /* Rounded corners for the image */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
 }
 </style>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Polymer_metallization.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Polymer_metallization.jpg" class="img-fluid custom-image-size" %}
     </div>
 </div>
-
 Polymer metallization is instrumental in the production of flexible electronics, RFID tags, and electromagnetic interference (EMI) shielding materials, allowing for lightweight and durable solutions in an ever-evolving technological landscape. It represents an essential aspect of modern materials science, surface engineering, and manufacturing, facilitating innovation in product design and performance across numerous sectors.
 <br>
 <br>
