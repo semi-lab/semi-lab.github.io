@@ -51,31 +51,16 @@ horizontal: true
           <figure>
   <picture>    
     <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling.jpg">
-</div>
-  </picture>
-</figure>
-        </div>
-        <div class="col-md-8">
-<div class="card-body">
     <!-- Fallback to the original file -->
     <img src="/assets/img/spraymodeling.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
-  </picture>
-</p>
-<a href="https://semi-lab.github.io/projects/Polymer_metallization/"><div class="card hoverable">
-      <div class="row g-0">
-<div class="card-img col-md-4">
-          <figure>
-  <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/ACS_cover1.jpg">
- 
   </picture>
 </figure>
         </div>
         <div class="col-md-8">
 <div class="card-body">
-            <h3 class="card-title">Aerosol Printing</h3>
-            <p class="card-text">Aerosol Printing is ...
+            <h3 class="card-title">Aerosol Printing
+</h3>
+            <p class="card-text">Aerosol printing is ...
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
@@ -84,17 +69,6 @@ horizontal: true
     </div>
   </a>
 </div>
-<div class="card-item col">
-            <div class="row ml-1 mr-1 p-0"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </a>
-</div>
-    </div>
-  </div>
-
 
 <!-- 2nd card (project) -->
 
