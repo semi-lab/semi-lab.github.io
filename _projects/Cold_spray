@@ -1,0 +1,36 @@
+---
+layout: page
+title: Cold Spray Additive Manufacturing
+description: Cold spray additive manufacturing (CSAM) is a revolutionary technology with significant importance in the realm of advanced manufacturing. Unlike traditional additive manufacturing methods, such as 3D printing, cold spray relies on supersonic gas jets to deposit metal or composite particles at high velocities, creating dense and high-quality parts without the need for melting or extensive post-processing.   
+img: /assets/img/coldsprayAM.jpg
+importance: 2
+category: Cold Spray Additive Manufacturing
+giscus_comments: false
+---
+
+<style>
+.custom-image-size {
+    max-width: 80%;
+    display: block; /* Make the image a block-level element for centering */
+    margin: 0 auto; /* Center the image horizontally */
+}
+</style>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center"> <!-- Added 'text-center' class to center the column content -->
+        {% include figure.html path="assets/img/coldsprayAM.jpg" class="img-fluid custom-image-size rounded z-depth-1" %}
+    </div>
+</div>
+
+CSAM offers unique advantages, including the ability to work with a wide range of materials, reduced thermal stress, and improved material properties. It plays a crucial role in aerospace, automotive, and other industries, enabling the production of complex, high-performance components with enhanced durability and reduced material waste. The importance of cold spray additive manufacturing lies in its potential to transform industries by enabling cost-effective, rapid, and precise fabrication of critical components while opening the door to new design possibilities and applications.
+<br>
+<br>
+<b> Our current directions include:</b>
+<ul>
+<li> <b> Multifield modeling framework for polymer metallization. </b> </li>
+<li> <b> Explorations of novel surface structures, design and development of multifunctional smart surfaces. </b> 
+<li> <b> Multi-scale additive manufacturing of smart and self-powered surfaces on polymer substrates. </b> </li>
+
+
+
+

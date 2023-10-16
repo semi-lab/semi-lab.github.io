@@ -5,7 +5,7 @@ permalink: /research/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Polymer Metallization, Printed  Electronics, Energy Devices, Spray Modeling]
+display_categories: [Spra-Based Additive Manufacturing, Polymer Metallization, Printed  Electronics, Energy Devices and Smart Sensor]
 horizontal: true
 ---
 
