@@ -35,7 +35,7 @@ horizontal: true
 <div class="card-body">
             <h3 class="card-title">Cold Spray Additive Manufacturing
 </h3>
-            <p class="card-text">Cold spray additive manufacturing (CSAM) is ...
+            <p class="card-text"> Cold spray additive manufacturing is a revolutionizing advanced manufacturing technique by using supersonic kinetic energy to deposit metal and composite powders,allowing for precise, low-heat production of complex components.
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
@@ -60,7 +60,7 @@ horizontal: true
 <div class="card-body">
             <h3 class="card-title">Aerosol Printing
 </h3>
-            <p class="card-text">Aerosol printing is a critical...
+            <p class="card-text">Aerosol printing holds significant importance in precise and high-resolution material deposition for applications like flexible electronics, sensors, and printed circuit boards. 
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
