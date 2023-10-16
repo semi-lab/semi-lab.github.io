@@ -60,7 +60,7 @@ horizontal: true
 <div class="card-body">
             <h3 class="card-title">Aerosol Printing
 </h3>
-            <p class="card-text">Aerosol printing is ...
+            <p class="card-text">Aerosol printing is a critical...
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
