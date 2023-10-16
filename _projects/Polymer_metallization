@@ -10,7 +10,7 @@ giscus_comments: false
 
 <style>
 .custom-image-size {
-    max-width: 80%; /* You can adjust the maximum width here */
+    max-width: 50%; /* You can adjust the maximum width here */
     border: 2px solid #333; /* Add a border around the image */
     border-radius: 10px; /* Rounded corners for the image */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
