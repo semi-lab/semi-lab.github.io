@@ -25,7 +25,7 @@ horizontal: true
 <div class="card-img col-md-4">
           <figure>
   <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling.jpg"></source>  
+    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling.jpg">
     <!-- Fallback to the original file -->
     <img src="/assets/img/spraymodeling.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
   </picture>
@@ -50,7 +50,24 @@ horizontal: true
 <div class="card-img col-md-4">
           <figure>
   <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling.jpg"></source>
+    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling.jpg">
+</div>
+  </picture>
+</figure>
+        </div>
+        <div class="col-md-8">
+<div class="card-body">
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/spraymodeling.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+</p>
+<a href="https://semi-lab.github.io/projects/Polymer_metallization/"><div class="card hoverable">
+      <div class="row g-0">
+<div class="card-img col-md-4">
+          <figure>
+  <picture>    
+    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/ACS_cover1.jpg">
  
   </picture>
 </figure>
@@ -68,23 +85,6 @@ horizontal: true
   </a>
 </div>
 <div class="card-item col">
-<a href="https://semi-lab.github.io/projects/Polymer_metallization/"><div class="card hoverable">
-      <div class="row g-0">
-<div class="card-img col-md-4">
-          <figure>
-  <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling.jpg"></source>  
-</div>
-  </picture>
-</figure>
-        </div>
-        <div class="col-md-8">
-<div class="card-body">
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/spraymodeling.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
-  </picture>
-</p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
         </div>
