@@ -10,14 +10,15 @@ giscus_comments: false
 
 <style>
 .custom-image-size {
-    max-width: 80%;
-    display: block; /* Make the image a block-level element for centering */
-    margin: 0 auto; /* Center the image horizontally */
+    max-height: 400px; /* Adjust the maximum height to your desired size, e.g., 300px */
+    width: auto; /* Allow the width to adjust to maintain aspect ratio */
+    display: block;
+    margin: 0 auto;
 }
 </style>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0 text-center"> <!-- Added 'text-center' class to center the column content -->
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/Polymer_metallization.jpg" class="img-fluid custom-image-size rounded z-depth-1" %}
     </div>
 </div>
