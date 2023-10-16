@@ -27,7 +27,7 @@ horizontal: true
   <picture>    
     <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/coldspray3.jpg">
     <!-- Fallback to the original file -->
-    <img src="/assets/img/spraymodeling.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/coldspray3.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
   </picture>
 </figure>
         </div>
