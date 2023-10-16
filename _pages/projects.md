@@ -8,9 +8,11 @@ nav_order: 2
 display_categories: [Polymer Metallization, Printed  Electronics, Energy Devices, Spray Modeling]
 horizontal: true
 ---
-<!-- 4th card (project) -->
+
+<!-- 1st card (project) -->
 
 <div class="projects">
+  <!-- Display categorized projects -->
   <h2 class="category">Spray-based Additive Manufacturing</h2>
   <!-- Generate cards for each project -->
   <div class="container">
@@ -23,18 +25,72 @@ horizontal: true
 <div class="card-img col-md-4">
           <figure>
   <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling.jpg">
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/spraymodeling.jpg"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/spraymodeling.jpg"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/spraymodeling.jpg"></source>
     <!-- Fallback to the original file -->
     <img src="/assets/img/spraymodeling.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
   </picture>
-
 </figure>
         </div>
         <div class="col-md-8">
 <div class="card-body">
-            <h3 class="card-title">Spray-based Manufacturing</h3>
-            <p class="card-text"> Spray-based additive manufacturing is pivotal in advanced manufacturing and product design, enabling precise, efficient creation of complex customized components.
+            <h3 class="card-title">Cold Spray Additive Manufacturing
+</h3>
+            <p class="card-text">Cold spray additive manufacturing (CSAM) is ...
+</p>
+            <div class="row ml-1 mr-1 p-0"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+<div class="card-item col">
+<a href="https://semi-lab.github.io/projects/Polymer_metallization/"><div class="card hoverable">
+      <div class="row g-0">
+<div class="card-img col-md-4">
+          <figure>
+  <picture>    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/spraymodeling.jpg"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/spraymodeling.jpg"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/spraymodeling.jpg"></source>
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/spraymodeling.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+  </picture>
+</figure>
+        </div>
+        <div class="col-md-8">
+<div class="card-body">
+            <h3 class="card-title">Aerosol Printing</h3>
+            <p class="card-text">Aerosol Printing is ...
+</p>
+            <div class="row ml-1 mr-1 p-0"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+<div class="card-item col">
+<a href="https://semi-lab.github.io/projects/Polymer_metallization/"><div class="card hoverable">
+      <div class="row g-0">
+<div class="card-img col-md-4">
+          <figure>
+  <picture>    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/spraymodeling.jpg"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/spraymodeling.jpg"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/spraymodeling.jpg"></source>
+</div>
+  </picture>
+</figure>
+        </div>
+        <div class="col-md-8">
+<div class="card-body">
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/spraymodeling.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
@@ -85,7 +141,6 @@ horizontal: true
     </div>
   </div>
 
-
 <!-- 3th card (project) -->
 
 <div class="projects">
@@ -122,7 +177,8 @@ horizontal: true
     </div>
   </a>
 </div>
-
+    </div>
+  </div>
 
 <!-- 4th card (project) -->
 
