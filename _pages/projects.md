@@ -35,7 +35,7 @@ horizontal: true
 <div class="card-body">
             <h3 class="card-title">Cold Spray Additive Manufacturing
 </h3>
-            <p class="card-text"> Cold spray additive manufacturing is a revolutionizing advanced manufacturing technique by using supersonic kinetic energy to deposit metal and composite powders,allowing for precise, low-heat production of complex components.
+            <p class="card-text"> Cold spray additive manufacturing is a revolutionizing advanced manufacturing technique by using supersonic kinetic energy to deposit functional materials.
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
