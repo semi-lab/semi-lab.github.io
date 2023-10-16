@@ -25,9 +25,7 @@ horizontal: true
 <div class="card-img col-md-4">
           <figure>
   <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/spraymodeling.jpg"></source>
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/spraymodeling.jpg"></source>
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/spraymodeling.jpg"></source>
+    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling.jpg"></source>  
     <!-- Fallback to the original file -->
     <img src="/assets/img/spraymodeling.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
   </picture>
@@ -52,11 +50,8 @@ horizontal: true
 <div class="card-img col-md-4">
           <figure>
   <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/spraymodeling.jpg"></source>
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/spraymodeling.jpg"></source>
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/spraymodeling.jpg"></source>
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/spraymodeling.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling.jpg"></source>
+ 
   </picture>
 </figure>
         </div>
@@ -78,9 +73,7 @@ horizontal: true
 <div class="card-img col-md-4">
           <figure>
   <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/spraymodeling.jpg"></source>
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/spraymodeling.jpg"></source>
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/spraymodeling.jpg"></source>
+    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling.jpg"></source>  
 </div>
   </picture>
 </figure>
