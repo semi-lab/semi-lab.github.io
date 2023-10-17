@@ -22,6 +22,12 @@ giscus_comments: false
     </div>
 </div>
 
+<style>
+    .small-text {
+      font-size: 14px; /* Adjust the size as needed */
+    }
+</style>
+
 CSAM offers unique advantages, including the ability to work with a wide range of materials, reduced thermal stress, and improved material properties. 
 It plays a crucial role in aerospace, automotive, and other industries, enabling the production of complex, high-performance components with enhanced durability and reduced material waste. 
 In the SEMI-Lab, we aim to uncover process-structure-property relationships of the CSAM process to unlock its unique potential in various industries. 
