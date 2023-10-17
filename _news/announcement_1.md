@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. Akin received the NSF Travel Grant to attend the [WCMNM-2023](https://www.wcmnm2023.northwestern.edu/). 
+Dr. Akin received the NSF Travel Award to attend the [WCMNM-2023](https://www.wcmnm2023.northwestern.edu/). 
