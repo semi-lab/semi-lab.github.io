@@ -125,9 +125,9 @@ horizontal: true
           <figure>
    <picture>
     <!-- Add source element for responsive images -->
-    <source media="(max-width: 600px)" srcset="/assets/img/printedelectronics.jpg">
+    <source media="(max-width: 600px)" srcset="/assets/img/printedelectronics.webp">
     <!-- Fallback to the original file -->
-    <img src="/assets/img/printedelectronics.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; this.remove();">
+    <img src="/assets/img/printedelectronics.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; this.remove();">
   </picture>
 </figure>
         </div>
