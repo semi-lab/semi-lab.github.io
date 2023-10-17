@@ -10,7 +10,7 @@ nav_order: 3
 ## Faculty
 
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/Akin_Semihh.jpg" width="190" height="220"/>
+    <img src="../assets/img/Akin_Semihh.webp" width="190" height="220"/>
     <div style="text-align: left; margin-left: 20px;">
         <span style="font-size: 20px;"><b>Semih Akin</b>, Ph.D. <a href="https://semi-lab.github.io/assets\pdf\Semih_Akin_CV.pdf">[CV]</a></span>
         <br>
