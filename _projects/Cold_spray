@@ -24,7 +24,7 @@ giscus_comments: false
 
 <style>
     .small-text {
-      font-size: 14px; /* Adjust the size as needed */
+      font-size: 13px; /* Adjust the size as needed */
     }
 </style>
 
