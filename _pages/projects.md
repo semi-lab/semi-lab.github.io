@@ -50,9 +50,9 @@ horizontal: true
 <div class="card-img col-md-4">
           <figure>
   <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling3.jpg">
+    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling3.webp">
     <!-- Fallback to the original file -->
-    <img src="/assets/img/spraymodeling3.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/spraymodeling3.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
   </picture>
 </figure>
         </div>
