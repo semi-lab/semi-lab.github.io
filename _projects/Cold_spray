@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cold Spray Additive Manufacturing
-description: Cold spray additive manufacturing (CSAM) is a revolutionary technology with significant importance in the realm of advanced manufacturing. Unlike traditional additive manufacturing methods, such as 3D printing, cold spray relies on supersonic gas jets to deposit metal or composite particles at high velocities, creating dense and high-quality parts without the need for melting or extensive post-processing.   
+description: Cold spray additive manufacturing (CSAM) is a revolutionary technology with significant importance in the realm of advanced manufacturing. Unlike traditional additive manufacturing methods, CSAM relies on supersonic gas jets to deposit functional particles at high velocities, creating dense and high-quality coatings without the need for melting or extensive post-processing.   
 img: /assets/img/coldsprayAM.jpg
 importance: 2
 category: Cold Spray Additive Manufacturing
