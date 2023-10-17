@@ -22,14 +22,18 @@ giscus_comments: false
     </div>
 </div>
 
-CSAM offers unique advantages, including the ability to work with a wide range of materials, reduced thermal stress, and improved material properties. It plays a crucial role in aerospace, automotive, and other industries, enabling the production of complex, high-performance components with enhanced durability and reduced material waste. The importance of cold spray additive manufacturing lies in its potential to transform industries by enabling cost-effective, rapid, and precise fabrication of critical components while opening the door to new design possibilities and applications.
+CSAM offers unique advantages, including the ability to work with a wide range of materials, reduced thermal stress, and improved material properties. 
+It plays a crucial role in aerospace, automotive, and other industries, enabling the production of complex, high-performance components with enhanced durability and reduced material waste. 
+In the SEMI-Lab, we aim to uncover process-structure-property relationships of the CSAM process to unlock its unique potential in various industries. 
+For these endeavors, we thoroughly explore CSAM, from in-flight to upon-impact characteristics of the particles, as well as microstructural characterization. Our overarching objective is to employ this emerging AM technique to create functionaal and self-powered smart surfaces for the realm of Internet of
+Things (IoT).
 <br>
 <br>
 <b> Our current directions include:</b>
 <ul>
-<li> <b> Multifield modeling framework for polymer metallization. </b> </li>
-<li> <b> Explorations of novel surface structures, design and development of multifunctional smart surfaces. </b> 
-<li> <b> Multi-scale additive manufacturing of smart and self-powered surfaces on polymer substrates. </b> </li>
+<li> <b> Multifield modeling of CSAM. </b> </li>
+<li> <b> Design and development of smart and self-powered surfaces for IoT. </b>
+<li> <b> Sustainable repairing of printed electronics </b> </li>
 
 
 
