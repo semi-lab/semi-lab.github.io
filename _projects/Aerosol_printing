@@ -1,0 +1,49 @@
+---
+layout: page
+title: Aerosol Printing
+description: Aerosol printing is a cutting-edge additive manufacturing technique that allows for the deposition of extremely fine lines and intricate patterns with micron-level accuracy. 
+Its non-contact nature means it can be used to print on delicate, heat-sensitive substrates like flexible electronics and textiles.    
+img: /assets/img/coldsprayAM.jpg
+importance: 2
+category: Aerosol Printing
+giscus_comments: false
+---
+
+<style>
+.custom-image-size {
+    max-width: 80%;
+    display: block; /* Make the image a block-level element for centering */
+    margin: 0 auto; /* Center the image horizontally */
+}
+</style>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center"> <!-- Added 'text-center' class to center the column content -->
+        {% include figure.html path="assets/img/aerosol_printing.webp" class="img-fluid custom-image-size rounded z-depth-1" %}
+    </div>
+</div>
+
+<style>
+    .small-text {
+      font-size: 12px; /* Adjust the size as needed */
+    }
+</style>
+
+CSAM offers unique advantages, enabling the production of complex, high-performance components with enhanced durability and reduced material waste.
+Its remarkable features have a profound impact on industries by revolutionizing surface manufacturing and fostering sustainable practices. 
+<br>
+We aim to uncover process-structure-property relationships of the CSAM to unlock its unique potential in various industries. 
+For these endeavors, we thoroughly investigate CSAM, from in-flight to upon-impact characteristics of the particles, as well as microstructural characterization. Our overarching objective is to explore this emerging AM technique to create functional and self-powered smart surfaces for the realm of Internet of
+Things (IoT).
+<br>
+<br>
+<b> Our current directions include:</b>
+<ul>
+<li> <b> Multifield modeling of CSAM. </b> </li>
+<li> <b> Design and development of smart and self-powered surfaces for IoT. </b>
+<li> <b> Sustainable repairing of printed electronics </b> </li>
+
+
+
+
+
