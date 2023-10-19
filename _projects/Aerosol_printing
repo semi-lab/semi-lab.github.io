@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Aerosol Printing
-description: Aerosol printing is a cutting-edge additive manufacturing technique that allows for the deposition of extremely fine lines and intricate patterns with micron-level accuracy. 
-Its non-contact nature means it can be used to print on delicate, heat-sensitive substrates like flexible electronics and textiles.    
-img: /assets/img/coldsprayAM.jpg
+description: Aerosol printing is a cutting-edge additive manufacturing technique that allows for the deposition of extremely fine lines and intricate patterns with micron-level accuracy. Its non-contact nature means it can be used to print on delicate, heat-sensitive substrates like flexible electronics and textiles.     
+img: /assets/img/aerosol_printing.webp
 importance: 2
 category: Aerosol Printing
 giscus_comments: false
