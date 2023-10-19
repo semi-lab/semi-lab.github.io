@@ -5,7 +5,7 @@ permalink: /research/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Spra-Based Additive Manufacturing, Polymer Metallization, Printed  Electronics, Energy Devices and Smart Sensor]
+display_categories: [Spray-Based Additive Manufacturing, Polymer Metallization, Printed  Electronics, Energy Devices and Smart Sensor]
 horizontal: true
 ---
 
@@ -45,7 +45,7 @@ horizontal: true
   </a>
 </div>
 <div class="card-item col">
-<a href="https://semi-lab.github.io/projects/Aerosol_printing"><div class="card hoverable">
+<a href="https://semi-lab.github.io/projects/Aerosol_printing/"><div class="card hoverable">
       <div class="row g-0">
 <div class="card-img col-md-4">
           <figure>
