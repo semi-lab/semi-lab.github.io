@@ -7,15 +7,15 @@ nav: true
 nav_order: 7
 ---
 
-  Our group is dedicated to pushing the limits of knowledge, and creating innovative solutions in the forefront areas of surface engineering and multi-scale additive manufacturing. 
+Our group is dedicated to pushing the limits of knowledge and innovative solutions in the forefront areas of surface engineering and multi-scale additive manufacturing. 
   
 ## Prospective Students
 
-The SEMI-Lab is seeking for enthusiastic students at various levels of PhD, Masters, and undergraduate, who have an interest in surface engineering, additive manufacturing, printed electronics, electronic textiles, and energy devices. If interested, please send your CV to Prof. Akin at <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a>. 
+The SEMI-Lab is seeking for enthusiastic students at various levels of PhD, Masters, and undergraduate, who have an interest in surface engineering and multi-scale additive manufacturing. If interested, please send your CV to Prof. Akin at <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a>. 
 
 ## Open Ph.D. Positions
 
-We have several opening positions for Ph.D. students with the following research interests, and skills. Previous backgrounds can include (but are not limited to) mechanical engineering, materials science, and electrical engineering. If you are interested, please contact Dr. Akin at <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a>.
+We have several opening positions for Ph.D. students with the following research interests, and skills. Previous backgrounds can include (but not limited to) mechanical engineering, materials science, and electrical engineering. If you are interested, please contact Dr. Akin at <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a>.
 
 <ul>
 <li> <u> Multi-scale additive manufacturing</u>: process development, control, tool path generation, optimization of additive manufacturing processes (e.g., material extrusion, vat polymerization, cold spray, aerosol jet printing, directed energy deposition.) </li>
