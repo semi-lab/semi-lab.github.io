@@ -133,9 +133,9 @@ horizontal: true
         </div>
         <div class="col-md-8">
 <div class="card-body">
-            <h3 class="card-title">Printed Flexible Electronics
+            <h3 class="card-title">Printed Electronics
 </h3>
-            <p class="card-text">Printed flexible electronics are central in driving technological progress and revolutionizing industries. Their flexibility unlocks novel applications in healthcare, consumer electronics, and beyond.
+            <p class="card-text">Printed electronics are central in driving technological progress and revolutionizing industries. Their flexibility unlocks novel applications in healthcare, consumer electronics, and beyond.
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
