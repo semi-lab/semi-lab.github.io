@@ -13,5 +13,3 @@ nav_order: 6
 
 <li> Dr. Akin gave a seminar at the University of Illinois Chicago (UIC) on <i> "Spray-based Additive Manufacturing of Functional Smart Surfaces"</i>, October  2023. </li>
 
-<li> Fengeng helped me with SEM"</i>, Nov  2023. </li>
-
