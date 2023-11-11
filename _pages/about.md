@@ -34,7 +34,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 <p class="justified-text">
-  We are committed to humbly and tirelessly tackling intricate surface structures in order to seamlessly merge surface engineering and advanced manufacturing. If you wish to be a part of this endeavor, please contact Prof. Akin at <a href="mailto:sakin@purdue.edu">sakin@purdue.edu</a>. </p>  
+  We are committed to humbly and tirelessly tackling intricate surface structures for seamlessly merging surface engineering and advanced manufacturing. If you wish to be a part of this endeavor, please contact Prof. Akin at <a href="mailto:sakin@purdue.edu">sakin@purdue.edu</a>. </p>  
   <p class="justified-text">
   <i>"God made the bulk; the surface was invented by the devil."</i>
   <br>
