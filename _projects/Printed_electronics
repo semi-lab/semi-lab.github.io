@@ -10,13 +10,15 @@ giscus_comments: false
 
 <style>
 .custom-image-size {
-    max-width: 70%;
+    max-width: 90%;
+    display: block; /* Make the image a block-level element for centering */
+    margin: 0 auto; /* Center the image horizontally */
 }
 </style>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Polymer_metallization.jpg" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 text-center"> <!-- Added 'text-center' class to center the column content -->
+        {% include figure.html path="assets/img/printedelectronics.webp" class="img-fluid custom-image-size rounded z-depth-1" %}
     </div>
 </div>
 
@@ -25,9 +27,9 @@ Polymer metallization is instrumental in the production of flexible electronics,
 <br>
 <b> Our current work explores:</b>
 <ul>
-<li> <b> Multifield modeling framework for polymer metallization. </b> </li>
-<li> <b> Explorations of novel surface structures, design and development of multifunctional smart surfaces. </b> 
-<li> <b> Multi-scale additive manufacturing of smart and self-powered surfaces on polymer substrates. </b> </li>
+<li> <b> Multifield modeling framework for CSAM-based polymer metallization. </b> </li>
+<li> <b> Explorations of novel surface structures, design and development of multifunctional surfaces. </b> 
+<li> <b> Multi-scale additive manufacturing of smart films on polymer substrates. </b> </li>
 
 
 
