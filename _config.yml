@@ -173,10 +173,11 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+    scrollable: true 
   projects:
     output: true
     permalink: /projects/:path/
-  scrollable: true 
+
 
 announcements:
   enabled: true
