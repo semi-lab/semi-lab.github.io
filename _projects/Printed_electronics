@@ -21,15 +21,17 @@ giscus_comments: false
         {% include figure.html path="assets/img/printedelectronics2.webp" class="img-fluid custom-image-size rounded z-depth-1" %}
     </div>
 </div>
-
-Polymer metallization is instrumental in the production of flexible electronics, RFID tags, and electromagnetic interference (EMI) shielding materials, allowing for lightweight and durable solutions in an ever-evolving technological landscape. It represents an essential aspect of modern materials science, surface engineering, and manufacturing, facilitating innovation in product design and performance across numerous sectors.
+Advanced hybrid manufacturing of printed electronics represents a cutting-edge approach that combines traditional printing techniques with sophisticated additive manufacturing processes. 
+This fusion of technologies allows for the integration of complex functionalities and diverse materials into the production of electronic components. 
 <br>
 <br>
 <b> Our current work explores:</b>
 <ul>
-<li> <b> Multifield modeling framework for CSAM-based polymer metallization. </b> </li>
-<li> <b> Explorations of novel surface structures, design and development of multifunctional surfaces. </b> 
-<li> <b> Multi-scale additive manufacturing of smart films on polymer substrates. </b> </li>
+<li> <b> Fusion of additive and hybrid manufacturing processes for printed electronics </b> </li>
+<li> <b> Design and development of multifunctional conformal surfaces. </b> </li>
+<li> <b> Process development and optimization for scalability  </b> </li>
+
+
 
 
 
