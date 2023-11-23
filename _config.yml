@@ -182,6 +182,9 @@ news_scrollable: true # adds a vertical scroll bar if there are more than 3 news
 news_limit:  # leave blank to include all the news in the `_news` folder
 
 
+announcements:
+  enabled: true
+
 
 
 # -----------------------------------------------------------------------------
