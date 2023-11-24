@@ -182,10 +182,11 @@ news_scrollable: true # adds a vertical scroll bar if there are more than 3 news
 news_limit: 5 # leave blank to include all the news in the `_news` folder
 
 
-announcements:
-  enabled: true
+#announcements:
+#  enabled: true
 
-announcements_limit: 3
+
+
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
