@@ -23,9 +23,9 @@ nav_order: 6
                 </tr> 
                 <tr>
                   <!-- <th scope="row">Feb 20, 2023</th> -->
-                  <th scope="row" style="white-space: nowrap;">Feb 20, 2023</th>
+                  <th scope="row" style="white-space: nowrap;">Oct 26, 2023</th>
                   <td>
-                    Prof. Li was invited to attend the TSMC University FinFET Workshop at ISSCC 2023.
+                    Dr. Akin gave a seminar at the University of Illinois Chicago (UIC) on <i> "Spray-based Additive Manufacturing of Functional Smart Surfaces"
  
 </td>
                 </tr> 
@@ -46,8 +46,8 @@ nav_order: 6
           
 </tr> 
               </table>
-            </div> 
-          </div>
+            
+      
 
 
 
