@@ -26,14 +26,13 @@ nav_order: 6
 <tr>
         <th scope="row" style="white-space: nowrap;">Aug 21, 2023</th>
         <td>
-            Dr. Akin received the NSF Travel Award to attend the [WCMNM-2023](https://www.wcmnm2023.northwestern.edu/). 
-
- 
+            Dr. Akin received the NSF Travel Award to attend the <a href="https://www.rpi.edu/">https://www.wcmnm2023.northwestern.edu</a>.         
+           
 <tr>
         <th scope="row" style="white-space: nowrap;">May 20, 2023</th>
         <td>
-            Dr. Akin received the Early Career Travel Award by the NSF to attend [NAMRC/MSEC 2023](https://msec-namrc2023.rutgers.edu/).&#x1F44D;
-
+            Dr. Akin received the Early Career Travel Award by the NSF to attend <a href="https://msec-namrc2023.rutgers.edu/">NAMRC/MSEC 202</a>.&#x1F44D;         
+    
 <tr>
         <th scope="row" style="white-space: nowrap;">May 20, 2023</th>
         <td>
@@ -42,13 +41,16 @@ nav_order: 6
 <tr>
         <th scope="row" style="white-space: nowrap;">March 21, 2023</th>
         <td>
-        Dr. Akin received the [Outstanding Graduate Student Research Award](https://engineering.purdue.edu/Engr/People/Awards/Graduate/ptRecipientListing?group_id=237384&show_sub_groups=1) by the CoE at Purdue University.&#x1F44D;
+        Dr. Akin received the <a href="https://engineering.purdue.edu/Engr/People/Awards/Graduate/ptRecipientListing?group_id=237384&show_sub_groups=1">Outstanding Graduate Student Research Award</a> by the CoE at Purdue University.&#x1F44D;        
+   
 <tr>
         <th scope="row" style="white-space: nowrap;">Dec 23, 2022</th>
         <td>
-        Dr. Akin was selected as one of winners of the [Italin Packaging Technology Awards](https://machinesitalia.org/italian-technology-awards).&#x1F44D;        
+        Dr. Akin was selected as one of winners of the <a href="https://machinesitalia.org/italian-technology-awards">Italin Packaging Technology Awards</a>.&#x1F44D;  
+        
+     
 
-              </table>
+        
             
       
 
