@@ -15,7 +15,7 @@ The SEMI Lab is seeking for enthusiastic students at various levels of PhD, Mast
 
 ## Open Ph.D. Positions
 
-We have several opening positions for Ph.D. students with the following research interests, and skills. Previous backgrounds can include (but not limited to) mechanical engineering, materials science, and electrical engineering. If you are interested, please contact Dr. Akin at <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a>.
+We have several opening positions for Ph.D. students with the following research interests, and skills. Previous backgrounds can include (but not limited to) mechanical engineering, materials science, and industrial engineering. If you are interested, please contact Dr. Akin at <a href="mailto:sakine@purdue.edu">sakin@purdue.edu</a>.
 
 <ul>
 <li> <u> Multi-scale additive manufacturing</u>: process development, control, tool path generation, optimization of additive manufacturing processes (e.g., material extrusion, vat polymerization, cold spray, aerosol jet printing, directed energy deposition.) </li>
