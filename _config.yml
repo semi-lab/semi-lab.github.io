@@ -168,21 +168,43 @@ pagination:
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
+<!-- News -->
+<div class="news">
+    <h2>news</h2>
+    <div class="table-container">
+        <div class="table-responsive">
+            <table class="table table-sm table-borderless">
+                <tr>
+                    <th scope="row" style="white-space: nowrap;">Jul 12, 2023</th>
+                    <td>Prof. Li delivered an invited Lightning Talk on “Emerging hardware technologies and 3D system integration” at DAC 2023.</td>
+                </tr>
+                <!-- Add more news items as needed -->
+            </table>
+        </div>
+    </div>
+</div>
 
-news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 5 # leave blank to include all the news in the `_news` folder
+.table-container {
+    max-height: 200px; /* Set the desired height */
+    overflow-y: auto;}
 
-announcements:
-  enabled: true
+
+#collections:
+#  news:
+#    defaults:
+#      layout: post
+#    output: true
+#    permalink: /news/:path/
+#  projects:
+#    output: true
+#    permalink: /projects/:path/
+
+#news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+#news_limit: 5 # leave blank to include all the news in the `_news` folder
+
+
+#announcements:
+#  enabled: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
