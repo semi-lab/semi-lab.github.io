@@ -27,7 +27,7 @@ nav_order: 6
 <tr>
         <th scope="row" style="white-space: nowrap;">May 20, 2023</th>
         <td>
-            Dr. Akin received the Early Career Travel Award by the NSF to attend <a href="https://msec-namrc2023.rutgers.edu/">NAMRC/MSEC 202</a>.&#x1F44D;         
+            Dr. Akin received the Early Career Travel Award by the NSF to attend <a href="https://msec-namrc2023.rutgers.edu/">NAMRC/MSEC 2023</a>.&#x1F44D;         
     
 <tr>
         <th scope="row" style="white-space: nowrap;">May 20, 2023</th>
