@@ -23,12 +23,7 @@ nav_order: 6
         <td>
             Dr. Akin gave a seminar at the University of Illinois Chicago (UIC) on <i> "Spray-based Additive Manufacturing of Functional Smart Surfaces".
 
-<tr>
-        <th scope="row" style="white-space: nowrap;">Aug 21, 2023</th>
-        <td>
-            Dr. Akin received the NSF Travel Award to attend the <a href="https://www.wcmnm2023.northwestern.edu">WCMNM 2023</a>.           
-           
-           
+        
 <tr>
         <th scope="row" style="white-space: nowrap;">May 20, 2023</th>
         <td>
