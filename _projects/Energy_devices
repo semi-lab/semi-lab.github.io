@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Energy Devices and Smart Sensors
-description: Energy devices are central to today's technology. Meanwhile, smart sensors act as the sensory network of our connected world, gathering and analyzing real-time data in diverse domains.
+description: Energy devices, through the utilization of renewable energy sources, are indispensable for powering a myriad of applications, spanning from everyday gadgets to cutting-edge technologies. Moreover, self-powered sensors facilitate the development of smart and autonomous systems, thereby improving efficiency and functionality across various industries.
 img: /assets/img/ACS_cover1.jpg
 importance: 2
 category: Energy Devices and Smart Sensors
@@ -21,8 +21,7 @@ giscus_comments: false
         {% include figure.html path="assets/img/printedelectronics2.webp" class="img-fluid custom-image-size rounded z-depth-1" %}
     </div>
 </div>
-Advanced hybrid manufacturing of printed electronics represents a cutting-edge approach that combines traditional printing techniques with sophisticated additive manufacturing processes. 
-This integrated technologies enables complex functionalities and diverse materials into the production of electronic components. 
+As the world continues to prioritize energy efficiency and environmental responsibility, the significance of energy devices and self-powered sensors becomes increasingly apparent in shaping a more sustainable and interconnected future. In SEMI Lab, we 
 <br>
 <br>
 <b> Our current research directions:</b>
