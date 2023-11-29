@@ -22,7 +22,7 @@ nav_order: 3
         <br>
         Erik Jonsson Engineering Center, Troy, NY 12180
         <br>
-        E-mail: <a href="mailto:sakin@purdue.edu">sakin@purdue.edu</a>
+        E-mail: <a href="mailto:akins@rpi.edu">akins@purdue.rpi</a>
     </div>
 </div>
 <br>
