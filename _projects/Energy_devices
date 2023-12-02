@@ -21,7 +21,7 @@ giscus_comments: false
         {% include figure.html path="assets/img/Energy_devices.webp" class="img-fluid custom-image-size rounded z-depth-1" %}
     </div>
 </div>
-In SEMI Lab, we are dedicated to developing durable and reliable functional surface structures for emerging renewable energy harvesting devices. Our focus extends to various technologies, including but not limited to triboelectric nanogenerators (TENG) and dye-sensitized solar cells (DSSCs). We strive to contribute to the evolution of these technologies, ensuring their resilience and effectiveness in meeting the growing demand for sustainable energy solutions.
+In SEMI Lab, we are dedicated to developing durable and reliable functional surface structures for emerging renewable energy harvesting devices. Our focus extends to various technologies, including but not limited to triboelectric nanogenerators (TENG) and dye-sensitized solar cells (DSSCs). We aim to contribute to these technologies, improving their resilience and effectiveness.
 <br>
 <br>
 <b> Our current research directions:</b>
