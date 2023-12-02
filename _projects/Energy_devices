@@ -10,7 +10,7 @@ giscus_comments: false
 
 <style>
 .custom-image-size {
-    max-width: 90%;
+    max-width: 80%;
     display: block; /* Make the image a block-level element for centering */
     margin: 0 auto; /* Center the image horizontally */
 }
