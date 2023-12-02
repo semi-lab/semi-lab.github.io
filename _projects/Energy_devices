@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Energy Devices and Smart Sensors
-description: Energy devices, through the utilization of renewable energy sources, are indispensable for powering a myriad of applications, spanning from everyday gadgets to cutting-edge technologies. Moreover, self-powered sensors facilitate the development of smart and autonomous systems, thereby improving efficiency and functionality across various industries.
+description: As the world continues to prioritize energy efficiency and environmental responsibility, the significance of energy devices and self-powered sensors becomes increasingly apparent in shaping a more sustainable and interconnected future.
 img: /assets/img/Energy_devices.webp
 importance: 2
 category: Energy Devices and Smart Sensors
@@ -21,8 +21,7 @@ giscus_comments: false
         {% include figure.html path="assets/img/Energy_devices.webp" class="img-fluid custom-image-size rounded z-depth-1" %}
     </div>
 </div>
-As the world continues to prioritize energy efficiency and environmental responsibility, the significance of energy devices and self-powered sensors becomes increasingly apparent in shaping a more sustainable and interconnected future. 
-In SEMI Lab, we are dedicated to advancing this vision by developing durable and reliable functional surface structures for emerging renewable energy harvesting devices. Our focus extends to various technologies, including but not limited to triboelectric nanogenerators (TENG) and dye-sensitized solar cells (DSSCs). We strive to contribute to the evolution of these technologies, ensuring their resilience and effectiveness in meeting the growing demand for sustainable energy solutions.
+In SEMI Lab, we are dedicated to developing durable and reliable functional surface structures for emerging renewable energy harvesting devices. Our focus extends to various technologies, including but not limited to triboelectric nanogenerators (TENG) and dye-sensitized solar cells (DSSCs). We strive to contribute to the evolution of these technologies, ensuring their resilience and effectiveness in meeting the growing demand for sustainable energy solutions.
 <br>
 <br>
 <b> Our current research directions:</b>
