@@ -13,6 +13,8 @@ nav_order:
     text-align: right;
     font-size: 1.9em;
     margin-bottom: 5px;
+    text-decoration: underline;
+
   }
 </style>
 
