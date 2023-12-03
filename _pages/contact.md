@@ -7,10 +7,6 @@ nav: true
 nav_order: 7
 ---
 
-Our group is dedicated to pushing the limits of knowledge and innovative solutions in the forefront areas of surface engineering and multi-scale additive manufacturing. 
-  
-## Prospective Students
-
 The SEMI Lab is seeking for enthusiastic students at various levels of PhD, Masters, and undergraduate, who have an interest in surface engineering and multi-scale additive manufacturing. If interested, please send your CV to Prof. Akin at <a href="mailto:akins@rpi.edu">akins@rpi.edu</a>. 
 
 ## Open Ph.D. Positions
