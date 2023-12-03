@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 ---
 
-SEMI Lab is seeking for enthusiastic students at all academic levels (PhD, MS, and BS), who have an interest in surface engineering and multi-scale additive manufacturing. If interested, please send your CV to Prof. Akin at <a href="mailto:akins@rpi.edu">akins@rpi.edu</a>. 
+SEMI Lab is seeking for enthusiastic students at all academic levels (PhD, MS, and BS) interested in surface engineering and multi-scale additive manufacturing. If interested, please send your CV to Prof. Akin at <a href="mailto:akins@rpi.edu">akins@rpi.edu</a>. 
 
 
 ## Open Ph.D. Positions
