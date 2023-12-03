@@ -13,7 +13,7 @@ horizontal: true
 
 <div class="projects">
   <!-- Display categorized projects -->
-  <h2 class="category" style="font-weight: 650; text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);">
+  <h2 class="category" style="font-weight: 500; text-shadow: 0.5px 0.5px 0.5px rgba(0, 0, 0, 0.5);">
   Spray-based Additive Manufacturing
 </h2>
    <!-- Generate cards for each project -->
@@ -77,7 +77,7 @@ horizontal: true
 <div class="projects">
 
 
-  <h2 class="category" style="font-weight: 650; text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);">
+  <h2 class="category" style="font-weight: 500; text-shadow: 0.5px 0.5px 0.5px rgba(0, 0, 0, 0.5);">
   Polymer Metallization</h2>
   <!-- Generate cards for each project -->
   <div class="container">
