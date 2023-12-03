@@ -11,7 +11,7 @@ nav_order:
 <style>
   .year {
     text-align: right;
-    font-size: 1.9em;
+    font-size: 1.8em;
     margin-bottom: 5px;
     text-decoration: underline;
 
