@@ -77,7 +77,7 @@ horizontal: true
 <div class="projects">
 
 
-  <h2 class="category" style="font-weight: 500; text-shadow: 0.5px 0.5px 0.5px rgba(0, 0, 0, 0.5);">
+  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
   Polymer Metallization</h2>
   <!-- Generate cards for each project -->
   <div class="container">
@@ -117,7 +117,7 @@ horizontal: true
 
 <div class="projects">
   <!-- Display categorized projects -->
-  <h2 class="category"> <b>Printed Electronics</b></h2>
+  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);"> <b>Printed Electronics</b></h2>
   <!-- Generate cards for each project -->
   <div class="container">
     <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
@@ -155,7 +155,7 @@ horizontal: true
 <!-- 4th card (project) -->
 
 <div class="projects">
-  <h2 class="category"><b>Energy Devices and Smart Sensors </b></h2>
+  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);"> <b>Energy Devices and Smart Sensors </b></h2>
   <!-- Generate cards for each project -->
   <div class="container">
     <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->

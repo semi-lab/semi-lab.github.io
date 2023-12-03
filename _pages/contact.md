@@ -7,14 +7,15 @@ nav: true
 nav_order: 7
 ---
 
-SEMI Lab is seeking for enthusiastic students at various levels of PhD, Masters, and undergraduate, who have an interest in surface engineering and multi-scale additive manufacturing. If interested, please send your CV to Prof. Akin at <a href="mailto:akins@rpi.edu">akins@rpi.edu</a>. 
+SEMI Lab is seeking for enthusiastic students at all academic levels (PhD, MS, and BS), who have an interest in surface engineering and multi-scale additive manufacturing. If interested, please send your CV to Prof. Akin at <a href="mailto:akins@rpi.edu">akins@rpi.edu</a>. 
+
 
 ## Open Ph.D. Positions
 
 We have several opening positions for Ph.D. students with the following research interests, and skills. Previous backgrounds can include (but not limited to) mechanical engineering, materials science, and industrial engineering. If you are interested, please contact Dr. Akin at <a href="mailto:akins@rpi.edu">akins@rpi.edu</a>.
 
 <ul>
-<li> <u> Multi-scale additive manufacturing</u>: process development, control, and optimization of additive manufacturing processes (e.g., material extrusion, cold spray, aerosol jet printing, directed energy deposition.) </li>
+<li> <u> Multi-scale additive manufacturing</u>: process development, control, and optimization of AM processes (e.g., material extrusion, cold spray, aerosol jet printing, directed energy deposition.) </li>
 
 <li> <u> 3-D printed electronics</u>: process modeling, device fabrication, mechanical design, and characterization. 
   </li>
