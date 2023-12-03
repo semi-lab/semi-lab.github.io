@@ -13,7 +13,8 @@ horizontal: true
 
 <div class="projects">
   <!-- Display categorized projects -->
-  <h2 class="category">Spray-based Additive Manufacturing</h2>
+    <h2 class="category" style="font-size: 1.5em; font-weight: bold; color: #3366cc;">Spray-Based Additive Manufacturing</h2>
+
   <!-- Generate cards for each project -->
   <div class="container">
     <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
