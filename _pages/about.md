@@ -8,7 +8,7 @@ subtitle:
 
 profile:
   align: right
-  image: semilab_logo.webp
+  image: semilab_logo.jpg
   image_circular: false # crops the image to make it circular
   image_width: 300
   image_height: 500
