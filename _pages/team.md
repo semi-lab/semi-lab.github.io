@@ -16,7 +16,7 @@ nav_order: 3
         <br>
         Assistant Professor
         <br>
-        Mechanical, Aerospace, and Nuclear Engineering (MANE)
+        Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)
         <br>
         Rensselaer Polytechnic Institute (RPI)
         <br>
