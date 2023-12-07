@@ -27,12 +27,12 @@ nav_order: 6
 <tr>
         <th scope="row" style="white-space: nowrap;">May 20, 2023</th>
         <td>
-            Dr. Akin received the Early Career Travel Award by the NSF to attend <a href="https://msec-namrc2023.rutgers.edu/">NAMRC/MSEC 2023</a>.&#x1F44D;         
+            Dr. Akin received the Early Career Travel Award by the NSF to attend <a href="https://msec-namrc2023.rutgers.edu/">NAMRC/MSEC 2023</a>.       
     
 <tr>
         <th scope="row" style="white-space: nowrap;">May 20, 2023</th>
         <td>
-           Dr. Akin was selected as one of the winners of the International Research Awards on Computer Aided Design in Mechanical Engineering.&#x1F44D;
+           Dr. Akin was selected as one of the winners of the International Research Awards on Computer Aided Design in Mechanical Engineering.
 
 <tr>
         <th scope="row" style="white-space: nowrap;">March 21, 2023</th>
@@ -42,7 +42,7 @@ nav_order: 6
 <tr>
         <th scope="row" style="white-space: nowrap;">Dec 23, 2022</th>
         <td>
-        Dr. Akin was selected as one of winners of the <a href="https://machinesitalia.org/italian-technology-awards">Italin Packaging Technology Awards</a>.&#x1F44D;  
+        Dr. Akin was selected as one of winners of the <a href="https://machinesitalia.org/italian-technology-awards">Italin Packaging Technology Awards</a>.
         
      
 
