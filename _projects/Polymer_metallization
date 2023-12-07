@@ -17,8 +17,8 @@ giscus_comments: false
 </style>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0 text-center"> <!-- Added 'text-center' class to center the column content -->
-        {% include figure.html path="assets/img/Polymer_metallization2.webp" class="img-fluid custom-image-size rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <img src="{{ '/assets/img/Polymer_metallization2.webp' | relative_url }}" class="img-fluid custom-image-size rounded z-depth-1" loading="lazy" width="your_width" height="your_height">
     </div>
 </div>
 
