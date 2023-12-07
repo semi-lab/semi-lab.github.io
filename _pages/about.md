@@ -8,7 +8,7 @@ subtitle:
 
 profile:
   align: right
-  image: Logo_rpi.webp
+  image: Logo_rpi2.jpg
   image_circular: false # crops the image to make it circular
   image_width: 400px
   image_height: 800px
