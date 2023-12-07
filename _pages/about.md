@@ -10,8 +10,8 @@ profile:
   align: right
   image: Logo_rpi2.jpg
   image_circular: false # crops the image to make it circular
-  image_width: 650px
-  image_height: 1000px
+  image_width: 
+  image_height: 
      
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
