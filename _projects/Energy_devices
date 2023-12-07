@@ -16,11 +16,13 @@ giscus_comments: false
 }
 </style>
 
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0 text-center"> <!-- Added 'text-center' class to center the column content -->
-        {% include figure.html path="assets/img/Energy_devices.webp" class="img-fluid custom-image-size rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <img src="{{ '/assets/img/Energy_devices.webp' | relative_url }}" class="img-fluid custom-image-size rounded z-depth-1" loading="lazy">
     </div>
 </div>
+
 In SEMI Lab, we are dedicated to developing durable and reliable functional surface structures for emerging renewable energy harvesting devices. Our focus extends to various technologies, including but not limited to triboelectric nanogenerators (TENG) and dye-sensitized solar cells (DSSCs). We aim to contribute to these technologies, improving their resilience and effectiveness.
 <br>
 <br>
