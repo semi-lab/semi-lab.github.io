@@ -18,9 +18,9 @@ giscus_comments: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        <img src="{{ '/assets/img/printedelectronics2.webp' | relative_url }}" class="img-fluid custom-image-size rounded z-depth-1" loading="eager">
+        <img src="{{ '/assets/img/printedelectronics2.webp' | relative_url }}" class="img-fluid custom-image-size rounded z-depth-1" loading="lazy">
     </div>
-</div
+</div>
 
 Advanced hybrid manufacturing of printed electronics represents a cutting-edge approach that combines traditional printing techniques with sophisticated additive manufacturing processes. 
 This integrated technologies enables complex functionalities and diverse materials into the production of electronic components. 

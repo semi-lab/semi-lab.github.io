@@ -4,14 +4,13 @@ title: Home
 permalink: /
 subtitle: 
   <h2>Laboratory for Surface Engineering and Manufacturing Innovation (SEMI) </h2>
-#subtitle: <a href='https://mane.rpi.edu/'>Rensselaer Polytechnic institute (RPI)</a>. Troy. NY, 12180
-# <a href='https://mane.rpi.edu/'>Rensselaer Polytechnic institute (RPI)</a>. Troy. NY, 12180
+
 
 profile:
   align: right
-  image: semilab_logo.webp
+  image: Logo_rpi.webp
   image_circular: false # crops the image to make it circular
-  image_width: 300px
+  image_width: 350px
   image_height: 700px
      
 news: true  # includes a list of news items
