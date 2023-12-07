@@ -8,10 +8,10 @@ subtitle:
 
 profile:
   align: right
-  image: Logo_rpi2.jpg
+  image: semilab_logo.webp
   image_circular: false # crops the image to make it circular
-  image_width: 
-  image_height: 
+  image_width: 300
+  image_height: 500
      
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -35,6 +35,7 @@ social: true  # includes social icons at the bottom of the page
 <p class="justified-text">
   We are committed to humbly and tirelessly tackling intricate surface structures for seamlessly merging surface engineering and advanced manufacturing. If you wish to be a part of this endeavor, please contact Prof. Akin at <a href="mailto:akins@rpi.edu">akins@rpi.edu</a>. </p>  
   <p class="justified-text">
+  
   <i>"God made the bulk; the surface was invented by the devil."</i>
   <br>
   <i>-Wolfgang Pauli-</i>
