@@ -8,10 +8,10 @@ subtitle:
 
 profile:
   align: right
-  image: semilab_logo.webp
+  image: Logo_rpi2.webp
   image_circular: false # crops the image to make it circular
-  image_width: 300
-  image_height: 500
+  image_width: 400
+  image_height: 800
      
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -36,37 +36,7 @@ social: true  # includes social icons at the bottom of the page
   We are committed to humbly and tirelessly tackling intricate surface structures for seamlessly merging surface engineering and advanced manufacturing. If you wish to be a part of this endeavor, please contact Prof. Akin at <a href="mailto:akins@rpi.edu">akins@rpi.edu</a>. </p>  
   <p class="justified-text">
   
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .container {
-      max-width: 600px; /* Adjust as needed */
-      margin: 0 auto;
-      overflow: hidden; /* Clear float */
-    }
-
-    .text {
-      float: left;
-      margin-right: 20px; /* Adjust as needed for spacing between text and image */
-      margin-bottom: 20px; /* Adjust as needed for spacing between elements */
-    }
-
-    .image {
-      float: right;
-    }
-  </style>
-</head>
-<body>
-
-<div class="container">
-  <div class="text">
-    <p>  <i>"God made the bulk; the surface was invented by the devil."</i>
+  <i>"God made the bulk; the surface was invented by the devil."</i>
   <br>
   <i>-Wolfgang Pauli-</i>
-  </p>  </p>
-  </div>
-  <img src="layerbylayer2.webp" alt="Your Image" class="image">
-</div>
-
+  </p>  
