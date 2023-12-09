@@ -47,6 +47,3 @@ nav_order: 6
                     Dr. Akin was selected as one of the winners of the <a href="https://machinesitalia.org/italian-technology-awards">Italian Packaging Technology Awards</a>.
                 </td>
             </tr>
-        </table>
-    </div>
-</div>
