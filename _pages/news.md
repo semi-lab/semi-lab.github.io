@@ -20,9 +20,7 @@ nav_order: 6
             <tr>
                 <th scope="row" style="white-space: nowrap;">Oct 26, 2023</th>
                 <td>
-                    Dr. Akin gave a seminar at the University of Illinois Chicago (UIC) on <i> "Spray-based Additive Manufacturing of Functional Smart Surfaces".
-                </td>
-            </tr>
+                    Dr. Akin gave a seminar at the University of Illinois Chicago (UIC) on <i> "Spray-based Additive Manufacturing of Functional Smart Surfaces".                
             <tr>
                 <th scope="row" style="white-space: nowrap;">May 20, 2023</th>
                 <td>
