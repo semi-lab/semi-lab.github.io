@@ -9,7 +9,7 @@ nav_order: 5
 
 <p style="font-size: 20px;">  <u>At RPI</u><br>
 
-<p style="font-size: 16px;"> ENGR 2050: Introduction to Engineering Design,     <i> Spring 2024 </p>
+<p style="font-size: 16px;"> ENGR 2050: Introduction to Engineering Design,     <i> Spring 2024 
 
 
 <p style="font-size: 20px;">  <u>Before joining RPI</u><br>
