@@ -7,6 +7,11 @@ nav: true
 nav_order: 5
 ---
 
+<p style="font-size: 20px;">  <u>At RPI</u><br>
+
+<p style="font-size: 16px;"> ENGR 2050: Introduction to Engineering Design,     <i> Spring 2024 </p>
+
+
 <p style="font-size: 20px;">  <u>Before joining RPI</u><br>
 
 <p style="font-size: 16px;">ME 354 - Machine Design<br>Purdue University - School of Mechanical Engineering <br> <u>Lecturer</u> as the Ward.A. Lambert Fellow (Spring 2022 and Fall 2022) <br></p>
