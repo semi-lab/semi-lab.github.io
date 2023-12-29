@@ -14,7 +14,7 @@ nav_order: 6
             <tr>
                 <th scope="row" style="white-space: nowrap;">Jan 1, 2024</th>
                 <td>
-                    Dr. Akin will join <a href="https://www.rpi.edu/">Rensselaer Polytechnic Institute</a> as an Assistant Professor of Mechanical Engineering.  <span class="star">&#9733;</span>
+                    Dr. Akin has joined <a href="https://www.rpi.edu/">Rensselaer Polytechnic Institute</a> as an Assistant Professor of Mechanical Engineering.  <span class="star">&#9733;</span>
                 </td>
             </tr>
             <tr>
