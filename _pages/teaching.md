@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<p style="font-size: 20px;">  <u>@ Rensselaer Polytechnic Institute (RPI)</u><br>
+<p style="font-size: 20px;">  <u>At Rensselaer Polytechnic Institute (RPI)</u><br>
 
 <p style="font-size: 16px;"> <b>ENGR 2050:</b> Introduction to Engineering Design,     <i> Spring 2024 </i>
 
