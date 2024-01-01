@@ -7,12 +7,18 @@ nav: true
 nav_order: 5
 ---
 
-<p style="font-size: 20px;">  <u>At Rensselaer Polytechnic Institute (RPI)</u><br>
+<!-- <p style="font-size: 20px;">  <u>At Rensselaer Polytechnic Institute (RPI)</u><br> -->
+
+<p style="font-size: 20px;">  At Rensselaer Polytechnic Institute (RPI)<br>
+
 
 <p style="font-size: 16px;"> <b>ENGR 2050:</b> Introduction to Engineering Design,     <i> Spring 2024 </i>
 
 
-<p style="font-size: 20px;">  <u>Before joining RPI</u><br>
+<!--<p style="font-size: 20px;">  <u>Before joining RPI</u><br> -->
+
+<p style="font-size: 20px;">  Before joining RPI <br>
+
 
 <p style="font-size: 16px;"> <b>ME 354:</b> Machine Design<br> <i>Purdue University - School of Mechanical Engineering <br> <u>Lecturer</u> as the Ward.A. Lambert Fellow (Spring 2022 and Fall 2022) </i> <br></p>
 
