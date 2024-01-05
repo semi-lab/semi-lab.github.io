@@ -14,7 +14,7 @@ nav_order: 6
              <tr>
                 <th scope="row" style="white-space: nowrap;">Jan 4, 2024</th>
                 <td>
-                    Zhi Guan has joined our group as a undergraduate researcher. Welcome Zhi!  <span class="star">&#9733;</span>
+                    Zhi Cheng Guan has joined our group as a undergraduate researcher. Welcome Zhi!  <span class="star">&#9733;</span>
                 </td>
             </tr>
             <tr>
