@@ -96,7 +96,7 @@ nav_order: 3
 <div class="column" style="text-align: center;">
     <img src="../assets/img/ZhiGuan.png" alt="Photo 1">
     <div style="font-size: 20px;"><b>Zhi Guan</b></div>
-    <div style="font-size: 12px;">BS Student</div>
+    <div style="font-size: 14px;">BS Student</div>
     <div style="font-size: 12px;">Research interests:</div>
     <div style="font-size: 12px;">Additive manufacturing, Aerosol printing</div>
     <div style="font-size: 12px;">E-mail: <a href="mailto:guanz2@rpi.edu">guanz2@rpi.edu</a></div>
