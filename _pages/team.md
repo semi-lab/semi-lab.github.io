@@ -34,55 +34,8 @@ nav_order: 3
 <br> 
 
 
-
-
-
 ## MS Students
 <br>
 
 ## Undergraduate Students
 <br>
-<style>
-        body {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        .container {
-            display: flex;
-            justify-content: space-between;
-            width: 100%;
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        .column {
-            flex: 1;
-            padding: 20px;
-            box-sizing: border-box;
-        }
-
-        img {
-            width: 100%;
-            height: auto;
-            display: block;
-            max-width: 100%;
-        }
-    </style>
-
- <div class="container">
-<div class="column" style="text-align: center;">
-    <img src="../assets/img/ZhiGuan.png" alt="Photo 1">
-    <div style="font-size: 20px;"><b>Zhi Guan</b></div>
-    <div style="font-size: 14px;">BS Student</div>
-    <div style="font-size: 12px;">Research interests:</div>
-    <div style="font-size: 12px;">Additive manufacturing, Aerosol printing</div>
-    <div style="font-size: 12px;">E-mail: <a href="mailto:guanz2@rpi.edu">guanz2@rpi.edu</a></div>
-   
-</div>
-    <div class="column">
-        <img src="" alt="">
-    </div>
-    <div class="column">
-        <img src="" alt="">
-    </div>
-</div>
