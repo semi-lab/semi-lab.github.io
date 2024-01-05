@@ -48,7 +48,7 @@ nav_order: 3
         <br>
         Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)
         <br>
-        Research Interests: Additive manufacturing, aerosol printing
+        <u>Research Interests</u>: Additive manufacturing, aerosol printing
         <br>
         E-mail: <a href="mailto:guanz2@rpi.edu">guanz2@rpi.edu</a>
     </div>
