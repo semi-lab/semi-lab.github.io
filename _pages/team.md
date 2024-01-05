@@ -40,7 +40,7 @@ nav_order: 3
 ## Undergraduate Students
 <br>
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/ZhiGuan.png" width="120" height="150"/>
+    <img src="../assets/img/ZhiGuan.png" width="150" height="170"/>
     <div style="text-align: left; margin-left: 20px;">
         <span style="font-size: 20px;"><b>Zhi Guan </b></span>
         <br>
