@@ -39,3 +39,17 @@ nav_order: 3
 
 ## Undergraduate Students
 <br>
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/ZhiGuan.png" width="120" height="150"/>
+    <div style="text-align: left; margin-left: 20px;">
+        <span style="font-size: 20px;"><b>Zhi Guan </b></span>
+        <br>
+        <span style="font-size: 17px;">BS Student </span>
+        <br>
+        Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)
+        <br>
+        Research Interests: Additive manufacturing, aerosol printing
+        <br>
+        E-mail: <a href="mailto:guanz2@rpi.edu">guanz2@rpi.edu</a>
+    </div>
+</div>
