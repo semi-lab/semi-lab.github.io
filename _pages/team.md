@@ -28,31 +28,12 @@ nav_order: 3
 <br>
  Dr. Semih Akin is a tenure-track Assistant Professor of Mechanical Engineering at [Rensselaer Polytechnic Institute (RPI)](https://www.rpi.edu/). He earned his Ph.D. in Mechanical Engineering from [Purdue University](https://www.purdue.edu/) in 2022, where he also worked as a Postdoctoral Fellow before joining RPI. He is the recipient of Purdue's College of Engineering `Outstanding Graduate Student Research Award` and `Lambert Teaching Fellowship` in recognition of his contributions to both research and teaching. Dr. Akin's cross-disciplinary research focuses on surface engineering and advanced multi-scale manufacturing, with applications in 3D-printed electronics, smart films, electronic textiles, and energy devices.  
 
+
+
 ## Ph.D. Students
-<br>
+<br> 
 
 
-<!--<style>
-        .image-row {
-            display: flex; /* Use flexbox for horizontal alignment */
-            justify-content: space-between; /* Space evenly between the images */
-            align-items: center; /* Center vertically */
-        }
-
-        .image-row img {
-            max-width: 45%; /* Limit the width of each image */
-            height: auto; /* Maintain aspect ratio */
-        }
-    </style>
-</head>
-<body>
-    <div class="image-row">
-        <img src="image1.jpg" alt="Image 1">
-        <img src="image2.jpg" alt="Image 2">
-    </div>
-</body>
-</html>
--->
 
 
 
@@ -60,14 +41,13 @@ nav_order: 3
 <br>
 
 ## Undergraduate Students
-
- <style>
+<br>
+<style>
         body {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
-
         .container {
             display: flex;
             justify-content: space-between;
@@ -75,7 +55,6 @@ nav_order: 3
             max-width: 1200px;
             margin: 0 auto;
         }
-
         .column {
             flex: 1;
             padding: 20px;
@@ -89,10 +68,8 @@ nav_order: 3
             max-width: 100%;
         }
     </style>
-</head>
-<body>
 
-<div class="container">
+ <div class="container">
 <div class="column" style="text-align: center;">
     <img src="../assets/img/ZhiGuan.png" alt="Photo 1">
     <div style="font-size: 20px;"><b>Zhi Guan</b></div>
@@ -109,7 +86,3 @@ nav_order: 3
         <img src="" alt="">
     </div>
 </div>
-
-</body>
-</html>
-
