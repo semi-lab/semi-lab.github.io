@@ -42,14 +42,16 @@ nav_order: 3
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/ZhiGuan.png" width="180" height="190"/>
     <div style="text-align: left; margin-left: 20px;">
-        <span style="font-size: 20px;"><b>Zhi Guan </b></span>
+        <span style="font-size: 20px;"><b>Zhi Cheng Guan </b></span>
         <br>
         <span style="font-size: 17px;">BS Student </span>
         <br>
-        Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)
+       <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
         <br>
-        <u>Research Interests</u>: Additive manufacturing, aerosol printing
+       Research Interests: Additive manufacturing, aerosol printing
         <br>
         E-mail: <a href="mailto:guanz2@rpi.edu">guanz2@rpi.edu</a>
+        <br>
+        <a href="https://www.linkedin.com/in/zhiguan/">Linkedln</a>  
     </div>
-</div>
+    <br>
