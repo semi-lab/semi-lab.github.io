@@ -23,16 +23,30 @@ nav_order: 3
         Erik Jonsson Engineering Center, Troy, NY 12180
         <br>
         E-mail: <a href="mailto:akins@rpi.edu">akins@rpi.edu</a>
+             <br>
+        <a href="https://www.linkedin.com/in/semih-akin-4297666b/">Linkedln</a>  
     </div>
 </div>
 <br>
  Dr. Semih Akin is a tenure-track Assistant Professor of Mechanical Engineering at [Rensselaer Polytechnic Institute (RPI)](https://www.rpi.edu/). He earned his Ph.D. in Mechanical Engineering from [Purdue University](https://www.purdue.edu/) in 2022, where he also worked as a Postdoctoral Fellow before joining RPI. He is the recipient of Purdue's College of Engineering `Outstanding Graduate Student Research Award` and `Lambert Teaching Fellowship` in recognition of his contributions to both research and teaching. Dr. Akin's cross-disciplinary research focuses on surface engineering and advanced multi-scale manufacturing, with applications in 3D-printed electronics, smart films, electronic textiles, and energy devices.  
 
 
-
 ## Ph.D. Students
-<br> 
-
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/Sazidur.jpg" width="180" height="190"/>
+    <div style="text-align: left; margin-left: 20px;">
+        <span style="font-size: 20px;"><b>Sazidur Rahman Shahriar</b></span>
+        <br>
+        <span style="font-size: 17px;">PhD Student </span>
+        <br>
+    <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
+        <br>
+              E-mail: <a href="mailto:shahrs@rpi.edu">shahrs@rpi.edu</a>
+             <br>
+        <a href="https://www.linkedin.com/in/sazid1994/">Linkedln</a>  
+    </div>
+</div>
+<br>
 
 ## MS Students
 <br>
