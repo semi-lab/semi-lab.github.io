@@ -33,7 +33,7 @@ nav_order: 3
 
 ## Ph.D. Students
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/Sazidur.jpg" width="180" height="190"/>
+    <img src="../assets/img/Sazidur.jpg" width="170" height="170"/>
     <div style="text-align: left; margin-left: 20px;">
         <span style="font-size: 20px;"><b>Sazidur Rahman Shahriar</b></span>
         <br>
@@ -56,7 +56,7 @@ nav_order: 3
 ## Undergraduate Students
 
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/ZhiGuan.png" width="180" height="190"/>
+    <img src="../assets/img/ZhiGuan.png" width="170" height="170"/>
     <div style="text-align: left; margin-left: 20px;">
         <span style="font-size: 20px;"><b>Zhi Cheng Guan </b></span>
         <br>
