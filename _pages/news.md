@@ -11,6 +11,12 @@ nav_order: 6
 <div class="news">
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
+                    <tr>
+                <th scope="row" style="white-space: nowrap;">Jan 5, 2024</th>
+                <td>
+                    Sazidur Rahman Shahriar has joined our group as a Ph.D student. Welcome Sazidur!  <span class="star">&#9733;</span>
+                </td>
+            </tr>
              <tr>
                 <th scope="row" style="white-space: nowrap;">Jan 4, 2024</th>
                 <td>
