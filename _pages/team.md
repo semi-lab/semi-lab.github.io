@@ -41,6 +41,8 @@ nav_order: 3
         <br>
     <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
         <br>
+       Research Interests: Additive Manufacturing, Composite Materials
+        <br>       
               E-mail: <a href="mailto:shahrs@rpi.edu">shahrs@rpi.edu</a>
              <br>
         <a href="https://www.linkedin.com/in/sazid1994/">Linkedln</a>  
