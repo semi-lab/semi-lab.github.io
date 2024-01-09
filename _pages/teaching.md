@@ -24,9 +24,9 @@ nav_order: 5
  <u><b>Course Content:</b></u> Factor of safety, Combined Stress, Static Failure Theories, Fatigue analysis methods, Fatigue failure criteria, Shaft design, Design of keys, Limits and fits, Mechanical springs, Material properties & processing, Contact stresses, Rolling element bearings, Lubrication, Journal bearings, Mechanical gears, Thread standards, Threaded fasteners, Geometric dimensioning & tolerancing. 
  <br>
  <br>
-  <p style="font-size: 16px;"> <u>Recognitisions:</u> 
+
+<!-- <p style="font-size: 16px;"> <u>Recognitisions:</u> 
  <li>Ward A. Lambert Graduate Teaching Fellowship at Purdue University, 2022.
 </li> 
 <li>Graduate Teaching Award by Purdue University Teaching Academy, 2022.
-</li>  
-
+</li>  -->
