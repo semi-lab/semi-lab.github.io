@@ -22,20 +22,24 @@ nav_order:
   <span class="year"> 2023 </span>
 </div>
 
-<p>10. JT. Tsai, <u>S. Akin</u>, DF. Bahr, MBG. Jun, “A predictive modeling for cold spray deposition and the resulting microstructure toward additive manufacturing using polymeric templates”, <i> International Thin Films Conference (TACT-2023)</i>, 2023.</p> 
+<p>11. JT. Tsai, <u>S. Akin</u>, DF. Bahr, MBG. Jun, “A predictive modeling for cold spray deposition and the resulting microstructure toward additive manufacturing using polymeric templates”, <i> International Thin Films Conference (TACT-2023)</i>, 2023.</p> 
 
-<p>9. <u>S. Akin</u>,  MBG. Jun, “Additively manufactured counter electrodes for dye-sensitized solar cells”, <i>World
+<p>10. <u>S. Akin</u>,  MBG. Jun, “Additively manufactured counter electrodes for dye-sensitized solar cells”, <i>World
 Congress on Micro and Nano Manufacturing (WCMNM)</i>, 2023. </p> 
 
-<p>8. <u>S. Akin</u>,  Y.W. Kim, S. Xu, C. Nath, W.Wu, MBG. Jun, “Cold spray direct writing of flexible electrodes for enhanced performance triboelectric nanogenerators”, <i>North American Manufacturing Research Conference (NAMRC)</i>, 2023.  <span style="font-size: 14px;">  <a href="https://semi-lab.github.io/assets\pdf\JMP_1.pdf">[PDF]</a></span> </p> 
+<p>9. <u>S. Akin</u>,  Y.W. Kim, S. Xu, C. Nath, W.Wu, MBG. Jun, “Cold spray direct writing of flexible electrodes for enhanced performance triboelectric nanogenerators”, <i>North American Manufacturing Research Conference (NAMRC)</i>, 2023.  <span style="font-size: 14px;">  <a href="https://semi-lab.github.io/assets\pdf\JMP_1.pdf">[PDF]</a></span> </p> 
 
 <div style="text-align: right;">
   <span class="year">2022</span>
 </div>
 
-<p>7. <u>S. Akin</u>,  P. Wu, C. Nath, J. Chen, MBG. Jun, “A study on the effect of nozzle geometrical parameters on supersonic cold spraying of droplets”, <i> International Manufacturing Science and Engineering Conference (MSEC)</i>, 2022. <a href="https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2022/85802/V001T07A019/1146883">[Link],</a><span style="font-size: 14px;">  <a href="https://semi-lab.github.io/assets\pdf\MSEC1.pdf">[PDF]</a></span> </p>  
+<p>8. <u>S. Akin</u>,  P. Wu, C. Nath, J. Chen, MBG. Jun, “A study on the effect of nozzle geometrical parameters on supersonic cold spraying of droplets”, <i> International Manufacturing Science and Engineering Conference (MSEC)</i>, 2022. <a href="https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2022/85802/V001T07A019/1146883">[Link],</a><span style="font-size: 14px;">  <a href="https://semi-lab.github.io/assets\pdf\MSEC1.pdf">[PDF]</a></span> </p>  
 
-<p>6. T. Gabor, <u>S. Akin</u>, JT. Tsai, S. Jo, F. Najjar, MBG. Jun, “Numerical studies on cold spray particle deposition using a rectangular nozzle”, <i> International Manufacturing Science and Engineering Conference (MSEC)</i>, 2022. <a href="https://asmedigitalcollection.asme.org/MSEC/proceedings/MSEC2022/85802/V001T01A029/1146942">[Link],</a><span style="font-size: 14px;">  <a href="https://semi-lab.github.io/assets\pdf\MSEC_2.pdf">[PDF]</a></span></p>  
+<p>7. T. Gabor, <u>S. Akin</u>, JT. Tsai, S. Jo, F. Najjar, MBG. Jun, “Numerical studies on cold spray particle deposition using a rectangular nozzle”, <i> International Manufacturing Science and Engineering Conference (MSEC)</i>, 2022. <a href="https://asmedigitalcollection.asme.org/MSEC/proceedings/MSEC2022/85802/V001T01A029/1146942">[Link],</a><span style="font-size: 14px;">  <a href="https://semi-lab.github.io/assets\pdf\MSEC_2.pdf">[PDF]</a></span></p>  
+
+
+<p>6. T. Chang, <u>S. Akin</u>, L. Couetil, MBG. Jun, C.H. Lee, “Dual regime spray of functional nanomaterials for electronic textiles”, <i> Material Research Society (MRS)</i>, 2022. <a href="https://www.mrs.org/meetings-events/presentation/2022_mrs_spring_meeting/2022_mrs_spring_meeting-3670815">[Link]</a><span style="font-size: 14px;"> </span></p>  
+
 
 <div style="text-align: right;">
   <span class="year">2021</span>
