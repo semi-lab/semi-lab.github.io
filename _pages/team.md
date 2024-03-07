@@ -21,7 +21,7 @@ nav_order: 3
         Rensselaer Polytechnic Institute (RPI)
         <br>
         Erik Jonsson Engineering Center, Troy, NY 12180
-        <br>
+        <br>      
         E-mail: <a href="mailto:akins@rpi.edu">akins@rpi.edu</a>
              <br>
         <a href="https://www.linkedin.com/in/semih-akin-4297666b/">Linkedln</a>  
@@ -71,5 +71,12 @@ nav_order: 3
         <a href="https://www.linkedin.com/in/zhiguan/">Linkedln</a>  
     </div>
     <br>
+</div>
 
-
+<div class="home-sci">
+    <a href="#"><i class='bx bxl-github'></i></a>
+    <a href="#"><i class='bx bxl-twitter'></i></a>
+    <a href="https://www.linkedin.com/in/joseph-franciamore-0556b3293/"><i class='bx bxl-linkedin'></i></a>
+    <a href="mailto:francj4@rpi.edu"><i class='bx bx-mail-send'></i></a>
+    <a href="mailto:jfranciamore12@gmail.com"><i class='bx bxl-gmail'></i></a>
+</div>
