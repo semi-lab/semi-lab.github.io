@@ -55,22 +55,25 @@ nav_order: 3
 
 ## Undergraduate Students
 
-<div style="display: flex; align-items: center;">
-    <img src="../assets/img/ZhiGuan.png" width="170" height="170"/>
-    <div style="text-align: left; margin-left: 20px;">
-        <span style="font-size: 20px;"><b>Zhi Cheng Guan </b></span>
-        <br>
-        <span style="font-size: 17px;">BS Student </span>
-        <br>
-       <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
-        <br>
-       Research Interests: Additive manufacturing, aerosol printing
-        <br>
-        E-mail: <a href="mailto:guanz2@rpi.edu">guanz2@rpi.edu</a>
-        <br>
-        <a href="https://www.linkedin.com/in/zhiguan/">Linkedln</a>  
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+    <img src="../assets/img/ZhiGuan.png" width="170" height="170" style="margin-right: 20px;">
+    <div style="text-align: left;">
+        <span style="font-size: 20px;"><b>Zhi Cheng Guan</b></span><br>
+        <span style="font-size: 17px;">BS Student</span><br>
+        <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i><br>
+        Research Interests: Additive manufacturing, aerosol printing<br>
+        E-mail: <a href="mailto:guanz2@rpi.edu">&#128231; guanz2@rpi.edu</a><br>
     </div>
-    <br>
+</div>
+<div style="margin-top: 10px;">
+    <div style="display: inline-block; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+        <a href="https://www.linkedin.com/in/zhiguan/" style="margin-right: 10px;">
+            <i class="bx bxl-linkedin" style="font-size: 24px; color: #0077B5;"></i>
+        </a>
+        <a href="#" style="margin-right: 10px;">
+            <i class="bx bxl-twitter" style="font-size: 24px; color: #1DA1F2;"></i>
+        </a>
+    </div>
 </div>
 
 <div class="home-sci">
