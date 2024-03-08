@@ -21,10 +21,11 @@ nav_order: 3
         Rensselaer Polytechnic Institute (RPI)
         <br>
         Erik Jonsson Engineering Center, Troy, NY 12180
-        <br>      
-        E-mail: <a href="mailto:akins@rpi.edu">akins@rpi.edu</a>
-             <br>
-        <a href="https://www.linkedin.com/in/semih-akin-4297666b/">Linkedln</a>  
+        <br>    
+        &#128231;: <a href="mailto:akins@rpi.edu" style="margin-right: 10px;"> akins@rpi.edu</a>
+        <a href="https://www.linkedin.com/in/semih-akin-4297666b/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">
+        </a>    
     </div>
 </div>
 <br>
@@ -32,6 +33,7 @@ nav_order: 3
 <br>
 
 ## Ph.D. Students
+
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/Sazidur.jpg" width="170" height="170"/>
     <div style="text-align: left; margin-left: 20px;">
@@ -39,13 +41,14 @@ nav_order: 3
         <br>
         <span style="font-size: 17px;">PhD Student </span>
         <br>
-    <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
+        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
         <br>
-       Research Interests: Additive Manufacturing, Composite Materials
-        <br>       
-              E-mail: <a href="mailto:shahrs@rpi.edu">shahrs@rpi.edu</a>
-             <br>
-        <a href="https://www.linkedin.com/in/sazid1994/">Linkedln</a>  
+        Research Interests: Additive Manufacturing, Composite Materials
+        <br>
+        &#128231;: <a href="mailto:shahrs@rpi.edu" style="margin-right: 10px;"> shahrs@rpi.edu</a>
+        <a href="https://www.linkedin.com/in/sazid1994">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">
+        </a>    
     </div>
 </div>
 <br>
@@ -62,24 +65,9 @@ nav_order: 3
         <span style="font-size: 17px;">BS Student</span><br>
         <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i><br>
         Research Interests: Additive manufacturing, aerosol printing<br>
-        E-mail: <a href="mailto:guanz2@rpi.edu">&#128231; guanz2@rpi.edu</a><br>
+        &#128231;: <a href="mailto:guanz2@rpi.edu" style="margin-right: 10px;">guanz2@rpi.edu</a>
+        <a href="https://www.linkedin.com/in/zhiguan">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">
+        </a> 
     </div>
-</div>
-<div style="margin-top: 10px;">
-    <div style="display: inline-block; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-        <a href="https://www.linkedin.com/in/zhiguan/" style="margin-right: 10px;">
-            <i class="bx bxl-linkedin" style="font-size: 24px; color: #0077B5;"></i>
-        </a>
-        <a href="#" style="margin-right: 10px;">
-            <i class="bx bxl-twitter" style="font-size: 24px; color: #1DA1F2;"></i>
-        </a>
-    </div>
-</div>
-
-<div class="home-sci">
-    <a href="#"><i class='bx bxl-github'></i></a>
-    <a href="#"><i class='bx bxl-twitter'></i></a>
-    <a href="https://www.linkedin.com/in/joseph-franciamore-0556b3293/"><i class='bx bxl-linkedin'></i></a>
-    <a href="mailto:francj4@rpi.edu"><i class='bx bx-mail-send'></i></a>
-    <a href="mailto:jfranciamore12@gmail.com"><i class='bx bxl-gmail'></i></a>
 </div>
