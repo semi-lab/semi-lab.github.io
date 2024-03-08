@@ -22,7 +22,7 @@ nav_order: 3
         <br>
         Erik Jonsson Engineering Center, Troy, NY 12180
         <br>    
-        &#128231;: <a href="mailto:akins@rpi.edu" style="margin-right: 10px;"> akins@rpi.edu</a>
+        &#128231;<a href="mailto:akins@rpi.edu" style="margin-right: 10px;"> akins@rpi.edu</a>
         <a href="https://www.linkedin.com/in/semih-akin-4297666b/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">
         </a>    
@@ -45,7 +45,7 @@ nav_order: 3
         <br>
         Research Interests: Additive Manufacturing, Composite Materials
         <br>
-        &#128231;: <a href="mailto:shahrs@rpi.edu" style="margin-right: 10px;"> shahrs@rpi.edu</a>
+        &#128231;<a href="mailto:shahrs@rpi.edu" style="margin-right: 10px;"> shahrs@rpi.edu</a>
         <a href="https://www.linkedin.com/in/sazid1994">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">
         </a>    
@@ -65,7 +65,7 @@ nav_order: 3
         <span style="font-size: 17px;">BS Student</span><br>
         <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i><br>
         Research Interests: Additive manufacturing, aerosol printing<br>
-        &#128231;: <a href="mailto:guanz2@rpi.edu" style="margin-right: 10px;">guanz2@rpi.edu</a>
+        &#128231;<a href="mailto:guanz2@rpi.edu" style="margin-right: 10px;">guanz2@rpi.edu</a>
         <a href="https://www.linkedin.com/in/zhiguan">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">
         </a> 
