@@ -71,3 +71,19 @@ nav_order: 3
         </a> 
     </div>
 </div>
+<br>
+<br>
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+    <img src="../assets/img/Brandon.jpg" width="170" height="170" style="margin-right: 20px;">
+    <div style="text-align: left;">
+        <span style="font-size: 20px;"><b>Brandon Villanueva
+</b></span><br>
+        <span style="font-size: 17px;">BS Student</span><br>
+        <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i><br>
+        Research Interests: Additive manufacturing, hybrid manufacturing<br>
+        &#128231;<a href="mailto:villab@rpi.edu" style="margin-right: 10px;">villab@rpi.edu</a>
+        <a href="https://www.linkedin.com/in/brandon-villanueva-046099263/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">
+        </a> 
+    </div>
+</div>
