@@ -47,7 +47,7 @@ Congress on Micro and Nano Manufacturing (WCMNM)</i>, 2023. </p>
 
 <p>5. <u>S. Akin</u>, J.H. Kim, MBG. Jun, “Electrically conductive textiles based on decoupled atomized spray coating and electroless plating”, <i> International Symposium on Precision Engineering and Sustainable Manufacturing (PRESM).</i>, 2021. </p> 
 
-<p>4. S. Jo, <u>S. Akin</u>, MS. Park, MBG. Jun, “n integrated method for selective metallization on glass surface: Laser direct writing coupled with supersonic spray coating”, <i> World Congress on Micro and Nano-Manufacturing (WCMNM)</i>, 2021.  <a href="https://semi-lab.github.io/assets\pdf\WCMNM_2021.pdf">[PDF]</a> <span style="font-size: 17px; color: red;">-Best Paper Award-</span> </p> 
+<p>4. S. Jo, <u>S. Akin</u>, MS. Park, MBG. Jun, “An integrated method for selective metallization on glass surface: Laser direct writing coupled with supersonic spray coating”, <i> World Congress on Micro and Nano-Manufacturing (WCMNM)</i>, 2021.  <a href="https://semi-lab.github.io/assets\pdf\WCMNM_2021.pdf">[PDF]</a> <span style="font-size: 17px; color: red;">-Best Paper Award-</span> </p> 
 
 <div style="text-align: right;">
   <span class="year"> 2020 </span>
