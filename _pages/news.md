@@ -14,7 +14,7 @@ nav_order: 6
                     <tr>
                 <th scope="row" style="white-space: nowrap;">Feb, 2024</th>
                 <td>
-                    Our lab has become a part of DARPA-SENSE project to manufacture "smart metallic structures". <span class="star">&#9733;</span>
+                    Our lab has become a part of DARPA-SENSE project to develop "smart metallic structures". <span class="star">&#9733;</span>
                     <span>
                 </td>
             </tr>
