@@ -12,9 +12,10 @@ nav_order: 6
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
                     <tr>
-                <th scope="row" style="white-space: nowrap;">Jan 5, 2024</th>
+                <th scope="row" style="white-space: nowrap;">Feb, 2024</th>
                 <td>
-                    Sazidur Rahman Shahriar has joined our group as a Ph.D student. Welcome Sazidur!  <span class="star">&#9733;</span>
+                    Our lab has become a part of DARPA-SENSE project to manufacture "smart metallic structures". <span class="star">&#9733;</span>
+                    <span>
                 </td>
             </tr>
              <tr>
