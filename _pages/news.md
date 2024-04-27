@@ -7,31 +7,46 @@ nav: true
 nav_order: 6
 ---
 
-<!-- News -->          
+
+<!-- News -->
 <div class="news">
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
-                    <tr>
+            <tr>
+                <th scope="row" style="white-space: nowrap;">April, 2024</th>
+                <td>
+                    We have successfully established a "Cold Spray Additive Manufacturing Cell" at RPI <span class="star">&#9733;</span>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <img src="../assets/img/titomic_CS.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:100%; max-width:600px;">
+                </td>
+            </tr>
+            <tr>
                 <th scope="row" style="white-space: nowrap;">Feb, 2024</th>
                 <td>
                     Our lab has become a part of DARPA-SENSE project to develop "smart metallic structures". <span class="star">&#9733;</span>
-                    <span>
-                            <tr>
+                </td>
+            </tr>
+            <tr>
                 <th scope="row" style="white-space: nowrap;">Jan 4, 2024</th>
                 <td>
-                    Zhi Cheng Guan has joined our group as a undergraduate researcher. Welcome Zhi!  <span class="star">&#9733;</span>
+                    Zhi Cheng Guan has joined our group as an undergraduate researcher. Welcome Zhi!  <span class="star">&#9733;</span>
                 </td>
             </tr>
             <tr>
                 <th scope="row" style="white-space: nowrap;">Jan 1, 2024</th>
                 <td>
-                    Dr. Akin has joined <a href="https://www.rpi.edu/">Rensselaer Polytechnic Institute</a> as an Assistant Professor of Mechanical Engineering.  <span class="star">&#9733;</span>
+                    Dr. Akin has joined <a href="https://www.rpi.edu/">Rensselaer Polytechnic Institute</a> as an Assistant Professor of Mechanical Engineering. <span class="star">&#9733;</span>
                 </td>
             </tr>
             <tr>
                 <th scope="row" style="white-space: nowrap;">Oct 26, 2023</th>
                 <td>
-                    Dr. Akin gave a seminar at the University of Illinois Chicago (UIC) on <i> "Spray-based Additive Manufacturing of Functional Smart Surfaces".                
+                    Dr. Akin gave a seminar at the University of Illinois Chicago (UIC) on <i> "Spray-based Additive Manufacturing of Functional Smart Surfaces".</i>
+                </td>
+            </tr>
             <tr>
                 <th scope="row" style="white-space: nowrap;">May 20, 2023</th>
                 <td>
@@ -56,3 +71,6 @@ nav_order: 6
                     Dr. Akin was selected as one of the winners of the <a href="https://machinesitalia.org/italian-technology-awards">Italian Packaging Technology Awards</a>.
                 </td>
             </tr>
+        </table>
+    </div>
+</div>
