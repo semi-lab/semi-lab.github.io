@@ -19,8 +19,11 @@ nav_order: 6
                 </td>
             </tr>
             <tr>
-                <td colspan="2">
-                    <img src="../assets/img/titomic_CS.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:100%; max-width:600px;">
+                <td colspan="2" style="text-align: center;">
+                    <figure>
+                        <img src="../assets/img/titomic_CS.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:100%; max-width:600px;">
+                        <figcaption> <i>Cold Spray Additive Manufacturing and Rapid Deposition Cell at RPI</i></figcaption>
+                    </figure>
                 </td>
             </tr>
             <tr>
@@ -44,7 +47,7 @@ nav_order: 6
             <tr>
                 <th scope="row" style="white-space: nowrap;">Oct 26, 2023</th>
                 <td>
-                    Dr. Akin gave a seminar at the University of Illinois Chicago (UIC) on <i> "Spray-based Additive Manufacturing of Functional Smart Surfaces".</i>
+                    Dr. Akin gave a seminar at the University of Illinois Chicago (UIC) on <i>"Spray-based Additive Manufacturing of Functional Smart Surfaces".</i>
                 </td>
             </tr>
             <tr>
