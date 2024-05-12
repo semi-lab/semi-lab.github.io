@@ -60,9 +60,9 @@ horizontal: true
         </div>
         <div class="col-md-8">
 <div class="card-body">
-            <h3 class="card-title">Aerosol Printing
+            <h3 class="card-title">Aerosol Jet Printing
 </h3>
-            <p class="card-text">Aerosol printing holds significant importance in precise and high-resolution material deposition for applications like flexible electronics, sensors, and printed circuit boards. 
+            <p class="card-text">Aerosol jet printing holds significant importance in precise and high-resolution material deposition for applications like flexible electronics, sensors, and printed circuit boards. 
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
