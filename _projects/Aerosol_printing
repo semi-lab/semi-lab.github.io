@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Aerosol Printing
-description: Aerosol printing (AP) is a cutting-edge additive manufacturing technique that allows for the deposition of extremely fine lines and intricate patterns with micron-level accuracy. Its non-contact nature means it can be used to print on delicate, heat-sensitive substrates like flexible electronics and textiles.     
+description: Aerosol jet printing (AJP) is a cutting-edge additive manufacturing technique that allows for the deposition of extremely fine lines and intricate patterns with micron-level accuracy. Its non-contact nature means it can be used to print on delicate, heat-sensitive substrates like flexible electronics and textiles.     
 img: /assets/img/aerosol_printing.webp
 importance: 2
 category: Aerosol Printing
@@ -27,15 +27,15 @@ giscus_comments: false
       font-size: 12px; /* Adjust the size as needed */
     }
 </style>
-AP enables the simultaneous deposition of multiple materials, making it invaluable in the production of complex electronic components and e-textiles. 
-Its versatility, precision, and ability to work with a wide range of materials make AP a valuable technology in advanced manufacturing.
-Our goal is to comprehensively understand the process-structure-properties of AP, with the intention of harnessing its unique capabilities for surface manufacturing.<br>
+AJP enables the simultaneous deposition of multiple materials, making it invaluable in the production of complex electronic components and e-textiles. 
+Its versatility, precision, and ability to work with a wide range of materials make AJP a valuable technology in advanced manufacturing.
+Our goal is to comprehensively understand the process-structure-properties of AJP, with the intention of harnessing its unique capabilities for surface manufacturing.<br>
 <br>
 <b> Our current directions include:</b>
 <ul>
-<li> <b> Modeling of Aerosol Printing </b> </li>
+<li> <b> Modeling of Aerosol jet printing </b> </li>
 <li> <b> <i>In-situ</i> reactive nano-printing </b> </li>
-<li> <b> Supersonic aerosol printing  </b> </li>
+<li> <b> Supersonic aerosol jet printing  </b> </li>
 
 
 
