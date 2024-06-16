@@ -27,6 +27,25 @@ nav_order: 6
                 </td>
             </tr>
             <tr>
+
+<div class="news">
+    <div class="table-responsive">
+        <table class="table table-sm table-borderless">
+            <tr>
+                <th scope="row" style="white-space: nowrap;">June, 2024</th>
+                <td>
+                    Multi-axis robotic cold spraying capability has been deployed at SEMI Lab. <span class="star">&#9733;</span>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <figure>
+                        <img src="../assets/img/CS_robot.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:100%; max-width:600px;">
+                        <figcaption> <i>6-axis Programmable Robotic Cold Spray Unit</i></figcaption>
+                    </figure>
+                </td>
+            </tr>
+            <tr>
                 <th scope="row" style="white-space: nowrap;">Feb, 2024</th>
                 <td>
                     Our lab has become a part of DARPA-SENSE project to develop "smart metallic structures". <span class="star">&#9733;</span>
