@@ -6,28 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
-
-
 <!-- News -->
-<div class="news">
-    <div class="table-responsive">
-        <table class="table table-sm table-borderless">
-            <tr>
-                <th scope="row" style="white-space: nowrap;">April, 2024</th>
-                <td>
-                    We have successfully established a "Cold Spray Additive Manufacturing Cell" at RPI <span class="star">&#9733;</span>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="2" style="text-align: center;">
-                    <figure>
-                        <img src="../assets/img/titomic_CS.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:100%; max-width:600px;">
-                        <figcaption> <i>Cold Spray Additive Manufacturing and Rapid Deposition Cell at RPI</i></figcaption>
-                    </figure>
-                </td>
-            </tr>
-            <tr>
-
 <div class="news">
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
@@ -42,6 +21,24 @@ nav_order: 6
                     <figure>
                         <img src="../assets/img/CS_robot.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:100%; max-width:600px;">
                         <figcaption> <i>6-axis Programmable Robotic Cold Spray Unit</i></figcaption>
+                    </figure>
+                </td>
+            </tr>
+            <tr>
+<div class="news">
+    <div class="table-responsive">
+        <table class="table table-sm table-borderless">
+            <tr>
+                <th scope="row" style="white-space: nowrap;">April, 2024</th>
+                <td>
+                    We have successfully established a "Cold Spray Additive Manufacturing Cell" at RPI <span class="star">&#9733;</span>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <figure>
+                        <img src="../assets/img/titomic_CS.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:100%; max-width:600px;">
+                        <figcaption> <i>Cold Spray Additive Manufacturing and Rapid Deposition Cell at RPI</i></figcaption>
                     </figure>
                 </td>
             </tr>
