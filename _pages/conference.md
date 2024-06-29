@@ -19,6 +19,14 @@ nav_order:
 </style>
 
 <div style="text-align: right;">
+  <span class="year"> 2024 </span>
+</div>
+
+<p>12. J. Lee, <u>S. Akin</u>, Y.Kim, E. Kim, J. Nam, K. Song, MBG. Jun, “A stethoscope-guided interpretable deep learning framework for powder flow diagnosis in cold spray additive manufacturing”, <i> North American Manufacturing Research Conference, (NAMRC-52)</i>, 2024.</p> 
+
+
+
+<div style="text-align: right;">
   <span class="year"> 2023 </span>
 </div>
 
