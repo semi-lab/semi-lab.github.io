@@ -58,7 +58,8 @@ nav_order: 3
 
 ## Undergraduate Students
 
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
+<!-- Profile Card for Zhi Cheng Guan -->
+<!--<div style="display: flex; align-items: center; flex-wrap: wrap;">
     <img src="../assets/img/ZhiGuan.png" width="170" height="170" style="margin-right: 20px;">
     <div style="text-align: left;">
         <span style="font-size: 20px;"><b>Zhi Cheng Guan</b></span><br>
@@ -70,9 +71,8 @@ nav_order: 3
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">
         </a> 
     </div>
-</div>
-<br>
-<br>
+</div>  -->
+
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <img src="../assets/img/Brandon.jpg" width="170" height="170" style="margin-right: 20px;">
     <div style="text-align: left;">
@@ -87,3 +87,5 @@ nav_order: 3
         </a> 
     </div>
 </div>
+<br>
+<br>
