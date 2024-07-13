@@ -2,7 +2,7 @@
 layout: page
 permalink: /conference/
 title: Conference Papers
-description: Ordered by most recent.
+description: 
 nav: false
 nav_order: 
 ---
