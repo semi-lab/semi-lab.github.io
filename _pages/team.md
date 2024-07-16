@@ -90,4 +90,7 @@ nav_order: 3
 <br>
 
 ## Past Members
-Zhi Cheng Guan, <i>Undergraduate Research Student</i> (Fall 2024)
+<body>    
+        <li>Zhi Cheng Guan, <i>Undergraduate Research Student</i> (Fall 2024)</li>        
+    </ul>
+</body>
