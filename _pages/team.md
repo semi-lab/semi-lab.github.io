@@ -87,7 +87,7 @@ nav_order: 3
         </a> 
     </div>
 </div>
+<br>
 
 ## Past Members
-Zhi Cheng Guan <a href="https://www.linkedin.com/in/zhiguan">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">, <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i>
+Zhi Cheng Guan, <i>Undergraduate Research Student</i> (Fall 2024)
