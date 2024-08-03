@@ -11,6 +11,26 @@ nav_order: 6
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
             <tr>
+                <th scope="row" style="white-space: nowrap;">August, 2024</th>
+                <td>
+                    Our collaborative work has been published in the esteemed journal of <i>Nano Energy</i> <a href="https://doi.org/10.1016/j.nanoen.2024.110082">[Link]</a>. <span class="star">&#128077;</span> 
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <figure>
+                        <img src="../assets/img/graphical_abstract.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:100%; max-width:600px;">
+                        <figcaption> <i>One-step fabrication of functionalized electrodes on 3D-printed polymers for triboelectricnanogenerators and polymer electronics</i></figcaption>
+                    </figure>
+                </td>
+            </tr>
+            <tr>
+
+
+<div class="news">
+    <div class="table-responsive">
+        <table class="table table-sm table-borderless">
+            <tr>
                 <th scope="row" style="white-space: nowrap;">June, 2024</th>
                 <td>
                     Multi-axis robotic cold spraying capability has been deployed at SEMI Lab. <span class="star">&#9733;</span>
