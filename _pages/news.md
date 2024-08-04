@@ -19,7 +19,7 @@ nav_order: 6
             <tr>
                 <td colspan="2" style="text-align: center;">
                     <figure>
-                        <img src="../assets/img/graphical_abstract.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:100%; max-width:600px;">
+                        <img src="../assets/img/graphical_abstract.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:90%; max-width:600px;">
                         <figcaption> <i>One-step fabrication of functionalized electrodes on 3D-printed polymers for triboelectricnanogenerators </i></figcaption>
                     </figure>
                 </td>
