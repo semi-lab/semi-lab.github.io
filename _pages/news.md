@@ -68,13 +68,7 @@ nav_order: 6
                     Our lab has become a part of DARPA-SENSE project to develop "smart metallic structures". <span class="star">&#9733;</span>
                 </td>
             </tr>
-            <tr>
-                <th scope="row" style="white-space: nowrap;">Jan 4, 2024</th>
-                <td>
-                    Zhi Cheng Guan has joined our group as an undergraduate researcher. Welcome Zhi!  <span class="star">&#9733;</span>
-                </td>
-            </tr>
-            <tr>
+                        <tr>
                 <th scope="row" style="white-space: nowrap;">Jan 1, 2024</th>
                 <td>
                     Dr. Akin has joined <a href="https://www.rpi.edu/">Rensselaer Polytechnic Institute</a> as an Assistant Professor of Mechanical Engineering. <span class="star">&#9733;</span>
