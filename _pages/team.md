@@ -35,18 +35,18 @@ nav_order: 3
 ## Ph.D. Students
 
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/Sazidur.jpg" width="170" height="170"/>
+    <img src="../assets/img/Rahman.jpg" width="170" height="170"/>
     <div style="text-align: left; margin-left: 20px;">
-        <span style="font-size: 20px;"><b>Sazidur Rahman Shahriar</b></span>
+        <span style="font-size: 20px;"><b>Sazedur Rahman</b></span>
         <br>
         <span style="font-size: 17px;">PhD Student </span>
         <br>
         <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
         <br>
-        Research Interests: Additive Manufacturing, Composite Materials
+        Research Interests: Additive Manufacturing, Smart structures
         <br>
-        &#128231;<a href="mailto:shahrs@rpi.edu" style="margin-right: 10px;"> shahrs@rpi.edu</a>
-        <a href="https://www.linkedin.com/in/sazid1994">
+        &#128231;<a href="mailto:rahma5@rpi.edu" style="margin-right: 10px;"> rahma5@rpi.edu</a>
+        <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACWtziEBNf5khdYo15xvCk2lDuHnb_3q9ZE&keywords=sazedur%20rahman&origin=RICH_QUERY_SUGGESTION&position=2&searchId=2c86f559-b62a-45c3-a198-4d2d46c81fcd&sid=XcN&spellCorrectionEnabled=false">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">
         </a>    
     </div>
@@ -90,6 +90,9 @@ nav_order: 3
 <br>
 
 ## Past Members
-<body>    
+<body>  
+    <li>Sazidur Shahriar Rahman, <i>PhD Student</i> (Spring-Summer 2024)</li>   
         <li>Zhi Cheng Guan, <i>Undergraduate Research Student</i> (Spring 2024)</li>        
     </body>
+
+
