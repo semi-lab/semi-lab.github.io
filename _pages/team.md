@@ -91,7 +91,7 @@ nav_order: 3
 
 ## Past Members
 <body>  
-    <li>Sazidur Shahriar Rahman, <i>PhD Student</i> (Spring-Summer 2024)</li>   
+    <li>Sazidur Shahriar Rahman, <i>Ph.D. Student</i> (Spring-Summer 2024)</li>   
         <li>Zhi Cheng Guan, <i>Undergraduate Research Student</i> (Spring 2024)</li>        
     </body>
 
