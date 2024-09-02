@@ -111,7 +111,7 @@ nav_order: 3
         &#128231;<a href="mailto:liuh24@rpi.edu" style="margin-right: 10px;">liuh24@rpi.edu</a>         
     </div>
 </div>
-
+<br>
 
 ## Past Members
 <body>  
