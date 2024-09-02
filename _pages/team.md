@@ -88,6 +88,32 @@ nav_order: 3
     </div>
 </div>
 <br>
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+    <img src="../assets/img/Hongfei.png" width="170" height="170" style="margin-right: 20px;">
+    <div style="text-align: left;">
+        <span style="font-size: 20px;"><b>Hongfei Liu
+</b></span><br>
+        <span style="font-size: 17px;">BS Student</span><br>
+        <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i><br>
+        Research Interests: Aerosol jet printing<br>
+        &#128231;<a href="mailto:liuh23@rpi.edu" style="margin-right: 10px;">liuh23@rpi.edu</a>
+        </a> 
+    </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+    <img src="../assets/img/Hongru.jpg" width="170" height="170" style="margin-right: 20px;">
+    <div style="text-align: left;">
+        <span style="font-size: 20px;"><b>Hongru Liu
+</b></span><br>
+        <span style="font-size: 17px;">BS Student</span><br>
+        <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i><br>
+        Research Interests: Aerosol jet printing<br>
+        &#128231;<a href="mailto:liuh24@rpi.edu" style="margin-right: 10px;">liuh24@rpi.edu</a>
+        </a> 
+    </div>
+</div>
+
 
 ## Past Members
 <body>  
