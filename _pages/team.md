@@ -74,6 +74,37 @@ nav_order: 3
 </div>  -->
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
+    <img src="../assets/img/Alex.png" width="150" height="170" style="margin-right: 20px;">
+    <div style="text-align: left;">
+        <span style="font-size: 20px;"><b>Alex Wong
+</b></span><br>
+        <span style="font-size: 17px;">BS Student</span><br>
+        <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i><br>
+        Research Interests: Additive manufacturing, Aerosol jet printing<br>
+        &#128231;<a href="mailto:wonga9@rpi.edu" style="margin-right: 10px;">wonga9@rpi.edu</a>
+      <!--  <a href="https://www.linkedin.com/in/brandon-villanueva-046099263/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20"> 
+        </a> -->
+    </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+    <img src="../assets/img/Travis.jpg" width="150" height="170" style="margin-right: 20px;">
+    <div style="text-align: left;">
+        <span style="font-size: 20px;"><b>Travis Johnson
+</b></span><br>
+        <span style="font-size: 17px;">BS Student</span><br>
+        <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i><br>
+        Research Interests: Smarts sensors, Aerosol jet printing<br>
+        &#128231;<a href="mailto:johnst10@rpi.edu" style="margin-right: 10px;">johnst10@rpi.edu</a>  
+               <a href="https://www.linkedin.com/in/travis-johnson-1776dc/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">
+        </a>        
+    </div>
+</div>
+<br>
+
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
     <img src="../assets/img/Brandon.jpg" width="150" height="170" style="margin-right: 20px;">
     <div style="text-align: left;">
         <span style="font-size: 20px;"><b>Brandon Villanueva
@@ -109,22 +140,6 @@ nav_order: 3
         <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i><br>
         Research Interests: Aerosol jet printing<br>
         &#128231;<a href="mailto:liuh24@rpi.edu" style="margin-right: 10px;">liuh24@rpi.edu</a>         
-    </div>
-</div>
-<br>
-
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
-    <img src="../assets/img/Travis.jpg" width="150" height="170" style="margin-right: 20px;">
-    <div style="text-align: left;">
-        <span style="font-size: 20px;"><b>Travis Johnson
-</b></span><br>
-        <span style="font-size: 17px;">BS Student</span><br>
-        <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i><br>
-        Research Interests: Smarts sensors, Aerosol jet printing<br>
-        &#128231;<a href="mailto:johnst10@rpi.edu" style="margin-right: 10px;">johnst10@rpi.edu</a>  
-               <a href="https://www.linkedin.com/in/travis-johnson-1776dc/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">
-        </a>        
     </div>
 </div>
 <br>
