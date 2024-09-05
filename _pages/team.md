@@ -113,6 +113,22 @@ nav_order: 3
 </div>
 <br>
 
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+    <img src="../assets/img/Travis.jpg" width="170" height="170" style="margin-right: 20px;">
+    <div style="text-align: left;">
+        <span style="font-size: 20px;"><b>Travis Johnson
+</b></span><br>
+        <span style="font-size: 17px;">BS Student</span><br>
+        <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i><br>
+        Research Interests: Smarts sensors, Aerosol jet printing<br>
+        &#128231;<a href="mailto:johnst10@rpi.edu" style="margin-right: 10px;">johnst10@rpi.edu</a>  
+               <a href="https://www.linkedin.com/in/travis-johnson-1776dc/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">
+        </a>        
+    </div>
+</div>
+<br>
+
 ## Past Members
 <body>  
     <li>Sazidur Shahriar Rahman, <i>Ph.D. Student</i> (Spring-Summer 2024)</li>   
