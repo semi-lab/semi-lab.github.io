@@ -111,7 +111,7 @@ nav_order: 3
 </b></span><br>
         <span style="font-size: 17px;">BS Student</span><br>
         <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i><br>
-        Research Interests: Additive manufacturing, hybrid manufacturing<br>
+        Research Interests: Hybrid manufacturing<br>
         &#128231;<a href="mailto:villab@rpi.edu" style="margin-right: 10px;">villab@rpi.edu</a>
         <a href="https://www.linkedin.com/in/brandon-villanueva-046099263/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">
