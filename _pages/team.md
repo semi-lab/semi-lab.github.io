@@ -35,7 +35,7 @@ nav_order: 3
 ## Ph.D. Students
 
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/Rahman.jpg" width="170" height="170"/>
+    <img src="../assets/img/Rahman.jpg" width="150" height="170"/>
     <div style="text-align: left; margin-left: 20px;">
         <span style="font-size: 20px;"><b>Sazedur Rahman</b></span>
         <br>
@@ -74,7 +74,7 @@ nav_order: 3
 </div>  -->
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
-    <img src="../assets/img/Brandon.jpg" width="170" height="170" style="margin-right: 20px;">
+    <img src="../assets/img/Brandon.jpg" width="150" height="170" style="margin-right: 20px;">
     <div style="text-align: left;">
         <span style="font-size: 20px;"><b>Brandon Villanueva
 </b></span><br>
@@ -89,7 +89,7 @@ nav_order: 3
 </div>
 <br>
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
-    <img src="../assets/img/Hongfei.png" width="170" height="170" style="margin-right: 20px;">
+    <img src="../assets/img/Hongfei.png" width="150" height="170" style="margin-right: 20px;">
     <div style="text-align: left;">
         <span style="font-size: 20px;"><b>Hongfei Liu
 </b></span><br>
@@ -101,7 +101,7 @@ nav_order: 3
 </div>
 <br>
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
-    <img src="../assets/img/Hongru.jpg" width="170" height="170" style="margin-right: 20px;">
+    <img src="../assets/img/Hongru.jpg" width="150" height="170" style="margin-right: 20px;">
     <div style="text-align: left;">
         <span style="font-size: 20px;"><b>Hongru Liu
 </b></span><br>
@@ -114,7 +114,7 @@ nav_order: 3
 <br>
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
-    <img src="../assets/img/Travis.jpg" width="170" height="170" style="margin-right: 20px;">
+    <img src="../assets/img/Travis.jpg" width="150" height="170" style="margin-right: 20px;">
     <div style="text-align: left;">
         <span style="font-size: 20px;"><b>Travis Johnson
 </b></span><br>
