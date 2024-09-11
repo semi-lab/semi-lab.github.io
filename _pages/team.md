@@ -129,7 +129,7 @@ nav_order: 3
 </div>
 <br>
 
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
+<!-- <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <img src="../assets/img/Brandon.jpg" width="150" height="170" style="margin-right: 20px;">
     <div style="text-align: left;">
         <span style="font-size: 20px;"><b>Brandon Villanueva
@@ -143,11 +143,12 @@ nav_order: 3
         </a> 
     </div>
 </div>
-<br>
+<br> -->
 
 ## Past Members
 <body>  
-    <li>Sazidur Shahriar Rahman, <i>Ph.D. Student</i> (Spring-Summer 2024)</li>   
+    <li>Sazidur Shahriar Rahman, <i>Ph.D. Student</i> (Spring-Summer 2024)</li> 
+    <li>Brandon Villanueva, <i>Undergraduate Research Student</i> (Spring-Summer 2024)</li>  
         <li>Zhi Cheng Guan, <i>Undergraduate Research Student</i> (Spring 2024)</li>        
     </body>
 
