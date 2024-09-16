@@ -45,7 +45,7 @@ nav_order: 3
         <br>
         Research Interests: Additive Manufacturing, Smart structures
         <br>
-        &#128231;<a href="mailto:rahma5@rpi.edu" style="margin-right: 10px;"> rahma5@rpi.edu</a>
+        &#128231;<a href="mailto:rahmas5@rpi.edu" style="margin-right: 10px;"> rahmas5@rpi.edu</a>
         <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACWtziEBNf5khdYo15xvCk2lDuHnb_3q9ZE&keywords=sazedur%20rahman&origin=RICH_QUERY_SUGGESTION&position=2&searchId=2c86f559-b62a-45c3-a198-4d2d46c81fcd&sid=XcN&spellCorrectionEnabled=false">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">
         </a>    
