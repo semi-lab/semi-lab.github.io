@@ -7,6 +7,27 @@ nav: true
 nav_order: 6
 ---
 <!-- News -->
+
+<div class="news">
+    <div class="table-responsive">
+        <table class="table table-sm table-borderless">
+            <tr>
+                <th scope="row" style="white-space: nowrap;">September 24, 2024</th>
+                <td>
+                    We have succesfully submitted our DARPA <i> SENSE </i> project deliverables. <span class="star">&#128077;</span> 
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <figure>
+                        <img src="../assets/img/Darpa_dinner.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:75%; max-width:600px;">
+                        <figcaption> <i> DARPA Project Deliverable Celebration. 
+                    </figure>
+                </td>
+            </tr>
+            <tr>
+
+
 <div class="news">
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
