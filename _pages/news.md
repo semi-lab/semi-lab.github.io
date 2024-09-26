@@ -21,10 +21,7 @@ nav_order: 6
                 <td colspan="2" style="text-align: center;">
                     <figure>
                         <img src="../assets/img/Darpa_dinner.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:75%; max-width:600px;">
-                        <figcaption> <i> DARPA Project Deliverable Celebration. 
-                    </figure>
-                </td>
-            </tr>
+                        <figcaption> <i> DARPA Project Celebration.                      
             <tr>
 
 
