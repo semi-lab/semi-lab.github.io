@@ -21,7 +21,7 @@ nav_order: 6
             <tr>
                 <td colspan="2" style="text-align: center;">
                     <figure>
-                        <img src="../assets/img/DARPA_visit.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:90%; max-width:600px;">
+                        <img src="../assets/img/DARPA_visit2.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:80%; max-width:500px;">
                         <figcaption> <i>RPI DARPA-SENSE Project Team </i></figcaption>
                     </figure>
                 </td>
