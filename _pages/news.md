@@ -21,8 +21,7 @@ nav_order: 6
             <tr>
                 <td colspan="2" style="text-align: center;">
                     <figure>
-                        <img src="../assets/img/DARPA_visit2.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:80%; max-width:500px;">
-                        <figcaption> <i>RPI DARPA-SENSE Project Team </i></figcaption>
+                        <img src="../assets/img/DARPA_visit2.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:80%; max-width:500px;">                        
                     </figure>
                 </td>
             </tr>
@@ -55,8 +54,7 @@ nav_order: 6
             <tr>
                 <td colspan="2" style="text-align: center;">
                     <figure>
-                        <img src="../assets/img/graphical_abstract.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:90%; max-width:600px;">
-                        <figcaption> <i>One-step fabrication of functionalized electrodes on 3D-printed polymers for triboelectricnanogenerators </i></figcaption>
+                        <img src="../assets/img/graphical_abstract.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:90%; max-width:600px;">                       
                     </figure>
                 </td>
             </tr>
@@ -75,8 +73,7 @@ nav_order: 6
             <tr>
                 <td colspan="2" style="text-align: center;">
                     <figure>
-                        <img src="../assets/img/CS_robot.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:70%; max-width:600px;">
-                        <figcaption> <i>6-axis Programmable Robotic Cold Spray Unit</i></figcaption>
+                        <img src="../assets/img/CS_robot.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:70%; max-width:600px;">                       
                     </figure>
                 </td>
             </tr>
@@ -93,8 +90,7 @@ nav_order: 6
             <tr>
                 <td colspan="2" style="text-align: center;">
                     <figure>
-                        <img src="../assets/img/titomic_CS.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:100%; max-width:600px;">
-                        <figcaption> <i>Cold Spray Additive Manufacturing and Rapid Deposition Cell at RPI</i></figcaption>
+                        <img src="../assets/img/titomic_CS.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:100%; max-width:600px;">                        
                     </figure>
                 </td>
             </tr>
