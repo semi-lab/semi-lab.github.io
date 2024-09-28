@@ -13,20 +13,6 @@ nav_order: 6
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
             <tr>
-                <th scope="row" style="white-space: nowrap;">September 24, 2024</th>
-                <td>
-                    We have succesfully submitted our DARPA <i> SENSE </i> project deliverables. <span class="star">&#128077;</span> 
-                </td>
-            </tr>
-            <tr>
-                <td colspan="2" style="text-align: center;">
-                    <figure>
-                        <img src="../assets/img/Darpa_dinner.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:60%; max-width:400px;">
-
-<div class="news">
-    <div class="table-responsive">
-        <table class="table table-sm table-borderless">
-            <tr>
                 <th scope="row" style="white-space: nowrap;">Sep 27, 2024</th>
                 <td>
                     We hosted the DARPA <i>SENSE</i> program directors at RPI  
@@ -40,7 +26,22 @@ nav_order: 6
                     </figure>
                 </td>
             </tr>
-            <tr>                            
+            <tr>        
+
+<div class="news">
+    <div class="table-responsive">
+        <table class="table table-sm table-borderless">
+            <tr>
+                <th scope="row" style="white-space: nowrap;">September 24, 2024</th>
+                <td>
+                    We have succesfully submitted our DARPA <i> SENSE </i> project deliverables. <span class="star">&#128077;</span> 
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <figure>
+                        <img src="../assets/img/Darpa_dinner.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:60%; max-width:400px;">
+                
          
 <div class="news">
     <div class="table-responsive">
