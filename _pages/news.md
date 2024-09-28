@@ -15,7 +15,7 @@ nav_order: 6
             <tr>
                 <th scope="row" style="white-space: nowrap;">Sep 27, 2024</th>
                 <td>
-                    We hosted the DARPA <i>SENSE</i> program directors at RPI  
+                    We hosted the `DARPA SENSE` program directors at RPI.  
                 </td>
             </tr>
             <tr>
@@ -34,7 +34,7 @@ nav_order: 6
             <tr>
                 <th scope="row" style="white-space: nowrap;">September 24, 2024</th>
                 <td>
-                    We have succesfully submitted our DARPA <i> SENSE </i> project deliverables. <span class="star">&#128077;</span> 
+                    We have succesfully submitted our DARPA-SENSE project deliverables. <span class="star">&#128077;</span> 
                 </td>
             </tr>
             <tr>
