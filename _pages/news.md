@@ -8,6 +8,7 @@ nav_order: 6
 ---
 <!-- News -->
 
+
 <div class="news">
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
@@ -21,10 +22,26 @@ nav_order: 6
                 <td colspan="2" style="text-align: center;">
                     <figure>
                         <img src="../assets/img/Darpa_dinner.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:60%; max-width:400px;">
-                        <figcaption> <i> DARPA Project Celebration.                      
+
+<div class="news">
+    <div class="table-responsive">
+        <table class="table table-sm table-borderless">
             <tr>
-
-
+                <th scope="row" style="white-space: nowrap;">Sep 27, 2024</th>
+                <td>
+                    We hosted the DARPA <i>SENSE</i> program directors at RPI  
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <figure>
+                        <img src="../assets/img/DARPA_visit.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:90%; max-width:600px;">
+                        <figcaption> <i>RPI DARPA-SENSE Project Team </i></figcaption>
+                    </figure>
+                </td>
+            </tr>
+            <tr>                            
+         
 <div class="news">
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
