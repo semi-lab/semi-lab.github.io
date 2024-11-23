@@ -20,7 +20,7 @@ nav_order: 6
             <tr>
                 <td colspan="2" style="text-align: center;">
                     <figure>
-                        <img src="../assets/img/IMECE_Best paper award.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:80%; max-width:500px; height:80%; max-height:1000px;">                        
+                        <img src="../assets/img/IMECE_Best paper award.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:70%; max-width:500px; height:70%; max-height:1000px;">                        
                     </figure>
                 </td>
             </tr>
