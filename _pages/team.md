@@ -2,7 +2,7 @@
 layout: page
 permalink: /team/
 title: Team
-description: <b><i style="color:blue;">"When you come out of the storm, you won't be the same person, who walked in. That's what the storm is all about."</i></b> </p><i> Haruki Murakami </i>
+description: <i style="color:blue;">"When you come out of the storm, you won't be the same person, who walked in. (Haruki Murakami) </i>  
 nav: true
 nav_order: 3
 ---
