@@ -2,7 +2,7 @@
 layout: page
 permalink: /team/
 title: Team
-description: <i> “No one can whistle a symphony. It takes a whole orchestra to play it.” </i> - H.E. Luccock ->
+description: <i> “No one can whistle a symphony. It takes a whole orchestra to play it.” </i> - H.E. Luccock -
 nav: true
 nav_order: 3
 ---
