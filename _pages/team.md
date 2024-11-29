@@ -2,7 +2,7 @@
 layout: page
 permalink: /team/
 title: Team
-description: When you come out of the storm, you won't be the same person, who walked in. - Haruki Murakami-
+description: <i> When you come out of the storm, you won't be the same person, who walked in. </i> - Haruki Murakami-
 nav: true
 nav_order: 3
 ---
