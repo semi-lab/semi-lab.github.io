@@ -2,7 +2,7 @@
 layout: page
 permalink: /team/
 title: Team
-description: <i> When you come out of the storm, you won't be the same person who walked in. </i> - Haruki Murakami -
+description: <i> “No one can whistle a symphony. It takes <span style="color:blue; font-weight:bold;"> whole orchestra to play it</span>.” </i> - H.E. Luccock -
 nav: true
 nav_order: 3
 ---
