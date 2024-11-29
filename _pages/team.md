@@ -2,7 +2,7 @@
 layout: page
 permalink: /team/
 title: Team
-description: Group members of SEMI-Lab. -- <i style="color:blue;">"You will come out from the storm, you will not be the same person"</i> -- Haruki Murakami
+description: <b><i style="color:blue;">"When you come out of the storm, you won't be the same person, who walked in. That's what the storm is all about."</i></b> </p><i> Haruki Murakami </i>
 nav: true
 nav_order: 3
 ---
