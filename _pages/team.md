@@ -111,7 +111,7 @@ nav_order: 3
 </b></span><br>
         <span style="font-size: 17px;">BS Student</span><br>
         <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i><br>
-        Research Interests: Aerosol jet printing<br>
+        Research Interests: 3D printing, Manufacturing for space <br>
         &#128231;<a href="mailto:liuh23@rpi.edu" style="margin-right: 10px;">liuh23@rpi.edu</a>         
     </div>
 </div>
@@ -123,7 +123,7 @@ nav_order: 3
 </b></span><br>
         <span style="font-size: 17px;">BS Student</span><br>
         <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i><br>
-        Research Interests: Aerosol jet printing<br>
+        Research Interests: 3D printing, Manufacturing for space<br>
         &#128231;<a href="mailto:liuh24@rpi.edu" style="margin-right: 10px;">liuh24@rpi.edu</a>         
     </div>
 </div>
