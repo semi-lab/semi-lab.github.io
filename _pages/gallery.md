@@ -7,27 +7,38 @@ nav: true
 nav_order: 7
 ---
 
- <p style="font-size: 20px;">  <u>At Rensselaer Polytechnic Institute (RPI) </u><br> 
+ <div class="news">
+    <div class="table-responsive">
+        <table class="table table-sm table-borderless">
+            <tr>
+                <th scope="row" style="white-space: nowrap;">October, 2024</th>
+                <td>
+                    We hosted Prof. Albert Shih (U-Mich) and Prof. Jianjun Shi (G-tech) at RPI. 
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <figure>
+                        <img src="../assets/img/Alber_Shi.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:80%; max-width:500px; height:70%; max-height:1000px;">                        
+                    </figure>
+                </td>
+            </tr>
+            <tr>     
 
-
-<p style="font-size: 16px;"> <b>ENGR 2050:</b> Introduction to Engineering Design,     <i> Spring 2024 </i>
-<p style="font-size: 16px;"> <b>ENGR 2050:</b> Introduction to Engineering Design,     <i> Fall 2024 </i>
-
-
-<p style="font-size: 20px;">  <u>At Purdue University</u><br>
-
-
-
-<p style="font-size: 16px;"> <b>ME 354:</b> Machine Design, <i> Spring 2024 </i>
-
-<i>Purdue University - School of Mechanical Engineering <br> <u>Lecturer</u> as the Ward.A. Lambert Fellow (Spring 2022 and Fall 2022) </i> <br></p>
-
- <u><b>Course Content:</b></u> Factor of safety, Combined Stress, Static Failure Theories, Fatigue analysis methods, Fatigue failure criteria, Shaft design, Design of keys, Limits and fits, Mechanical springs, Material properties & processing, Contact stresses, Rolling element bearings, Lubrication, Journal bearings, Mechanical gears, Thread standards, Threaded fasteners, Geometric dimensioning & tolerancing. 
- <br>
- <br>
-
-<!-- <p style="font-size: 16px;"> <u>Recognitisions:</u> 
- <li>Ward A. Lambert Graduate Teaching Fellowship at Purdue University, 2022.
-</li> 
-<li>Graduate Teaching Award by Purdue University Teaching Academy, 2022.
-</li>  -->
+<div class="news">
+    <div class="table-responsive">
+        <table class="table table-sm table-borderless">
+            <tr>
+                <th scope="row" style="white-space: nowrap;">Sep 27, 2024</th>
+                <td>
+                    We hosted the `DARPA SENSE` program directors at RPI.  
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <figure>
+                        <img src="../assets/img/DARPA_visit2.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:80%; max-width:500px;">                        
+                    </figure>
+                </td>
+            </tr>
+            <tr>        
