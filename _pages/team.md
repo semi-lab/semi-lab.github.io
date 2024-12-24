@@ -53,6 +53,23 @@ nav_order: 3
 </div>
 <br>
 
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/Jaehun.jpg" width="150" height="170"/>
+    <div style="text-align: left; margin-left: 20px;">
+        <span style="font-size: 20px;"><b>Jaehun Jeon</b></span>
+        <br>
+        <span style="font-size: 17px;">PhD Student </span>
+        <br>
+        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
+        <br>
+        Research Interests: Laser directed deposition, Cold spray, Smart manufacturing, Energy devices
+        <br>
+        &#128231;<a href="mailto:jeonj4@rpi.edu" style="margin-right: 10px;"> jeonj4@rpi.edu</a>
+     </a>    
+    </div>
+</div>
+<br>
+
 ## MS Students
 <br>
 
@@ -85,21 +102,6 @@ nav_order: 3
       <!--  <a href="https://www.linkedin.com/in/brandon-villanueva-046099263/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20"> 
         </a> -->
-    </div>
-</div>
-<br>
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
-    <img src="../assets/img/Travis.jpg" width="150" height="170" style="margin-right: 20px;">
-    <div style="text-align: left;">
-        <span style="font-size: 20px;"><b>Travis Johnson
-</b></span><br>
-        <span style="font-size: 17px;">BS Student</span><br>
-        <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i><br>
-        Research Interests: Smarts sensors, Aerosol jet printing<br>
-        &#128231;<a href="mailto:johnst10@rpi.edu" style="margin-right: 10px;">johnst10@rpi.edu</a>  
-               <a href="https://www.linkedin.com/in/travis-johnson-1776dc/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">
-        </a>        
     </div>
 </div>
 <br>
@@ -147,6 +149,7 @@ nav_order: 3
 
 ## Past Members
 <body>  
+    <li>Travis Johnson, <i>Undergraduate Research Student</i> (Fall 2024)</li>
     <li>Sazidur Shahriar Rahman, <i>Ph.D. Student</i> (Spring-Summer 2024)</li> 
     <li>Brandon Villanueva, <i>Undergraduate Research Student</i> (Spring-Summer 2024)</li>  
         <li>Zhi Cheng Guan, <i>Undergraduate Research Student</i> (Spring 2024)</li>        
