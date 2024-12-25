@@ -62,7 +62,7 @@ nav_order: 3
         <br>
         <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
         <br>
-        Research Interests: Laser directed deposition, Cold spray, Smart manufacturing, Energy devices
+        Research Interests: Directed energy deposition, Cold spray, Smart manufacturing, Energy devices
         <br>
         &#128231;<a href="mailto:jeonj4@rpi.edu" style="margin-right: 10px;"> jeonj4@rpi.edu
      </a>    
