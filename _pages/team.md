@@ -64,7 +64,7 @@ nav_order: 3
         <br>
         Research Interests: Laser directed deposition, Cold spray, Smart manufacturing, Energy devices
         <br>
-        &#128231;<a href="mailto:jeonj4@rpi.edu" style="margin-right: 10px;"> jeonj4@rpi.edu</a>
+        &#128231;<a href="mailto:jeonj4@rpi.edu" style="margin-right: 10px;"> jeonj4@rpi.edu
      </a>    
     </div>
 </div>
