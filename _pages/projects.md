@@ -190,11 +190,8 @@ horizontal: true
     </div>
   </div>
 <br> 
- <p style="font-size: 35px;">  Research Sponsors <br> 
- </head>
-<body>
-      <div class="image-container">
-      <img src="../assets/img/sponsor.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:120%; max-width:600px; height:70%; max-height:1000px;">         
-    </div>
-
+<p style="font-size: 50px; text-align: center;">Research Sponsors</p>
+<div style="text-align: center;">
+    <img src="../assets/img/sponsor.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width: 100%; max-width: 800px; height: auto; max-height: 1000px;">
+</div>
         
