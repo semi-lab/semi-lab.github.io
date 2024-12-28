@@ -63,8 +63,7 @@ Congress on Micro and Nano Manufacturing (WCMNM)</i>, 2023. </p>
 
 <p>4. S. Jo, <u>S. Akin</u>, MS. Park, MBG. Jun, “An integrated method for selective metallization on glass surface: Laser direct writing coupled with supersonic spray coating”, <i> World Congress on Micro and Nano-Manufacturing (WCMNM)</i>, 2021.  <a href="https://semi-lab.github.io/assets\pdf\WCMNM_2021.pdf">[PDF]</a> <span style="font-size: 17px; color: red;">
     <span style="float: right; font-size: 17px; color: red; font-weight: bold;">-Best Paper Award-</span>
- </p> 
-
+ 
 <div style="text-align: right;">
   <span class="year"> 2020 </span>
 </div>
