@@ -62,7 +62,7 @@ nav_order: 3
         <br>
         <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
         <br>
-        Research Interests: Directed energy deposition, Cold spray, Energy devices, Data-driven manufacturing, Smart manufacturing, 
+        Research Interests: Directed energy deposition, Cold spray, Energy devices, Data-driven modeling, Smart manufacturing 
         <br>
         &#128231;<a href="mailto:jeonj4@rpi.edu" style="margin-right: 10px;"> jeonj4@rpi.edu
      </a>    
@@ -90,18 +90,20 @@ nav_order: 3
     </div>
 </div>  -->
 
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
-    <img src="../assets/img/Alex.png" width="150" height="170" style="margin-right: 20px;">
-    <div style="text-align: left;">
-        <span style="font-size: 20px;"><b>Alex Wong
-</b></span><br>
-        <span style="font-size: 17px;">BS Student</span><br>
-        <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i><br>
-        Research Interests: Additive manufacturing, Aerosol jet printing<br>
+
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/Alex.png" width="150" height="170"/>
+    <div style="text-align: left; margin-left: 20px;">
+        <span style="font-size: 20px;"><b>Alex Wong</b></span>
+        <br>
+        <span style="font-size: 17px;">BS Student </span>
+        <br>
+        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
+        <br>
+        Research Interests: Additive manufacturing, Aerosol jet printing, Electronic textiles 
+        <br>
         &#128231;<a href="mailto:wonga9@rpi.edu" style="margin-right: 10px;">wonga9@rpi.edu</a>
-      <!--  <a href="https://www.linkedin.com/in/brandon-villanueva-046099263/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20"> 
-        </a> -->
+     </a>    
     </div>
 </div>
 <br>
