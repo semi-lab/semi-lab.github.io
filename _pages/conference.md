@@ -22,7 +22,7 @@ nav_order:
   <span class="year"> 2024 </span>
 </div>
 
-<p>13. YW. Kim, <u>S. Akin</u>, MBG. Jun, J. Sutherland, ““Cold spray-produced functional surfaces for triboelectric nanogenerators”, <i> ASME International Mechanical Engineering Congress & Exposition, (IMECE)</i>, 2024. <b><span style="font-size: 17px; color: red;">
+<p>13. YW. Kim, <u>S. Akin</u>, MBG. Jun, J. Sutherland, ““Cold spray-produced functional surfaces for triboelectric nanogenerators”, <i> ASME International Mechanical Engineering Congress & Exposition, (IMECE)</i>, 2024. <br><b><span style="font-size: 17px; color: red;">
 -Best Paper Award-</span></b> 
 
 <p>12. J. Lee, <u>S. Akin</u>, Y.Kim, E. Kim, J. Nam, K. Song, MBG. Jun, “A stethoscope-guided interpretable deep learning framework for powder flow diagnosis in cold spray additive manufacturing”, <i> North American Manufacturing Research Conference, (NAMRC-52)</i>, 2024.</p> 
