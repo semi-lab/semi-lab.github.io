@@ -102,8 +102,7 @@ nav_order: 3
         <br>
         Research Interests: Additive manufacturing, Aerosol jet printing, Electronic textiles 
         <br>
-        &#128231;<a href="mailto:wonga9@rpi.edu" style="margin-right: 10px;">wonga9@rpi.edu</a>
-     </a>    
+        &#128231;<a href="mailto:wonga9@rpi.edu" style="margin-right: 10px;">wonga9@rpi.edu</a>       
     </div>
 </div>
 <br>
@@ -121,7 +120,6 @@ nav_order: 3
         Research Interests: 3D printing, Space resource utilization, Manufacturing for space
         <br>
        &#128231;<a href="mailto:liuh23@rpi.edu" style="margin-right: 10px;">liuh23@rpi.edu</a>         
-     </a>    
     </div>
 </div>
 <br>
@@ -139,8 +137,7 @@ nav_order: 3
         Research Interests: 3D printing, Space resource utilization, Manufacturing for space
         <br>
        &#128231;<a href="mailto:liuh24@rpi.edu" style="margin-right: 10px;">liuh24@rpi.edu</a>         
-     </a>    
-    </div>
+     </div>
 </div>
 <br>
 <!-- <div style="display: flex; align-items: center; flex-wrap: wrap;">
