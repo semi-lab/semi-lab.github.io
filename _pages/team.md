@@ -43,7 +43,7 @@ nav_order: 3
         <br>
         <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
         <br>
-        Research Interests: Additive Manufacturing, Cold spray, Smart structures, Manufacturing for space
+        Research Interests: Additive Manufacturing, Cold spray, Smart structures, Numerical modeling, Manufacturing for space
         <br>
         &#128231;<a href="mailto:rahmas5@rpi.edu" style="margin-right: 10px;"> rahmas5@rpi.edu</a>
         <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACWtziEBNf5khdYo15xvCk2lDuHnb_3q9ZE&keywords=sazedur%20rahman&origin=RICH_QUERY_SUGGESTION&position=2&searchId=2c86f559-b62a-45c3-a198-4d2d46c81fcd&sid=XcN&spellCorrectionEnabled=false">
@@ -62,7 +62,7 @@ nav_order: 3
         <br>
         <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
         <br>
-        Research Interests: Directed energy deposition, Cold spray, Energy devices, Data-driven modeling, Smart manufacturing 
+        Research Interests: Directed energy deposition, Cold spray, Energy devices, <br> Data-driven modeling, Smart manufacturing 
         <br>
         &#128231;<a href="mailto:jeonj4@rpi.edu" style="margin-right: 10px;"> jeonj4@rpi.edu
      </a>    
