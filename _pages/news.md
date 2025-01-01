@@ -8,7 +8,15 @@ nav_order: 6
 ---
 <!-- News -->
 
-         
+  <div class="news">
+    <div class="table-responsive">
+        <table class="table table-sm table-borderless">
+            <tr>
+                <th scope="row" style="white-space: nowrap;">December, 2024</th>
+                <td>
+                  Our group has been awarded a grant from the <span style="color:orange; font-weight:bold;">NSF Engines R&D Awards - New York Energy Storage Engine Projects </span>. This funding will support the development of an innovative "Dry coating" method for lithium-ion battery anodes. <span style="color:gold;">&#9733;</span>
+                </td>
+            </tr>          
           
 <div class="news">
     <div class="table-responsive">
