@@ -67,7 +67,7 @@ nav_order: 7
             <tr>
                 <th scope="row" style="white-space: nowrap;">June 2024</th>
                 <td>
-                    Dr. Akin joined the ASME Manufacturing Science and Engineering Conference (MSEC). <br>
+                    Dr. Akin attended the ASME Manufacturing Science and Engineering Conference (MSEC). <br>
                                   </td>
             </tr>
             <tr>
@@ -75,7 +75,7 @@ nav_order: 7
                     <figure>
                         <img src="../assets/img/martinjun_tim.jpg" style="width:60%; max-width:400px;">
                        </figure>
-                         <i>From left to right: Dr. Semih Akin, Dr. Martin Jun (Purdue), Dr. Jung-Ting Tsai (Taiwan-Tech) 
+                         <i>From left to right: Dr. Semih Akin, Dr. Martin Jun (Purdue), Dr. Jung-Ting Tsai (Taiwan-Tech). 
                     </i>
                 </td>
             </tr>
