@@ -72,6 +72,22 @@ nav_order: 3
 
 ## MS Students
 <br>
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/Faydia_.jpg" width="150" height="170"/>
+    <div style="text-align: left; margin-left: 20px;">
+        <span style="font-size: 20px;"><b>Faydia Thompson</b></span>
+        <br>
+        <span style="font-size: 17px;">Master of Eng. Student </span>
+        <br>
+        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
+        <br>
+        Research Interests: Aerosol jet printing, Data-driven modeling
+        <br>
+        &#128231;<a href="mailto:thompf2@rpi.edu" style="margin-right: 10px;"> thompf2@rpi.edu
+     </a>    
+    </div>
+</div>
+<br>
 
 ## Undergraduate Students
 
