@@ -6,4 +6,4 @@ related_posts: false
 ---
 
                  
-Dr. Akin has been awarded as the Outstanding Reviewer by the ASME Journal of Micro and Nano Science and Engineering. <span style="color:gold;">&#9733;</span> 
+Dr. Akin has been awarded as the <span style="color:red; font-weight:bold;">Outstanding Reviewer</span> by the `ASME Journal of Micro and Nano Science and Engineering`. <span style="color:gold;">&#9733;</span> 
