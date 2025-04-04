@@ -8,7 +8,7 @@ subtitle:
 
 profile:
   align: right
-  image: logo1.png
+  image: logo1.webp
   image_circular: false # crops the image to make it circular
   image_width: 
   image_height: 
