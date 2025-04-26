@@ -8,26 +8,57 @@ nav_order:
 ---
 <!-- _pages/conference.md -->
 
+<!-- Add Type-to-Filter Bar at the top -->
+<input type="text" id="filterInput" placeholder="Type to filter..." style="width: 300px; padding: 10px; margin-bottom: 20px; font-size: 16px; display: block;">
+
 <style>
   .year {
     text-align: right;
     font-size: 1.8em;
     margin-bottom: 5px;
     text-decoration: underline;
-
   }
 </style>
 
+<!-- Wrap your content in a div to enable filtering -->
+<div id="pubList">
+
 <div style="text-align: right;">
-  <span class="year"> 2024 </span>
+  <span class="year">2024</span>
 </div>
 
-  <p>
-    13. YW. Kim, <u>S. Akin</u>, MBG. Jun, J. Sutherland, “Cold spray-produced functional surfaces for triboelectric nanogenerators”, 
-    <i>ASME International Mechanical Engineering Congress & Exposition, (IMECE)</i>, 2024.
-    <span style="float: right; font-size: 17px; color: red; font-weight: bold;">-Best Paper Award-</span>
-  </p>
+<p>
+  13. YW. Kim, <u>S. Akin</u>, MBG. Jun, J. Sutherland, “Cold spray-produced functional surfaces for triboelectric nanogenerators”, 
+  <i>ASME International Mechanical Engineering Congress & Exposition, (IMECE)</i>, 2024.
+  <span style="float: right; font-size: 17px; color: red; font-weight: bold;">-Best Paper Award-</span>
+</p>
+
 <br>
+
+</div> <!-- End of pubList -->
+
+<!-- Filtering Script -->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const filterInput = document.getElementById('filterInput');
+  const pubList = document.getElementById('pubList');
+
+  filterInput.addEventListener('keyup', function() {
+    const filter = filterInput.value.toLowerCase();
+    const items = pubList.querySelectorAll('p, div');
+
+    items.forEach(function(item) {
+      const text = item.textContent || item.innerText;
+      if (text.toLowerCase().indexOf(filter) > -1) {
+        item.style.display = '';
+      } else {
+        item.style.display = 'none';
+      }
+    });
+  });
+});
+</script>
+
 
 <p>12. J. Lee, <u>S. Akin</u>, Y.Kim, E. Kim, J. Nam, K. Song, MBG. Jun, “A stethoscope-guided interpretable deep learning framework for powder flow diagnosis in cold spray additive manufacturing”, <i> North American Manufacturing Research Conference, (NAMRC-52)</i>, 2024.</p> 
 
