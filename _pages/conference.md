@@ -33,7 +33,7 @@ nav_order:
     <span style="float: right; font-size: 17px; color: red; font-weight: bold;">-Best Paper Award-</span>
   </p>
 
-  <p>12. J. Lee, <u>S. Akin</u>, Y.Kim, E. Kim, J. Nam, K. Song, MBG. Jun, “A stethoscope-guided interpretable deep learning framework for powder flow diagnosis in cold spray additive manufacturing”, 
+  <p>12. J. Lee, <u>S. Akin</u>, Y. Kim, E. Kim, J. Nam, K. Song, MBG. Jun, “A stethoscope-guided interpretable deep learning framework for powder flow diagnosis in cold spray additive manufacturing”, 
     <i>North American Manufacturing Research Conference (NAMRC-52)</i>, 2024.</p>
 
   <div class="year">2023</div>
@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   filterInput.addEventListener('keyup', function() {
     const filter = filterInput.value.toLowerCase();
-    const papers = pubList.querySelectorAll('p'); // only <p> elements
+    const papers = pubList.querySelectorAll('p');
 
     papers.forEach(function(paper) {
       const text = paper.textContent || paper.innerText;
