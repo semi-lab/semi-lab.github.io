@@ -9,7 +9,7 @@ nav_order:
 
 <!-- Type-to-Filter Bar -->
 <div style="margin-bottom: 20px;">
-  <input type="text" id="filterInput" placeholder="Type to filter..." style="width: 200px; padding: 10px; font-size: 16px;">
+  <input type="text" id="filterInput" placeholder="Type to filter..." style="width: 300px; padding: 10px; font-size: 16px;">
 </div>
 
 <!-- Style for year heading -->
@@ -20,7 +20,6 @@ nav_order:
     margin-bottom: 5px;
     text-decoration: underline;
     display: block;
-  }
 </style>
 
 <!-- List of publications -->
@@ -60,11 +59,11 @@ nav_order:
     <a href="https://asmedigitalcollection.asme.org/MSEC/proceedings/MSEC2022/85802/V001T01A029/1146942">[Link]</a>, 
     <a href="https://semi-lab.github.io/assets/pdf/MSEC_2.pdf">[PDF]</a></p>
 
+  <div class="year">2021</div>
+
   <p>6. T. Chang, <u>S. Akin</u>, L. Couetil, MBG. Jun, C.H. Lee, “Dual regime spray of functional nanomaterials for electronic textiles”, 
     <i>Material Research Society (MRS)</i>, 2022. 
     <a href="https://www.mrs.org/meetings-events/presentation/2022_mrs_spring_meeting/2022_mrs_spring_meeting-3670815">[Link]</a></p>
-
-  <div class="year">2021</div>
 
   <p>5. <u>S. Akin</u>, J.H. Kim, MBG. Jun, “Electrically conductive textiles based on decoupled atomized spray coating and electroless plating”, 
     <i>International Symposium on Precision Engineering and Sustainable Manufacturing (PRESM)</i>, 2021.</p>
