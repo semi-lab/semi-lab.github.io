@@ -7,6 +7,25 @@ nav: true
 nav_order: 7
 ---
 
+<div class="news">
+    <div class="table-responsive">
+        <table class="table table-sm table-borderless">
+            <tr>
+                <th scope="row" style="white-space: nowrap;">May 1, 2025</th>
+                <td>
+                    We celebrated the end of the Spring '25 semester and bid farewell to Hongfei and Hongru Liu, who are both heading to Carnegie Mellon University (CMU) for graduate studies.
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <figure>
+                        <img src="../assets/img/Semi_Lab_Spring2025.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width:80%; max-width:500px;">                        
+                    </figure>
+                </td>
+            </tr>
+            <tr>  
+
+
  <div class="news">
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
