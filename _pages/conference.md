@@ -70,27 +70,5 @@ nav_order:
   <p>1. <u>S. Akin</u>, T. Gabor, S. Jo, H. Joe, JT. Tsai, Y. Park, CH. Lee, MS. Park, MBG. Jun, “Dual regime spray deposition based laser direct writing of metal patterns on polymer substrates”, 
     <i>World Congress on Micro and Nano-Manufacturing (WCMNM)</i>, 2019. 
     <a href="https://semi-lab.github.io/assets/pdf/WCMNM_2019.pdf">[PDF]</a></p>
-
 </div> <!-- End of pubList -->
 
-<!-- Filtering Script -->
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  const filterInput = document.getElementById('filterInput');
-  const pubList = document.getElementById('pubList');
-
-  filterInput.addEventListener('keyup', function() {
-    const filter = filterInput.value.toLowerCase();
-    const papers = pubList.querySelectorAll('p');
-
-    papers.forEach(function(paper) {
-      const text = paper.textContent || paper.innerText;
-      if (text.toLowerCase().includes(filter)) {
-        paper.style.display = '';
-      } else {
-        paper.style.display = 'none';
-      }
-    });
-  });
-});
-</script>
