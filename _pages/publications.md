@@ -8,10 +8,6 @@ nav: false
 nav_order: 4
 ---
 <div class="publications">
-
-  <h2>Publications</h2>
-  <p>Ordered by most recent. († indicates equal contribution.)</p>
-
   <!-- Filter bar -->
   <input type="text" id="pubFilter" placeholder="Filter by keyword, year, or author..." style="margin-bottom: 1em; padding: 0.5em; width: 100%; max-width: 400px; border-radius: 5px; border: 1px solid #ccc;">
 
