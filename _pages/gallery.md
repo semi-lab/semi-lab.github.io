@@ -24,8 +24,6 @@ nav_order: 7
                 </td>
             </tr>
             <tr>  
-
-
  <div class="news">
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
