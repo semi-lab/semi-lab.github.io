@@ -7,26 +7,6 @@ nav: false
 nav_order: 
 ---
 
-<!-- Type-to-Filter Bar -->
-<div style="margin-bottom: 20px;">
-  <input type="text" id="filterInput" placeholder="Type to filter..." style="width: 300px; padding: 10px; font-size: 16px;">
-</div>
-
-<!-- Style for year heading -->
-<style>
-  .year {
-    text-align: right;
-    font-size: 1.8em;
-    margin-bottom: 5px;
-    text-decoration: underline;
-    display: block;
-</style>
-
-<!-- List of publications -->
-<div id="pubList">
-
-  <div class="year">2024</div>
-
   <p>13. YW. Kim, <u>S. Akin</u>, MBG. Jun, J. Sutherland, “Cold spray-produced functional surfaces for triboelectric nanogenerators”, 
     <i>ASME International Mechanical Engineering Congress & Exposition, (IMECE)</i>, 2024. 
     <span style="float: right; font-size: 17px; color: red; font-weight: bold;">-Best Paper Award-</span>

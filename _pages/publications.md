@@ -9,8 +9,6 @@ nav_order: 4
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<!-- Add the search bar -->
-<input type="text" id="filterInput" placeholder="Type to filter..." style="width: 300px; padding: 10px; margin-bottom: 20px; font-size: 16px;">
 
 <!-- Bibliography list -->
 <div id="pubList">
