@@ -30,7 +30,7 @@ nav_order: 7
             <tr>
                 <th scope="row" style="white-space: nowrap;">October, 2024</th>
                 <td>
-                    We hosted Prof. Albert Shih (U-Mich) and Prof. Jianjun Shi (G-tech) at RPI. 
+                    We hosted Prof. Shih (U-Mich) and Prof. Jianjun Shi (G-tech) at RPI. 
                 </td>
             </tr>
             <tr>
