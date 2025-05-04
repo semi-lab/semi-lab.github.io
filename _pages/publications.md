@@ -1,5 +1,4 @@
 ---
----
 layout: page
 permalink: /publications/
 title: Publications
@@ -15,7 +14,6 @@ nav_order: 4
   <div id="pubList">
     {% bibliography --file {{ site.scholar.bibliography }} %}
   </div>
-
 </div>
 
 <script>
