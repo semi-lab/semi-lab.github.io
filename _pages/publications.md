@@ -20,13 +20,14 @@ nav_order: 4
   document.addEventListener('DOMContentLoaded', function () {
     const filterInput = document.getElementById('pubFilter');
     const pubList = document.getElementById('pubList');
-    const publications = pubList.querySelectorAll('div');
+    const publications = pubList.querySelectorAll('li');
 
     filterInput.addEventListener('input', function () {
       const filter = this.value.toLowerCase();
 
       publications.forEach(pub => {
-        if (pub.textContent.toLowerCase().includes(filter)) {
+        const text = pub.textContent.toLowerCase();
+        if (text.includes(filter)) {
           pub.style.display = '';
         } else {
           pub.style.display = 'none';
