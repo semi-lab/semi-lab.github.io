@@ -12,7 +12,7 @@ nav_order: 7
       <tr>
         <th scope="row" style="white-space: nowrap;">May 1, 2025</th>
         <td>
-          We celebrated the end of the Spring '25 semester and bid farewell to Hongfei and Hongru Liu, who are both heading to Carnegie Mellon Universi.
+          We celebrated the end of the Spring '25 semester and bid farewell to Hongfei and Hongru Liu, who are both heading to Carnegie Mellon University.
            </td>
       </tr>
       <tr>
