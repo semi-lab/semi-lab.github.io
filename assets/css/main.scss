@@ -14,3 +14,30 @@ $max-content-width: {{ site.max_width }};
   "distill",
   "cv"
 ;
+.news-scrollbox {
+  max-height: 300px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.news-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.news-item {
+  margin-bottom: 1rem;
+}
+
+.news-scrollbox::-webkit-scrollbar {
+  width: 6px;
+}
+
+.news-scrollbox::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}
