@@ -170,8 +170,6 @@ pagination:
 
 collections:
   news:
-    defaults:
-      layout: post
     output: true
     permalink: /news/:path/
   projects:
@@ -179,10 +177,17 @@ collections:
     permalink: /projects/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 5 # leave blank to include all the news in the `_news` folder
+news_limit: 10 # leave blank to include all the news in the `_news` folder
 
 announcements:
   enabled: true
+
+defaults:
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: post
 
 
 # -----------------------------------------------------------------------------
