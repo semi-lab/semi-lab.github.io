@@ -76,7 +76,4 @@ nav_order: 7
           </figure>
           <i>From left to right: Dr. Semih Akin, Dr. Martin Jun (Purdue), Dr. Jung-Ting Tsai (Taiwan-Tech).</i>
         </td>
-      </tr>
-    </table>
-  </div>
-</div>
+      </tr>  
