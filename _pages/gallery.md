@@ -25,6 +25,20 @@ nav_order: 7
       <tr>
         <th scope="row" style="white-space: nowrap;">October, 2024</th>
         <td>
+          RPI Manufacturing Day - Blackhawk landing on campus.
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="text-align: center;">
+          <figure>
+            <img src="../assets/img/blackhawk.png" alt="Prof. Albert Shih Visit" style="width:90%; max-width:500px; height:70%; max-height:1000px;">                        
+          </figure>
+        </td>
+      </tr>
+      <tr>
+      <tr>
+        <th scope="row" style="white-space: nowrap;">October, 2024</th>
+        <td>
           We hosted Prof. Albert Shih (U-Mich) and Prof. Jianjun Shi (G-tech) at RPI.
         </td>
       </tr>

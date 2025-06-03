@@ -27,3 +27,17 @@
             <p>No news so far...</p>
           {%- endif %}
           </div>
+          {% if site.news %}
+<div class="news-scrollbox">
+  <ul class="news-list">
+    {% assign sorted_news = site.news | sort: 'date' | reverse %}
+    {% assign news_limit = site.news_limit | default: sorted_news.size %}
+    {% for post in sorted_news limit: news_limit %}
+      <li class="news-item">
+        <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong><br>
+        <small>{{ post.date | date: "%B %d, %Y" }}</small>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
