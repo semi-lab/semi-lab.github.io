@@ -14,29 +14,3 @@ $max-content-width: {{ site.max_width }};
   "distill",
   "cv"
 ;
-
-/* Remove scroll behavior from news */
-.news-scrollbox {
-  max-height: none;
-  overflow-y: visible;
-  border: none;
-  padding: 0;
-  margin-bottom: 1rem;
-}
-
-/* Optional: keep these if you still want a styled list */
-.news-list {
-  list-style-type: none;
-  padding-left: 0;
-  margin: 0;
-}
-
-.news-item {
-  margin-bottom: 1rem;
-}
-
-/* Remove scroll bar styles as they are no longer needed */
-.news-scrollbox::-webkit-scrollbar,
-.news-scrollbox::-webkit-scrollbar-thumb {
-  display: none;
-}
