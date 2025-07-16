@@ -12,6 +12,35 @@ nav_order: 6
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
             <tr>
+                <th scope="row" style="white-space: nowrap;">June, 2025</th>
+                <td>
+                    Dr. Akin has been awarded as the 
+                    <span style="color:red; font-weight:bold;">Outstanding Reviewer</span> 
+                    by the 
+                    <span style="color:orange; font-weight:bold;">
+                        <i>SME Journal of Manufacturing Processes</i>
+                    </span>.
+                    <span style="color:red;">&#9733;</span>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <figure>
+                        <img src="../assets/img/SME Award_1.jpg" 
+                             alt="Cold Spray Additive Manufacturing Cell" 
+                             style="width:70%; max-width:500px; height:auto; max-height:1000px;">
+                    </figure>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+
+<div class="news">
+    <div class="table-responsive">
+        <table class="table table-sm table-borderless">
+            <tr>
                 <th scope="row" style="white-space: nowrap;">March, 2025</th>
                 <td>
                     Dr. Akin has been awarded as the 
