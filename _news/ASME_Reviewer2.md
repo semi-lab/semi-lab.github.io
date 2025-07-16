@@ -6,4 +6,4 @@ related_posts: false
 ---
 
                  
-Dr. Akin has been awarded as the <span style="color:red; font-weight:bold;">Outstanding Reviewer</span> by the `Journal of Manufacturing Processess`.<span style="color:gold;">&#9733;</span> 
+Dr. Akin has been awarded as the <span style="color:red; font-weight:bold;">Outstanding Reviewer</span> by the `Journal of Manufacturing Processess`. [[Link]](https://www.sme.org/aboutsme/awards/sme-journal-awards/).<span style="color:gold;">&#9733;</span> 
