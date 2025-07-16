@@ -15,8 +15,7 @@ nav_order: 6
                 <th scope="row" style="white-space: nowrap;">June, 2025</th>
                 <td>
                     Dr. Akin has been awarded as the 
-                    <span style="color:red; font-weight:bold;">Outstanding Reviewer</span> 
-                    by the 
+                    <span style="color:red; font-weight:bold;">Outstanding Reviewer</span> by the 
                     <span style="color:orange; font-weight:bold;">
                         <i>SME Journal of Manufacturing Processes</i>
                     </span>.
