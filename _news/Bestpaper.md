@@ -6,4 +6,4 @@ related_posts: false
 ---
 
                  
-Our group recieved the <span style="color:red; font-weight:bold;">Best Paper Award</span> from the `Journal of Manufacturing Processess`. [[Link]](https://www.sme.org/aboutsme/awards/sme-journal-awards/).<span style="color:gold;">&#9733;</span> 
+Our group recieved the <span style="color:red; font-weight:bold;">Best Paper Award</span> from the `SME Journal of Manufacturing Processess`. [[Link]](https://www.sme.org/aboutsme/awards/sme-journal-awards/).<span style="color:gold;">&#9733;</span> 
