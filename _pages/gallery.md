@@ -11,8 +11,9 @@ nav_order: 7
 <div class="news">
 
 
-  <!-- Photo Collage with Click Transition and Caption -->
-  <div id="collage" style="margin-bottom: 30px; max-width: 600px; margin-left: auto; margin-right: auto; cursor: pointer; border: 2px solid #ccc; border-radius: 8px; overflow: hidden; height: 360px; position: relative;">
+<!-- Photo Collage with Arrows and Caption -->
+<div style="position: relative; max-width: 600px; margin: 0 auto 30px;">
+  <div id="collage" style="position: relative; border: 2px solid #ccc; border-radius: 8px; overflow: hidden; height: 360px;">
     <img src="../assets/img/MSEC_1.JPG" alt="Photo 1" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 1; transition: opacity 0.6s ease;" />
     <img src="../assets/img/MSEC_2.JPG" alt="Photo 2" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
     <img src="../assets/img/MSEC_3.JPG" alt="Photo 3" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
@@ -20,37 +21,55 @@ nav_order: 7
     <img src="../assets/img/MSEC_5.JPG" alt="Photo 5" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
     <img src="../assets/img/MSEC_6.JPG" alt="Photo 6" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
     <img src="../assets/img/MSEC_7.JPG" alt="Photo 7" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
+    <!-- Left Arrow -->
+    <div id="prev" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); font-size: 2rem; color: white; background: rgba(0,0,0,0.4); padding: 5px 10px; border-radius: 5px; cursor: pointer;">&#10094;</div>
+    <!-- Right Arrow -->
+    <div id="next" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); font-size: 2rem; color: white; background: rgba(0,0,0,0.4); padding: 5px 10px; border-radius: 5px; cursor: pointer;">&#10095;</div>
   </div>
 
   <!-- Caption -->
-  <div id="caption" style="max-width: 600px; margin: 0 auto 30px; text-align: center; font-style: italic; font-size: 1rem; color: #555;">
-    Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, South Carolina.
+  <div id="caption" style="text-align: center; font-style: italic; font-size: 1rem; color: #555; margin-top: 10px;">
+    Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, SC, (June 2025).
   </div>
+</div>
 
-  <script>
-    (function() {
-      const collage = document.getElementById('collage');
-      const images = collage.querySelectorAll('img');
-      const caption = document.getElementById('caption');
-      const captions = [
-        "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, South Carolina.",
-        "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, South Carolina.",
-        "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, South Carolina.",
-        "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, South Carolina.",
-        "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, South Carolina.",
-        "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, South Carolina.",
-        "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, South Carolina."
-      ];
-      let currentIndex = 0;
+<script>
+  (function() {
+    const images = document.querySelectorAll('#collage img');
+    const caption = document.getElementById('caption');
+    const captions = [
+      "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, SC (June 2025)",
+      "Enjoying technical sessions and networking at MSEC/NAMRC.",
+      "Group photo during the conference lunch break.",
+      "Poster session with great student presentations.",
+      "Shamim presenting his work on manufacturing analytics.",
+      "Group dinner with colleagues and friends.",
+      "Scenic view from the Greenville conference venue."
+    ];
 
-      collage.addEventListener('click', () => {
-        images[currentIndex].style.opacity = 0;
-        currentIndex = (currentIndex + 1) % images.length;
-        images[currentIndex].style.opacity = 1;
-        caption.textContent = captions[currentIndex];
+    let currentIndex = 0;
+
+    function showImage(index) {
+      images.forEach((img, i) => {
+        img.style.opacity = i === index ? 1 : 0;
       });
-    })();
-  </script>
+      caption.textContent = captions[index];
+    }
+
+    document.getElementById('prev').addEventListener('click', () => {
+      currentIndex = (currentIndex - 1 + images.length) % images.length;
+      showImage(currentIndex);
+    });
+
+    document.getElementById('next').addEventListener('click', () => {
+      currentIndex = (currentIndex + 1) % images.length;
+      showImage(currentIndex);
+    });
+
+    showImage(currentIndex); // Initialize
+  })();
+</script>
+
 
   <!-- Existing content below -->
   <div class="table-responsive">
@@ -70,20 +89,6 @@ nav_order: 7
     </table>
   </div>
 </div>
-
-<script>
-  // JavaScript for click transition on the collage
-  const collage = document.getElementById('collage');
-  const images = collage.querySelectorAll('img');
-  let currentIndex = 0;
-
-  collage.addEventListener('click', () => {
-    images[currentIndex].style.opacity = 0;
-    currentIndex = (currentIndex + 1) % images.length;
-    images[currentIndex].style.opacity = 1;
-  });
-</script>
-
 
   <div class="table-responsive">
     <table class="table table-sm table-borderless">
