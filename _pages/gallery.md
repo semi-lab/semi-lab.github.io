@@ -20,8 +20,7 @@ nav_order: 7
     <img src="../assets/img/MSEC_4.JPG" alt="Photo 4" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
     <img src="../assets/img/MSEC_5.JPG" alt="Photo 5" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
     <img src="../assets/img/MSEC_6.JPG" alt="Photo 6" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
-    <img src="../assets/img/MSEC_7.JPG" alt="Photo 7" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
-        <!-- Left Arrow -->
+           <!-- Left Arrow -->
     <div id="prev" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); font-size: 2rem; color: white; background: rgba(0,0,0,0.4); padding: 5px 10px; border-radius: 5px; cursor: pointer;">&#10094;</div>
     <!-- Right Arrow -->
     <div id="next" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); font-size: 2rem; color: white; background: rgba(0,0,0,0.4); padding: 5px 10px; border-radius: 5px; cursor: pointer;">&#10095;</div>
@@ -44,8 +43,7 @@ nav_order: 7
       "Our group attended the ASME MSEC/SME NAMRC-53 Conference",
       "Our group attended the ASME MSEC/SME NAMRC-53 Conference",
       "Our group attended the ASME MSEC/SME NAMRC-53 Conference",
-      "Our group attended the ASME MSEC/SME NAMRC-53 Conference"
-    ];
+      ];
 
     let currentIndex = 0;
     let interval;
