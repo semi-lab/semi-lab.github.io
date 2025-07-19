@@ -10,39 +10,47 @@ nav_order: 7
 
 <div class="news">
 
-<!-- Photo Collage with Click Transition and Caption -->
-<div id="collage" style="margin-bottom: 30px; max-width: 600px; margin-left: auto; margin-right: auto; cursor: pointer; border: 2px solid #ccc; border-radius: 8px; overflow: hidden; height: 360px; position: relative;">
-  <img src="../assets/img/MSEC_1.JPG" alt="Photo 1" style="position: absolute; width: 70%; height: 60%; object-fit: cover; top: 0; left: 0; opacity: 1; transition: opacity 0.6s ease;" />
-  <img src="../assets/img/MSEC_2.JPG" alt="Photo 2" style="position: absolute; width: 70%; height: 60%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
-  <img src="../assets/img/MSEC_3.JPG" alt="Photo 3" style="position: absolute; width: 70%; height: 60%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
-  <img src="../assets/img/MSEC_4.JPG" alt="Photo 4" style="position: absolute; width: 70%; height: 60%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
-  <img src="../assets/img/MSEC_5.JPG" alt="Photo 5" style="position: absolute; width: 70%; height: 60%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
-  <img src="../assets/img/MSEC_6.JPG" alt="Photo 6" style="position: absolute; width: 70%; height: 60%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
-  <img src="../assets/img/MSEC_7.JPG" alt="Photo 7" style="position: absolute; width: 70%; height: 60%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
-</div>
 
-<!-- Caption -->
-<div id="caption" style="max-width: 600px; margin: 0 auto 30px; text-align: center; font-style: italic; font-size: 1rem; color: #555;">
-  Caption for Photo 1
-</div>
+  <!-- Photo Collage with Click Transition and Caption -->
+  <div id="collage" style="margin-bottom: 30px; max-width: 600px; margin-left: auto; margin-right: auto; cursor: pointer; border: 2px solid #ccc; border-radius: 8px; overflow: hidden; height: 360px; position: relative;">
+    <img src="../assets/img/MSEC_1.JPG" alt="Photo 1" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 1; transition: opacity 0.6s ease;" />
+    <img src="../assets/img/MSEC_2.JPG" alt="Photo 2" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
+    <img src="../assets/img/MSEC_3.JPG" alt="Photo 3" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
+    <img src="../assets/img/MSEC_4.JPG" alt="Photo 4" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
+    <img src="../assets/img/MSEC_5.JPG" alt="Photo 5" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
+    <img src="../assets/img/MSEC_6.JPG" alt="Photo 6" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
+    <img src="../assets/img/MSEC_7.JPG" alt="Photo 7" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
+  </div>
 
-<script>
-  const collage = document.getElementById('collage');
-  const images = collage.querySelectorAll('img');
-  const caption = document.getElementById('caption');
-  const captions = [
-    "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, South Carolina."   
-  ];
-  let currentIndex = 0;
+  <!-- Caption -->
+  <div id="caption" style="max-width: 600px; margin: 0 auto 30px; text-align: center; font-style: italic; font-size: 1rem; color: #555;">
+    Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, South Carolina.
+  </div>
 
-  collage.addEventListener('click', () => {
-    images[currentIndex].style.opacity = 0;
-    currentIndex = (currentIndex + 1) % images.length;
-    images[currentIndex].style.opacity = 1;
-    caption.textContent = captions[currentIndex];
-  });
-</script>
+  <script>
+    (function() {
+      const collage = document.getElementById('collage');
+      const images = collage.querySelectorAll('img');
+      const caption = document.getElementById('caption');
+      const captions = [
+        "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, South Carolina.",
+        "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, South Carolina.",
+        "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, South Carolina.",
+        "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, South Carolina.",
+        "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, South Carolina.",
+        "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, South Carolina.",
+        "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, South Carolina."
+      ];
+      let currentIndex = 0;
 
+      collage.addEventListener('click', () => {
+        images[currentIndex].style.opacity = 0;
+        currentIndex = (currentIndex + 1) % images.length;
+        images[currentIndex].style.opacity = 1;
+        caption.textContent = captions[currentIndex];
+      });
+    })();
+  </script>
 
   <!-- Existing content below -->
   <div class="table-responsive">
