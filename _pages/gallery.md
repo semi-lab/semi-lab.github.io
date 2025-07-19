@@ -14,16 +14,17 @@ nav_order: 7
 <!-- Photo Collage with Arrows, Auto Transition, and Caption -->
 <div style="position: relative; max-width: 600px; margin: 0 auto 30px;">
   <div id="collage" style="position: relative; border: 2px solid #ccc; border-radius: 8px; overflow: hidden; height: 360px;">
-    <img src="../assets/img/MSEC_1.JPG" alt="Photo 1" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 1; transition: opacity 0.6s ease;" />
-    <img src="../assets/img/MSEC_2.JPG" alt="Photo 2" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
-    <img src="../assets/img/MSEC_33.JPG" alt="Photo 3" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
-    <img src="../assets/img/MSEC_4.JPG" alt="Photo 4" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
-    <img src="../assets/img/MSEC_5.JPG" alt="Photo 5" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
-    <img src="../assets/img/MSEC_6.JPG" alt="Photo 6" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
-           <!-- Left Arrow -->
-    <div id="prev" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); font-size: 2rem; color: white; background: rgba(0,0,0,0.4); padding: 5px 10px; border-radius: 5px; cursor: pointer;">&#10094;</div>
+    <!-- Images -->
+    <img src="../assets/img/MSEC_1.JPG" alt="Photo 1" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 1; transition: opacity 0.6s ease;" />
+    <img src="../assets/img/MSEC_2.JPG" alt="Photo 2" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
+    <img src="../assets/img/MSEC_33.JPG" alt="Photo 3" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
+    <img src="../assets/img/MSEC_4.JPG" alt="Photo 4" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
+    <img src="../assets/img/MSEC_5.JPG" alt="Photo 5" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
+    <img src="../assets/img/MSEC_6.JPG" alt="Photo 6" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
+    <!-- Left Arrow -->
+    <div id="prev" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); font-size: 2rem; color: white; background: rgba(0,0,0,0.4); padding: 5px 10px; border-radius: 5px; cursor: pointer; z-index: 2;">&#10094;</div>
     <!-- Right Arrow -->
-    <div id="next" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); font-size: 2rem; color: white; background: rgba(0,0,0,0.4); padding: 5px 10px; border-radius: 5px; cursor: pointer;">&#10095;</div>
+    <div id="next" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); font-size: 2rem; color: white; background: rgba(0,0,0,0.4); padding: 5px 10px; border-radius: 5px; cursor: pointer; z-index: 2;">&#10095;</div>
   </div>
 
   <!-- Caption -->
@@ -38,12 +39,12 @@ nav_order: 7
     const caption = document.getElementById('caption');
     const captions = [
       "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, SC (June 2025)",
-      "Our group attended the ASME MSEC/SME NAMRC-53 Conference",
-      "Our group attended the ASME MSEC/SME NAMRC-53 Conference",
-      "Our group attended the ASME MSEC/SME NAMRC-53 Conference",
-      "Our group attended the ASME MSEC/SME NAMRC-53 Conference",
-      "Our group attended the ASME MSEC/SME NAMRC-53 Conference",
-      ];
+      "Our group attended the ASME MSEC/SME NAMRC-53 ",
+      "Our group attended the ASME MSEC/SME NAMRC-53 ",
+      "Our group attended the ASME MSEC/SME NAMRC-53 ",
+      "Our group attended the ASME MSEC/SME NAMRC-53 ",
+      "Our group attended the ASME MSEC/SME NAMRC-53 "
+    ];
 
     let currentIndex = 0;
     let interval;
@@ -52,7 +53,7 @@ nav_order: 7
       images.forEach((img, i) => {
         img.style.opacity = i === index ? 1 : 0;
       });
-      caption.textContent = captions[index];
+      caption.textContent = captions[index] || "";
     }
 
     function nextImage() {
@@ -65,7 +66,6 @@ nav_order: 7
       showImage(currentIndex);
     }
 
-    // Manual controls
     document.getElementById('next').addEventListener('click', () => {
       nextImage();
       resetAutoSlide();
@@ -76,7 +76,6 @@ nav_order: 7
       resetAutoSlide();
     });
 
-    // Auto transition every 3 seconds
     function startAutoSlide() {
       interval = setInterval(nextImage, 3000);
     }
@@ -90,6 +89,7 @@ nav_order: 7
     startAutoSlide();
   })();
 </script>
+
 
 
   <div class="table-responsive">
