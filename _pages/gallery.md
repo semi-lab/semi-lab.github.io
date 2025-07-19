@@ -39,12 +39,12 @@ nav_order: 7
     const caption = document.getElementById('caption');
     const captions = [
       "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, SC (June 2025)",
-      "Enjoying technical sessions and networking at MSEC/NAMRC.",
-      "Group photo during the conference lunch break.",
-      "Poster session with great student presentations.",
-      "Shamim presenting his work on manufacturing analytics.",
-      "Group dinner with colleagues and friends.",
-      "Scenic view from the Greenville conference venue."
+      "Our group attended the ASME MSEC/SME NAMRC-53 Conference",
+      "Our group attended the ASME MSEC/SME NAMRC-53 Conference",
+      "Our group attended the ASME MSEC/SME NAMRC-53 Conference",
+      "Our group attended the ASME MSEC/SME NAMRC-53 Conference",
+      "Our group attended the ASME MSEC/SME NAMRC-53 Conference",
+      "Our group attended the ASME MSEC/SME NAMRC-53 Conference"
     ];
 
     let currentIndex = 0;
