@@ -11,7 +11,7 @@ nav_order: 7
 <div class="news">
 
 
-<!-- Photo Collage with Arrows and Caption -->
+<!-- Photo Collage with Arrows, Auto Transition, and Caption -->
 <div style="position: relative; max-width: 600px; margin: 0 auto 30px;">
   <div id="collage" style="position: relative; border: 2px solid #ccc; border-radius: 8px; overflow: hidden; height: 360px;">
     <img src="../assets/img/MSEC_1.JPG" alt="Photo 1" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 1; transition: opacity 0.6s ease;" />
@@ -21,7 +21,7 @@ nav_order: 7
     <img src="../assets/img/MSEC_5.JPG" alt="Photo 5" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
     <img src="../assets/img/MSEC_6.JPG" alt="Photo 6" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
     <img src="../assets/img/MSEC_7.JPG" alt="Photo 7" style="position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
-    <!-- Left Arrow -->
+        <!-- Left Arrow -->
     <div id="prev" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); font-size: 2rem; color: white; background: rgba(0,0,0,0.4); padding: 5px 10px; border-radius: 5px; cursor: pointer;">&#10094;</div>
     <!-- Right Arrow -->
     <div id="next" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); font-size: 2rem; color: white; background: rgba(0,0,0,0.4); padding: 5px 10px; border-radius: 5px; cursor: pointer;">&#10095;</div>
@@ -48,6 +48,7 @@ nav_order: 7
     ];
 
     let currentIndex = 0;
+    let interval;
 
     function showImage(index) {
       images.forEach((img, i) => {
@@ -56,39 +57,42 @@ nav_order: 7
       caption.textContent = captions[index];
     }
 
-    document.getElementById('prev').addEventListener('click', () => {
-      currentIndex = (currentIndex - 1 + images.length) % images.length;
-      showImage(currentIndex);
-    });
-
-    document.getElementById('next').addEventListener('click', () => {
+    function nextImage() {
       currentIndex = (currentIndex + 1) % images.length;
       showImage(currentIndex);
+    }
+
+    function prevImage() {
+      currentIndex = (currentIndex - 1 + images.length) % images.length;
+      showImage(currentIndex);
+    }
+
+    // Manual controls
+    document.getElementById('next').addEventListener('click', () => {
+      nextImage();
+      resetAutoSlide();
     });
 
-    showImage(currentIndex); // Initialize
+    document.getElementById('prev').addEventListener('click', () => {
+      prevImage();
+      resetAutoSlide();
+    });
+
+    // Auto transition every 3 seconds
+    function startAutoSlide() {
+      interval = setInterval(nextImage, 3000);
+    }
+
+    function resetAutoSlide() {
+      clearInterval(interval);
+      startAutoSlide();
+    }
+
+    showImage(currentIndex);
+    startAutoSlide();
   })();
 </script>
 
-
-  <!-- Existing content below -->
-  <div class="table-responsive">
-    <table class="table table-sm table-borderless">
-      <tr>
-        <th scope="row" style="white-space: nowrap;">May 1, 2025</th>
-        <td>We celebrated the end of the Spring '25 semester and bid farewell to Hongfei and Hongru Liu, who are both heading to Carnegie Mellon University.</td>
-      </tr>
-      <tr>
-        <td colspan="2" style="text-align: center;">
-          <figure>
-            <img src="../assets/img/Semi_Lab_Spring2025.jpg" alt="Spring 2025 Farewell" style="width:80%; max-width:500px;">                        
-          </figure>
-        </td>
-      </tr>
-      <!-- ... (rest of your existing table rows and images) ... -->
-    </table>
-  </div>
-</div>
 
   <div class="table-responsive">
     <table class="table table-sm table-borderless">
