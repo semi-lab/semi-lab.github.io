@@ -17,7 +17,7 @@ nav_order: 7
     <!-- Images -->
     <img src="../assets/img/MSEC_1.JPG" alt="Photo 1" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 1; transition: opacity 0.6s ease;" />
     <img src="../assets/img/MSEC_2.JPG" alt="Photo 2" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
-    <img src="../assets/img/MSEC_33.JPG" alt="Photo 3" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
+    <img src="../assets/img/MSEC_3new.jpg" alt="Photo 3" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
     <img src="../assets/img/MSEC_4.JPG" alt="Photo 4" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
     <img src="../assets/img/MSEC_5.JPG" alt="Photo 5" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
     <img src="../assets/img/MSEC_6.JPG" alt="Photo 6" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
