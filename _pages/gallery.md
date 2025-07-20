@@ -14,6 +14,78 @@ nav_order: 7
 <div style="position: relative; max-width: 600px; margin: 0 auto 30px;">
   <div id="collage" style="position: relative; border: 2px solid #ccc; border-radius: 8px; overflow: hidden; height: 360px;">
     <!-- Images -->
+    <img src="../assets/img/NSFe_engine2.jpg" alt="Photo 1" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 1; transition: opacity 0.6s ease;" />
+    <img src="../assets/img/NSFe_engine1.jpg" alt="Photo 2" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
+        <!-- Arrows -->
+    <div id="prev" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); font-size: 2rem; color: white; background: rgba(0,0,0,0.4); padding: 5px 10px; border-radius: 5px; cursor: pointer; z-index: 5;">&#10094;</div>
+    <div id="next" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); font-size: 2rem; color: white; background: rgba(0,0,0,0.4); padding: 5px 10px; border-radius: 5px; cursor: pointer; z-index: 5;">&#10095;</div>
+  </div>
+
+  <!-- Caption -->
+  <div id="caption" style="text-align: center; font-style: italic; font-size: 1rem; color: #555; margin-top: 10px;">
+    Our group participated in the NSF Engine milestone meeting as part of the RPI Team. (From left to right: Prof. Akin, Prof. M. Stanley Whittingham (Nobel Laureate), Prof. Fudong Han.).
+  </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const images = document.querySelectorAll('#collage img');
+    const caption = document.getElementById('caption');
+    const captions = [
+      "Our group participated in the NSF Engine milestone meeting as part of the RPI Team. (From left to right: Prof. Akin, Prof. M. Stanley Whittingham (Nobel Laureate), Prof. Fudong Han.)",
+      "Group photo from the NSF Engine Milestone Meeting at Binghamton University (July 2025).",
+         ];
+
+    let currentIndex = 0;
+    let interval;
+
+    function showImage(index) {
+      images.forEach((img, i) => {
+        img.style.opacity = i === index ? "1" : "0";
+      });
+      caption.textContent = captions[index] || "";
+    }
+
+    function nextImage() {
+      currentIndex = (currentIndex + 1) % images.length;
+      showImage(currentIndex);
+    }
+
+    function prevImage() {
+      currentIndex = (currentIndex - 1 + images.length) % images.length;
+      showImage(currentIndex);
+    }
+
+    function startAutoSlide() {
+      interval = setInterval(nextImage, 4000); // 4 sec for better pacing
+    }
+
+    function resetAutoSlide() {
+      clearInterval(interval);
+      startAutoSlide();
+    }
+
+    document.getElementById('next').addEventListener('click', () => {
+      nextImage();
+      resetAutoSlide();
+    });
+
+    document.getElementById('prev').addEventListener('click', () => {
+      prevImage();
+      resetAutoSlide();
+    });
+
+    // Initialize
+    showImage(currentIndex);
+    startAutoSlide();
+  });
+</script>
+
+
+<!-- Photo Collage with Arrows, Auto Transition, and Caption -->
+<div style="position: relative; max-width: 600px; margin: 0 auto 30px;">
+  <div id="collage" style="position: relative; border: 2px solid #ccc; border-radius: 8px; overflow: hidden; height: 360px;">
+    <!-- Images -->
     <img src="../assets/img/MSEC_1.JPG" alt="Photo 1" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 1; transition: opacity 0.6s ease;" />
     <img src="../assets/img/MSEC_2.JPG" alt="Photo 2" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
     <img src="../assets/img/MSEC_3new.jpg" alt="Photo 3" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
