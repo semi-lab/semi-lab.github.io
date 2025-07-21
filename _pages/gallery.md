@@ -15,8 +15,7 @@ nav_order: 7
   <div id="collage" style="position: relative; border: 2px solid #ccc; border-radius: 8px; overflow: hidden; height: 360px;">
     <!-- Images -->
     <img src="../assets/img/MSEC_1.JPG" alt="Photo 1" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 1; transition: opacity 0.6s ease;" />
-    <img src="../assets/img/MSEC_2.JPG" alt="Photo 2" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
-    <img src="../assets/img/MSEC_3new.jpg" alt="Photo 3" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
+    <img src="../assets/img/MSEC_2.JPG" alt="Photo 2" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />  
     <img src="../assets/img/MSEC_4.JPG" alt="Photo 4" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
     <img src="../assets/img/MSEC_5.JPG" alt="Photo 5" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />
     <img src="../assets/img/MSEC_6.JPG" alt="Photo 6" style="pointer-events: none; position: absolute; width: 100%; height: 100%; object-fit: cover; top: 0; left: 0; opacity: 0; transition: opacity 0.6s ease;" />    
@@ -37,8 +36,7 @@ nav_order: 7
     const caption = document.getElementById('caption');
     const captions = [
       "Our group attended the ASME MSEC/SME NAMRC-53 Conference in Greenville, SC (June 2025)",
-      "Our group attended the ASME MSEC/SME NAMRC-53 Conference",
-      "Our group attended the ASME MSEC/SME NAMRC-53 Conference",
+      "Our group attended the ASME MSEC/SME NAMRC-53 Conference",      
       "Our group attended the ASME MSEC/SME NAMRC-53 Conference",
       "Our group attended the ASME MSEC/SME NAMRC-53 Conference",
       "Our group attended the ASME MSEC/SME NAMRC-53 Conference"
