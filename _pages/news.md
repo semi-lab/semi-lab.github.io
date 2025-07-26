@@ -27,7 +27,7 @@ nav_order: 6
                     <figure>
                         <img src="../assets/img/SME Award_1.jpg" 
                              alt="Cold Spray Additive Manufacturing Cell" 
-                             style="width:70%; max-width:500px; height:auto; max-height:1000px;">
+                             style="width:80%; max-width:500px; height:auto; max-height:1000px;">
                     </figure>
                 </td>
             </tr>
@@ -43,7 +43,7 @@ nav_order: 6
                 <th scope="row" style="white-space: nowrap;">March, 2025</th>
                 <td>
                     Dr. Akin has been awarded as the 
-                    <span style="color:red; font-weight:bold;">Outstanding Reviewer</span> 
+                    <span style="color:red; font-weight:bold;">Reviewer of the Year</span> 
                     by the 
                     <span style="color:orange; font-weight:bold;">
                         <i>ASME Journal of Micro and Nano Science and Engineering</i>
