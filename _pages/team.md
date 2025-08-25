@@ -70,6 +70,37 @@ nav_order: 3
 </div>
 <br>
 
+<div style="display: flex; align-items: center;">
+    <!-- Profile Image -->
+    <img src="../assets/img/Fatema.jpg" width="150" height="170" style="border-radius: 8px;"/>
+    <!-- Info Section -->
+    <div style="text-align: left; margin-left: 20px;">
+        <span style="font-size: 20px;"><b>Fatema-Tuj Zohora</b></span>
+        <br>
+        <span style="font-size: 17px;">PhD Student</span>
+        <br>
+        <i>Department of Mechanical, Aerospace, and Nuclear Engineering (MANE)</i>
+        <br>
+        Research Interests: Computational fluid dynamics, Machine learning, 
+        <br> Data-driven modeling, Smart manufacturing 
+        <br><br>
+        <!-- Email -->
+        &#128231; 
+        <a href="mailto:zohorf@rpi.edu" style="margin-right: 10px;">zohorf@rpi.edu</a>
+        <!-- LinkedIn -->
+        <a href="https://www.linkedin.com/in/fatema25/" target="_blank" rel="noopener" style="margin-right: 10px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
+                 alt="LinkedIn Logo" width="20" height="20" style="vertical-align: middle;">
+        </a>
+        <!-- Personal Webpage -->
+        <a href="https://sites.google.com/view/fatematujzohora?usp=sharing" target="_blank" rel="noopener">
+            <img src="../assets/img/globe.png" 
+                 alt="Personal Webpage" width="20" height="20" style="vertical-align: middle;">
+        </a>
+    </div>
+</div>
+<br>
+
 ## MS Students
 
 <div style="display: flex; align-items: center;">
