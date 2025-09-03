@@ -65,7 +65,12 @@ nav_order: 3
         Research Interests: Directed energy deposition, Cold spray, Energy devices, <br> Data-driven modeling, Smart manufacturing 
         <br>
         &#128231;<a href="mailto:jeonj4@rpi.edu" style="margin-right: 10px;"> jeonj4@rpi.edu
-     </a>    
+     </a>   
+      <!-- LinkedIn -->
+        <a href="https://www.linkedin.com/in/jaehun-jeon-305b55370/" target="_blank" rel="noopener" style="margin-right: 10px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
+                 alt="LinkedIn Logo" width="20" height="20" style="vertical-align: middle;">
+        </a> 
     </div>
 </div>
 <br>
@@ -205,10 +210,12 @@ nav_order: 3
 
 ## Past Members
 <body>  
-    <li>Travis Johnson, <i>Undergraduate Research Student</i> (Fall 2024)</li>
-    <li>Sazidur Shahriar Rahman, <i>Ph.D. Student</i> (Spring-Summer 2024)</li> 
-    <li>Brandon Villanueva, <i>Undergraduate Research Student</i> (Spring-Summer 2024)</li>  
-        <li>Zhi Cheng Guan, <i>Undergraduate Research Student</i> (Spring 2024)</li>        
+    <li>Hongfei Liu, <i>Undergraduate Research Student</i> (Spring 2024)</li> (Now at Carnegie Mellon University)
+    <li>Hongru Liu, <i>Undergraduate Research Student</i> (Spring 2024)</li> (Now at Carnegie Mellon University)
+    <li>Travis Johnson, <i>Undergraduate Research Student</i> (Fall 2024)</li> (Now at Ohio State University)
+    <li>Zhi Cheng Guan, <i>Undergraduate Research Student</i> (Spring 2024)</li> (Now at Wabtec Corporation)     
     </body>
+    <li>Brandon Villanueva, <i>Undergraduate Research Student</i> (Spring-Summer 2024)</li>  
+     
 
 
