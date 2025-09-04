@@ -210,12 +210,15 @@ nav_order: 3
 
 ## Past Members
 <body>  
-    <li>Hongfei Liu, <i>Undergraduate Research Student</i> (Spring 2024)</li> (Now at Carnegie Mellon University)
-    <li>Hongru Liu, <i>Undergraduate Research Student</i> (Spring 2024)</li> (Now at Carnegie Mellon University)
-    <li>Travis Johnson, <i>Undergraduate Research Student</i> (Fall 2024)</li> (Now at Ohio State University)
-    <li>Zhi Cheng Guan, <i>Undergraduate Research Student</i> (Spring 2024)</li> (Now at Wabtec Corporation)     
-    </body>
-    <li>Brandon Villanueva, <i>Undergraduate Research Student</i> (Spring-Summer 2024)</li>  
+  <ul>
+    <li>Hongfei Liu, <i>Undergraduate Research Student</i> (Spring 2024) — Now at Carnegie Mellon University</li>
+    <li>Hongru Liu, <i>Undergraduate Research Student</i> (Spring 2024) — Now at Carnegie Mellon University</li>
+    <li>Travis Johnson, <i>Undergraduate Research Student</i> (Fall 2024) — Now at Ohio State University</li>
+    <li>Zhi Cheng Guan, <i>Undergraduate Research Student</i> (Spring 2024) — Now at Wabtec Corporation</li>
+    <li>Brandon Villanueva, <i>Undergraduate Research Student</i> (Spring–Summer 2024)</li>
+  </ul>
+</body>
+
      
 
 

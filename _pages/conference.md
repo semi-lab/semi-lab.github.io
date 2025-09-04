@@ -10,6 +10,19 @@ nav_order: null
 <!-- Filter bar -->
 <input type="text" id="confFilter" placeholder="Filter by author, title, year, etc." style="margin-bottom: 1em; padding: 0.5em; width: 100%; max-width: 400px; border-radius: 5px; border: 1px solid #ccc;">
 
+<div class="year">2025</div>
+
+<p class="paper-entry">15. S. Chen, F. Zhou, BN. Reggetz, EG. Lee, MA. Virji, A. Afshari, MBG. Jun, <u>S. Akin</u>, “Polymer metallization via cold spray: an investigation into the effects of particle hardness and morphology”, 
+  <i>North American Manufacturing Research Conference (NAMRC)</i>, 2025. 
+  <a href="https://doi.org/10.1016/j.mfglet.2025.06.039">[Link]</a>, 
+  <a href="https://semi-lab.github.io/assets/pdf/hardness.pdf">[PDF]</a></p>
+
+  <p class="paper-entry">14. M. Muhtadin, JT. Tsai, <u>S. Akin</u>, “Additive manufacturing of radially oriented gyroid carbon fiber composites for low-temperature thermal absorber applications”, 
+  <i>North American Manufacturing Research Conference (NAMRC)</i>, 2025. 
+  <a href="https://doi.org/10.1016/j.mfglet.2025.06.096">[Link]</a>, 
+  <a href="https://semi-lab.github.io/assets/pdf/gyroid.pdf">[PDF]</a></p>
+
+
 <p class="paper-entry">13. YW. Kim, <u>S. Akin</u>, MBG. Jun, J. Sutherland, “Cold spray-produced functional surfaces for triboelectric nanogenerators”, 
   <i>ASME International Mechanical Engineering Congress & Exposition (IMECE)</i>, 2024. 
   <span style="float: right; font-size: 17px; color: red; font-weight: bold;">-Best Paper Award-</span>
