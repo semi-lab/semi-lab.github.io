@@ -56,11 +56,14 @@ nav_order: null
   <a href="https://asmedigitalcollection.asme.org/MSEC/proceedings/MSEC2022/85802/V001T01A029/1146942">[Link]</a>, 
   <a href="https://semi-lab.github.io/assets/pdf/MSEC_2.pdf">[PDF]</a></p>
 
-<div class="year" style="font-size: 28px; text-align: right;">2021</div>
 
 <p class="paper-entry">6. T. Chang, <u>S. Akin</u>, L. Couetil, MBG. Jun, C.H. Lee, “Dual regime spray of functional nanomaterials for electronic textiles”, 
   <i>Material Research Society (MRS)</i>, 2022. 
   <a href="https://www.mrs.org/meetings-events/presentation/2022_mrs_spring_meeting/2022_mrs_spring_meeting-3670815">[Link]</a></p>
+
+
+<div class="year" style="font-size: 28px; text-align: right;">2021</div>
+
 
 <p class="paper-entry">5. <u>S. Akin</u>, J.H. Kim, MBG. Jun, “Electrically conductive textiles based on decoupled atomized spray coating and electroless plating”, 
   <i>International Symposium on Precision Engineering and Sustainable Manufacturing (PRESM)</i>, 2021.</p>
