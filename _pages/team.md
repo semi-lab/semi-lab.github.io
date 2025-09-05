@@ -187,9 +187,26 @@ nav_order: 3
         <br>
         <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
         <br>
-        Research Interests: 3D printed electronic, Rapid prototyping, RFID
+        Research Interests: 3D printed electronics, Rapid prototyping, RFID
         <br>
        &#128231;<a href="richag3@rpi.edu" style="margin-right: 10px;">richag3@rpi.edu</a>         
+    </div>
+</div>
+<br>
+
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/Akshay.png" width="150" height="170"/>
+    <div style="text-align: left; margin-left: 20px;">
+        <span style="font-size: 20px;"><b> Akshay Rao Ananda
+</b></span>
+        <br>
+        <span style="font-size: 17px;">BS Student </span>
+        <br>
+        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
+        <br>
+        Research Interests: 3D printed electronics, Rapid prototyping, Additive manufacturing
+        <br>
+       &#128231;<a href="raoana@rpi.edu" style="margin-right: 10px;">raoana@rpi.edu</a>         
     </div>
 </div>
 <br>
