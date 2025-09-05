@@ -126,7 +126,7 @@ nav_order: 3
     </div>
 <br>
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/Nicholas.jpeg" width="150" height="170"/>
+    <img src="../assets/img/Nicholas.png" width="150" height="170"/>
     <div style="text-align: left; margin-left: 20px;">
         <span style="font-size: 20px;"><b>Nicholas D. Walker</b></span>
         <br>
@@ -178,38 +178,23 @@ nav_order: 3
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/Hongfei.png" width="150" height="170"/>
+    <img src="../assets/img/Grace.png" width="150" height="170"/>
     <div style="text-align: left; margin-left: 20px;">
-        <span style="font-size: 20px;"><b>Hongfei Liu
+        <span style="font-size: 20px;"><b> Grace Richard
 </b></span>
         <br>
         <span style="font-size: 17px;">BS Student </span>
         <br>
         <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
         <br>
-        Research Interests: 3D printing, Space resource utilization, Manufacturing for space
+        Research Interests: 3D printed electronic, Rapid prototyping, RFID
         <br>
-       &#128231;<a href="mailto:liuh23@rpi.edu" style="margin-right: 10px;">liuh23@rpi.edu</a>         
+       &#128231;<a href="richag3@rpi.edu" style="margin-right: 10px;">richag3@rpi.edu</a>         
     </div>
 </div>
 <br>
 
-<div style="display: flex; align-items: center;">
-    <img src="../assets/img/Hongru.jpg" width="150" height="170"/>
-    <div style="text-align: left; margin-left: 20px;">
-        <span style="font-size: 20px;"><b>Hongru Liu
-</b></span>
-        <br>
-        <span style="font-size: 17px;">BS Student </span>
-        <br>
-        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
-        <br>
-        Research Interests: 3D printing, Space resource utilization, Manufacturing for space
-        <br>
-       &#128231;<a href="mailto:liuh24@rpi.edu" style="margin-right: 10px;">liuh24@rpi.edu</a>         
-     </div>
-</div>
-<br>
+
 <!-- <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <img src="../assets/img/Brandon.jpg" width="150" height="170" style="margin-right: 20px;">
     <div style="text-align: left;">
