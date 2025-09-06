@@ -28,7 +28,7 @@ nav_order: null
   <i>ASME International Mechanical Engineering Congress & Exposition (IMECE)</i>, 2024. 
   <span style="float: right; font-size: 17px; color: red; font-weight: bold;">-Best Paper Award-</span>
 </p>
-
+ <br>
 <p class="paper-entry">12. J. Lee, <u>S. Akin</u>, Y. Kim, E. Kim, J. Nam, K. Song, MBG. Jun, “A stethoscope-guided interpretable deep learning framework for powder flow diagnosis in cold spray additive manufacturing”, 
   <i>North American Manufacturing Research Conference (NAMRC-52)</i>, 2024.</p>
 
