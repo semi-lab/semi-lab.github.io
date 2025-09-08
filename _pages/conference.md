@@ -12,17 +12,29 @@ nav_order: null
 
 <div class="year" style="font-size: 28px; text-align: right;">2025</div>
 
-<p class="paper-entry">15. S. Chen, F. Zhou, BN. Reggetz, EG. Lee, MA. Virji, A. Afshari, MBG. Jun, <u>S. Akin</u>, “Polymer metallization via cold spray: an investigation into the effects of particle hardness and morphology”, 
+<p class="paper-entry">17. S. Chen, F. Zhou, BN. Reggetz, EG. Lee, MA. Virji, A. Afshari, MBG. Jun, <u>S. Akin</u>, “Polymer metallization via cold spray: an investigation into the effects of particle hardness and morphology”, 
   <i>North American Manufacturing Research Conference (NAMRC)</i>, 2025. 
   <a href="https://doi.org/10.1016/j.mfglet.2025.06.039">[Link]</a>, 
   <a href="https://semi-lab.github.io/assets/pdf/hardness.pdf">[PDF]</a></p>
 
-  <p class="paper-entry">14. M. Muhtadin, JT. Tsai, <u>S. Akin</u>, “Additive manufacturing of radially oriented gyroid carbon fiber composites for low-temperature thermal absorber applications”, 
+  <p class="paper-entry">16. M. Muhtadin, JT. Tsai, <u>S. Akin</u>, “Additive manufacturing of radially oriented gyroid carbon fiber composites for low-temperature thermal absorber applications”, 
   <i>North American Manufacturing Research Conference (NAMRC)</i>, 2025. 
   <a href="https://doi.org/10.1016/j.mfglet.2025.06.096">[Link]</a>, 
   <a href="https://semi-lab.github.io/assets/pdf/gyroid.pdf">[PDF]</a></p>
 
+
+  <p class="paper-entry">15. S. Huang, J. Ren, P. Zhou, S. Rahman,  K. Young, S.S. Rahman, S. Mishra, J. Samuel, F. Kopsaftopoulos, <u>S. Akin</u>, “A multifunctional smart metal beam with sub-surface embedded sensors for real-time structural health monitoring”, 
+  <i>International Workshop on Structural Health Monitoring (IWSHM)</i>, 2025. 
+  <a href="https://www.openconf.org/iwshm2025/modules/request.php?module=oc_program&action=summary.php&id=20250411">[Link]</a>, 
+  </p>
+
+  <p class="paper-entry">14. P. Zhou, J. Ren, J.S. Schure, S. Huang, S. Rahman, J. Samuel, <u>S. Akin</u>, F. Kopsaftopoulos,“Embedded piezoelectric sensing for metallic components: A novel SHM architecture for self-aware structures”, 
+  <i>International Workshop on Structural Health Monitoring (IWSHM)</i>, 2025. 
+  <a href="https://www.openconf.org/iwshm2025/modules/request.php?module=oc_program&action=summary.php&id=20250411">[Link]</a>, 
+  </p>
+
 <div class="year" style="font-size: 28px; text-align: right;">2024</div>
+
 
 <p class="paper-entry">13. YW. Kim, <u>S. Akin</u>, MBG. Jun, J. Sutherland, “Cold spray-produced functional surfaces for triboelectric nanogenerators”, 
   <i>ASME International Mechanical Engineering Congress & Exposition (IMECE)</i>, 2024. 
