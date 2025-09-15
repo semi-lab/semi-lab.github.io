@@ -25,12 +25,13 @@ nav_order: null
 
   <p class="paper-entry">15. S. Huang, J. Ren, P. Zhou, S. Rahman,  K. Young, S.S. Rahman, S. Mishra, J. Samuel, F. Kopsaftopoulos, <u>S. Akin</u>, “A multifunctional smart metal beam with sub-surface embedded sensors for real-time structural health monitoring”, 
   <i>International Workshop on Structural Health Monitoring (IWSHM)</i>, 2025. 
-  <a href="https://www.openconf.org/iwshm2025/modules/request.php?module=oc_program&action=summary.php&id=20250411">[Link]</a>, 
+  <a href="https://www.openconf.org/iwshm2025/modules/request.php?module=oc_program&action=summary.php&id=20250411">[Link]</a>
   </p>
 
   <p class="paper-entry">14. P. Zhou, J. Ren, J.S. Schure, S. Huang, S. Rahman, J. Samuel, <u>S. Akin</u>, F. Kopsaftopoulos,“Embedded piezoelectric sensing for metallic components: A novel SHM architecture for self-aware structures”, 
   <i>International Workshop on Structural Health Monitoring (IWSHM)</i>, 2025. 
-  <a href="https://www.openconf.org/iwshm2025/modules/request.php?module=oc_program&action=summary.php&id=20250411">[Link]</a>, 
+  <a href="https://www.openconf.org/iwshm2025/modules/request.php?module=oc_program&action=summary.php&id=20250411">[Link]</a>
+   <span style="float: right; font-size: 17px; color: red; font-weight: bold;">-Best Paper Award-</span>
   </p>
 
 <div class="year" style="font-size: 28px; text-align: right;">2024</div>
