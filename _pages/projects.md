@@ -32,7 +32,7 @@ horizontal: true
                     >
                     <!-- Fallback to the original file -->
                     <img
-                      src="/assets/img/space.webp"
+                      src="/assets/img/space2.webp"
                       alt="In-space Manufacturing & In-situ Resource Utilization"
                       loading="lazy"
                     >
