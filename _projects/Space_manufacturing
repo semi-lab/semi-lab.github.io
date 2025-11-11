@@ -1,8 +1,8 @@
 ---
 layout: page
 title: In-space Manufacturing & In-situ Resource Utilization 
-description: In-space Manufacturing (ISM) and In-situ Resource Utilization (ISRU) together enable the fabrication of components and extraction of essential resources directly from extraterrestrial materials, reducing Earth dependence and enhancing the sustainability of space missions.  
-img: /assets/img/space.webp
+description: 
+img: /assets/img/space2.webp
 importance: 1
 category: Space Manufacturing
 giscus_comments: false
@@ -21,18 +21,17 @@ giscus_comments: false
         <img src="{{ '/assets/img/space2.webp' | relative_url }}" class="img-fluid custom-image-size rounded z-depth-1" loading="lazy" width="your_width" height="your_height">
     </div>
 </div>
-This research thrust advances solid-state and additive manufacturing technologies to enable the in-situ fabrication, repair, and functionalization of components for the emerging domains of In-Space Manufacturing (ISM) and In-Situ Resource Utilization (ISRU). By producing metallic, electronic, and multifunctional structures on demand, ISM reduces Earth dependence and enhances mission adaptability for long-duration space exploration.
-
-Complementarily, our group investigates ISRU strategies to harness and transform lunar regolith simulants into engineering feedstocks for structural, conductive, and energy-harvesting applications. Through material processing, surface engineering, and additive consolidation, ISRU enables sustainable in-space construction, energy generation, and infrastructure development essential for future lunar and planetary missions.
+Our group advances solid-state and additive manufacturing technologies to enable in-situ fabrication, repair, and functionalization of components for In-Space Manufacturing (ISM) and In-Situ Resource Utilization (ISRU). By creating metallic, electronic, and multifunctional structures directly from regolith-based feedstocks, our research aims to reduce Earth dependence and pave the way for sustainable, long-duration lunar and deep-space missions.
+Complementarily, we investigate ISRU strategies to harness and convert lunar regolith simulants into engineering feedstocks for structural,  energy-harvesting, and dust mitigation applications. Through integrated material processing, surface engineering, and additive manufacturing, we aim to develop functional coatings and components that enable sustainable in-space construction, energy generation, and environmental resilience for future lunar and planetary missions.
 
 <br>
 <br>
 <b>Our current work explores:</b>
 <ul>
   <li><b>Powder engineering of lunar and Martian regolith simulants</b></li>
-  <li><b>Multiphysics modeling framework for CSAM-based regolith coating deposition under space conditions</b></li>
   <li><b>Design and development of novel regolith-based surface architectures for multifunctional applications</b></li>
   <li><b>Multi-scale additive manufacturing of regolith-derived materials</b></li>
+  <li><b>Multiphysics modeling of regolith deposition under space conditions (i.e., vacuum, microgravity, radiation)</b></li>
 </ul>
 
 
