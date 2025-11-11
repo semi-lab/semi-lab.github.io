@@ -101,7 +101,7 @@ horizontal: true
                 <div class="card-body">
                   <h3 class="card-title">Physically Unclonable Surfaces</h3>
                   <p class="card-text">
-                    Physically Unclonable Surfaces (PUSs) feature inherently random micro- and nano-scale textures formed during manufacturing that cannot be replicated. These unique surface patterns act as physical fingerprints for secure identification, authentication, and anti-counterfeiting applications.
+                    Physically Unclonable Surfaces feature inherently random micro- and nano-scale textures formed during manufacturing that cannot be replicated. These unique surface patterns act as fingerprints for secure identification, authentication, and anti-counterfeiting applications.
                   </p>
                   <div class="row ml-1 mr-1 p-0"></div>
                 </div>
