@@ -13,7 +13,7 @@ horizontal: true
 <!-- 1st card (project) -->
 <div class="projects">
   <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
-    In-space Manufacturing & In-situ Resource Utilization
+    In-space Manufacturing <br> & In-situ Resource Utilization
   </h2>
 
   <div class="container">
