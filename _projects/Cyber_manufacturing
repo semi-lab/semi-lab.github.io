@@ -1,10 +1,10 @@
 ---
 layout: page
-title: In-space Manufacturing & In-situ Resource Utilization 
+title: Physically Unclonable Surfaces
 description: 
-img: /assets/img/space2.webp
+img: /assets/img/cyber2.webp
 importance: 1
-category: Space Manufacturing
+category: Cyber_Manufacturing
 giscus_comments: false
 ---
 
@@ -18,20 +18,19 @@ giscus_comments: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        <img src="{{ '/assets/img/space2.webp' | relative_url }}" class="img-fluid custom-image-size rounded z-depth-1" loading="lazy" width="your_width" height="your_height">
+        <img src="{{ '/assets/img/cyber2.webp' | relative_url }}" class="img-fluid custom-image-size rounded z-depth-1" loading="lazy" width="your_width" height="your_height">
     </div>
 </div>
-Our group advances solid-state and additive manufacturing technologies to enable in-situ fabrication, repair, and functionalization of components for In-Space Manufacturing (ISM) and In-Situ Resource Utilization (ISRU). By creating metallic, electronic, and multifunctional structures directly from regolith-based feedstocks, our research aims to reduce Earth dependence and pave the way for sustainable, long-duration lunar and deep-space missions.
-Complementarily, we investigate ISRU strategies to harness and convert lunar regolith simulants into engineering feedstocks for structural,  energy-harvesting, and dust mitigation applications. Through integrated material processing, surface engineering, and additive manufacturing, we aim to develop functional coatings and components that enable sustainable in-space construction, energy generation, and environmental resilience for future lunar and planetary missions.
 
 <br>
+Our research on Physically Unclonable Surfaces  focuses on creating surface-based security architectures that exploit the inherent randomness of solid-state additive manufacturing.  We generate Physically Unclonable Functions (PUFs) with unique micro/nano-scale textures that act as physical fingerprints for smart part authentication and traceability. These surfaces are digitally converted through image processing and feature encoding into distinctive identifiers, enabling tamper-proof verification and counterfeit prevention. <br>
 <br>
 <b>Our current work explores:</b>
 <ul>
-  <li><b>Powder engineering of lunar and Martian regolith simulants</b></li>
-  <li><b>Design and development of novel regolith-based surface architectures for multifunctional applications</b></li>
-  <li><b>Multi-scale additive manufacturing of regolith-derived materials</b></li>
-  <li><b>Multiphysics modeling of regolith deposition under space conditions (i.e., vacuum, microgravity, radiation)</b></li>
+  <li><b>Process-signature correleations</b></li>
+  <li><b>Algorithmic and AI-driven authentication frameworks</b></li>
+  <li><b>Multimodal PUF integration via optical, topographical, and electrical surface responses</b></li>
+  <li><b>Cybersecurity and Blockchain Integration:</b></li>
 </ul>
 
 
