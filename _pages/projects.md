@@ -5,11 +5,62 @@ permalink: /research/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Spray-Based Additive Manufacturing, Polymer Metallization, Printed  Electronics, Energy Devices and Smart Sensor]
+display_categories: [In-space Manufacturing & In-situ Resource Utilization, Spray-Based Additive Manufacturing, Printed  Electronics, Energy Devices and Smart Sensor]
 horizontal: true
 ---
 
+
 <!-- 1st card (project) -->
+<div class="projects">
+  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
+    In-space Manufacturing & In-situ Resource Utilization
+  </h2>
+
+  <div class="container">
+    <div class="row row-cols-1">
+      <div class="card-item col">
+        <a href="https://semi-lab.github.io/projects/Space_manufacturing/">
+          <div class="card hoverable">
+            <div class="row g-0">
+              <div class="card-img col-md-4">
+                <figure>
+                  <picture>
+                    <source
+                      class="responsive-img-srcset"
+                      media="(max-width: 600px)"
+                      srcset="/assets/img/space.webp"
+                    >
+                    <!-- Fallback to the original file -->
+                    <img
+                      src="/assets/img/space.webp"
+                      alt="In-space Manufacturing & In-situ Resource Utilization"
+                      loading="lazy"
+                    >
+                  </picture>
+                </figure>
+              </div>
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h3 class="card-title">
+                    In-space Manufacturing & In-situ Resource Utilization
+                  </h3>
+                  <p class="card-text">
+                    In-space Manufacturing (ISM) and In-situ Resource Utilization (ISRU) together enable the
+                    fabrication of components and extraction of essential resources directly from extraterrestrial
+                    materials, reducing Earth dependence and enhancing the sustainability of space missions.
+                  </p>
+                  <div class="row ml-1 mr-1 p-0"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 2nd card (project) -->
 
 <div class="projects">
   <!-- Display categorized projects -->
