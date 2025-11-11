@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Polymer Metallization
-description: Polymer metallization is a crucial technology that bridges the gap between the diverse properties of polymers and the desirable electrically conductive attributes of metals. It plays a pivotal role in a wide range of industries, including electronics, automotive, aerospace, energy harvesting, and many more.  
-img: /assets/img/ACS_cover1.jpg
+title: In-space Manufacturing & In-situ Resource Utilization 
+description: In-space Manufacturing (ISM) and In-situ Resource Utilization (ISRU) together enable the fabrication of components and extraction of essential resources directly from extraterrestrial materials, reducing Earth dependence and enhancing the sustainability of space missions.  
+img: /assets/img/space.webp
 importance: 1
 category: Space Manufacturing
 giscus_comments: false
@@ -18,18 +18,23 @@ giscus_comments: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        <img src="{{ '/assets/img/Polymer_metallization2.webp' | relative_url }}" class="img-fluid custom-image-size rounded z-depth-1" loading="lazy" width="your_width" height="your_height">
+        <img src="{{ '/assets/img/space2.webp' | relative_url }}" class="img-fluid custom-image-size rounded z-depth-1" loading="lazy" width="your_width" height="your_height">
     </div>
 </div>
+This research thrust advances solid-state and additive manufacturing technologies to enable the in-situ fabrication, repair, and functionalization of components for the emerging domains of In-Space Manufacturing (ISM) and In-Situ Resource Utilization (ISRU). By producing metallic, electronic, and multifunctional structures on demand, ISM reduces Earth dependence and enhances mission adaptability for long-duration space exploration.
 
-Polymer metallization is instrumental in the production of flexible electronics, RFID tags, and electromagnetic interference (EMI) shielding materials, allowing for lightweight and durable solutions in an ever-evolving technological landscape. It represents an essential aspect of modern materials science, surface engineering, and manufacturing, facilitating innovation in product design and performance across numerous sectors.
+Complementarily, our group investigates ISRU strategies to harness and transform lunar regolith simulants into engineering feedstocks for structural, conductive, and energy-harvesting applications. Through material processing, surface engineering, and additive consolidation, ISRU enables sustainable in-space construction, energy generation, and infrastructure development essential for future lunar and planetary missions.
+
 <br>
 <br>
-<b> Our current work explores:</b>
+<b>Our current work explores:</b>
 <ul>
-<li> <b> Multifield modeling framework for CSAM-based polymer metallization </b> </li>
-<li> <b> Explorations of novel surface structures, design and development of multifunctional surfaces </b> 
-<li> <b> Multi-scale additive manufacturing of smart films on polymer substrates </b> </li>
+  <li><b>Powder engineering of lunar and Martian regolith simulants</b></li>
+  <li><b>Multiphysics modeling framework for CSAM-based regolith coating deposition under space conditions</b></li>
+  <li><b>Design and development of novel regolith-based surface architectures for multifunctional applications</b></li>
+  <li><b>Multi-scale additive manufacturing of regolith-derived materials</b></li>
+</ul>
+
 
 
 
