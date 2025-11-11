@@ -13,7 +13,7 @@ horizontal: true
 <!-- 1st card (project) -->
 <div class="projects">
   <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
-    In-space Manufacturing & ISRU
+    In-space Manufacturing & In-situ Resource Utilization
   </h2>
 
   <div class="container">
@@ -28,11 +28,11 @@ horizontal: true
                     <source
                       class="responsive-img-srcset"
                       media="(max-width: 600px)"
-                      srcset="/assets/img/space.webp"
+                      srcset="/assets/img/space2.webp"
                     >
                     <!-- Fallback to the original file -->
                     <img
-                      src="/assets/img/space.webp"
+                      src="/assets/img/space2.webp"
                       alt="In-space Manufacturing & In-situ Resource Utilization"
                       loading="lazy"
                     >
@@ -42,10 +42,10 @@ horizontal: true
               <div class="col-md-8">
                 <div class="card-body">
                   <h3 class="card-title">
-                    In-space Manufacturing & In-situ Resource Utilization
+                    In-space Manufacturing & ISRU
                   </h3>
                   <p class="card-text">
-                    In-space Manufacturing (ISM) and In-situ Resource Utilization (ISRU) together enable the
+                    In-space Manufacturing and In-situ Resource Utilization (ISRU) together enable the
                     fabrication of components and extraction of essential resources directly from extraterrestrial
                     materials, reducing Earth dependence and enhancing the sustainability of space missions.
                   </p>
