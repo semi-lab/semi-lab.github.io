@@ -45,7 +45,7 @@ horizontal: true
                     In-space Manufacturing & ISRU
                   </h3>
                   <p class="card-text">
-                    In-space Manufacturing and In-situ Resource Utilization (ISRU) together enable the
+                    In-space Manufacturing and In-situ Resource Utilization (ISRU) enable the
                     fabrication of components and extraction of essential resources directly from extraterrestrial
                     materials, reducing Earth dependence and enhancing the sustainability of space missions.
                   </p>
@@ -60,7 +60,57 @@ horizontal: true
   </div>
 </div>
 
+
+
 <!-- 2nd card (project) -->
+<div class="projects">
+  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
+    Physically Unclonable Surfaces
+  </h2>
+
+  <div class="container">
+    <div class="row row-cols-1">
+      <div class="card-item col">
+        <a href="https://semi-lab.github.io/projects/Cyber_manufacturing/">
+          <div class="card hoverable">
+            <div class="row g-0">
+              <div class="card-img col-md-4">
+                <figure>
+                  <picture>
+                    <source
+                      class="responsive-img-srcset"
+                      media="(max-width: 600px)"
+                      srcset="/assets/img/cyber.webp"
+                    >
+                    <!-- Fallback to the original file -->
+                    <img
+                      src="/assets/img/cyber.webp"
+                      alt="Physically Unclonable Surfaces"
+                      loading="lazy"
+                    >
+                  </picture>
+                </figure>
+              </div>
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h3 class="card-title">
+                    Physically Unclonable Surfaces
+                  </h3>
+                  <p class="card-text">
+                    Physically Unclonable Surfaces are surfaces with inherently random micro- or nano-scale features formed during manufacturing, which cannot be reproduced or cloned. These unique surface patterns serve as physical fingerprints for secure identification, authentication, and anti-counterfeiting applications.
+                  </p>
+                  <div class="row ml-1 mr-1 p-0"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 3th card (project) -->
 
 <div class="projects">
   <!-- Display categorized projects -->
@@ -164,44 +214,48 @@ horizontal: true
     </div>
   </div>
 
-<!-- 3th card (project) -->
+<!-- 
+3rd card (project)
 
 <div class="projects">
   <!-- Display categorized projects -->
-  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);"> Printed Electronics</h2>
+  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">Printed Electronics</h2>
   <!-- Generate cards for each project -->
   <div class="container">
     <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
     <!-- <div class="row row-cols-2"> -->
     <div class="row row-cols-1">
-<div class="card-item col">
-<a href="https://semi-lab.github.io/projects/Printed_electronics/"><div class="card hoverable">
-      <div class="row g-0">
-<div class="card-img col-md-4">
-          <figure>
-   <picture>
-    <!-- Add source element for responsive images -->
-    <source media="(max-width: 600px)" srcset="/assets/img/printedelectronics.webp">
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/printedelectronics.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; this.remove();">
-  </picture>
-</figure>
-        </div>
-        <div class="col-md-8">
-<div class="card-body">
-            <h3 class="card-title">Printed Electronics
-</h3>
-            <p class="card-text">Printed electronics are central in driving technological progress and revolutionizing industries. Their flexibility unlocks novel applications in healthcare, consumer electronics, and beyond.
-</p>
-            <div class="row ml-1 mr-1 p-0"></div>
+      <div class="card-item col">
+        <a href="https://semi-lab.github.io/projects/Printed_electronics/">
+          <div class="card hoverable">
+            <div class="row g-0">
+              <div class="card-img col-md-4">
+                <figure>
+                  <picture>
+                    <!-- Add source element for responsive images -->
+                    <source media="(max-width: 600px)" srcset="/assets/img/printedelectronics.webp">
+                    <!-- Fallback to the original file -->
+                    <img src="/assets/img/printedelectronics.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; this.remove();">
+                  </picture>
+                </figure>
+              </div>
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h3 class="card-title">Printed Electronics</h3>
+                  <p class="card-text">
+                    Printed electronics are central in driving technological progress and revolutionizing industries. 
+                    Their flexibility unlocks novel applications in healthcare, consumer electronics, and beyond.
+                  </p>
+                  <div class="row ml-1 mr-1 p-0"></div>
+                </div>
+              </div>
+            </div>
           </div>
-        </div>
+        </a>
       </div>
     </div>
-  </a>
-</div>
-    </div>
   </div>
+</div>
 
 <!-- 4th card (project) -->
 
