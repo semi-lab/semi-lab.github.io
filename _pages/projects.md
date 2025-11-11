@@ -5,7 +5,7 @@ permalink: /research/
 description: 
 nav: true
 nav_order: 2
-display_categories: [In-space Manufacturing & In-situ Resource Utilization, Spray-Based Additive Manufacturing, Printed  Electronics, Energy Devices and Smart Sensor]
+display_categories: [In-space Manufacturing & In-situ Resource Utilization, Physically Unclonable Surfaces, Spray-Based Additive Manufacturing, Printed  Electronics, Energy Devices and Smart Sensor]
 horizontal: true
 ---
 
@@ -64,40 +64,44 @@ horizontal: true
 
 <!-- 2nd card (project) -->
 <div class="projects">
+  <!-- Project category heading -->
   <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
     Physically Unclonable Surfaces
   </h2>
 
+  <!-- Container for project cards -->
   <div class="container">
     <div class="row row-cols-1">
       <div class="card-item col">
         <a href="https://semi-lab.github.io/projects/Cyber_manufacturing/">
           <div class="card hoverable">
-            <div class="row g-0">
+            <div class="row g-0">              
+              <!-- Card image -->
               <div class="card-img col-md-4">
                 <figure>
                   <picture>
                     <source
                       class="responsive-img-srcset"
                       media="(max-width: 600px)"
-                      srcset="/assets/img/cyber.webp"
-                    >
+                      srcset="/assets/img/cyber1.webp"
+                    />
                     <!-- Fallback to the original file -->
                     <img
-                      src="/assets/img/cyber.webp"
+                      src="/assets/img/cyber1.webp"
                       alt="Physically Unclonable Surfaces"
                       loading="lazy"
-                    >
+                      width="100%"
+                      height="auto"
+                    />
                   </picture>
                 </figure>
               </div>
+              <!-- Card body -->
               <div class="col-md-8">
                 <div class="card-body">
-                  <h3 class="card-title">
-                    Physically Unclonable Surfaces
-                  </h3>
+                  <h3 class="card-title">Physically Unclonable Surfaces</h3>
                   <p class="card-text">
-                    Physically Unclonable Surfaces are surfaces with inherently random micro- or nano-scale features formed during manufacturing, which cannot be reproduced or cloned. These unique surface patterns serve as physical fingerprints for secure identification, authentication, and anti-counterfeiting applications.
+                    Physically Unclonable Surfaces (PUSs) feature inherently random micro- and nano-scale textures formed during manufacturing that cannot be replicated. These unique surface patterns act as physical fingerprints for secure identification, authentication, and anti-counterfeiting applications.
                   </p>
                   <div class="row ml-1 mr-1 p-0"></div>
                 </div>
@@ -109,6 +113,7 @@ horizontal: true
     </div>
   </div>
 </div>
+
 
 <!-- 3th card (project) -->
 
