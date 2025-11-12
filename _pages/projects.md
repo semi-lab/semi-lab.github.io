@@ -83,11 +83,11 @@ horizontal: true
                     <source
                       class="responsive-img-srcset"
                       media="(max-width: 600px)"
-                      srcset="/assets/img/cyber1.webp"
+                      srcset="/assets/img/cyber11.webp"
                     />
                     <!-- Fallback to the original file -->
                     <img
-                      src="/assets/img/cyber1.webp"
+                      src="/assets/img/cyber11.webp"
                       alt="Physically Unclonable Surfaces"
                       loading="lazy"
                       width="100%"
