@@ -44,7 +44,7 @@ horizontal: true
                   <h3 class="card-title">                    
                   </h3>
                   <p class="card-text">
-                  In-space Manufacturing and In-situ Resource Utilization (ISRU) enable the fabrication of components and the extraction of essential resources directly from extraterrestrial materials, reducing dependence on Earth. By converting lunar and Martian regolith into structural, functional, and energy-relevant materials, these approaches support autonomous construction, habitat development, and on-demand repair.
+                 In-space Manufacturing and In-situ Resource Utilization (ISRU) enable the fabrication of components and extraction of essential resources directly from extraterrestrial materials, reducing reliance on Earth. By converting lunar and Martian regolith into structural, functional, and energy-relevant materials, these approaches support autonomous construction, habitat development, and on-demand repair.
                   </p>
                   <div class="row ml-1 mr-1 p-0"></div>
                 </div>
@@ -98,7 +98,7 @@ horizontal: true
                 <div class="card-body">
                   <h3 class="card-title"></h3>
                   <p class="card-text">
-                    Physically Unclonable Surfaces feature inherently random micro- and nano-scale textures formed during manufacturing that cannot be replicated. These stochastic surface patterns serve as robust physical fingerprints for secure identification, authentication, and anti-counterfeiting. These surfaces enable tamper-evident labeling, covert product tracking, and resilient security architectures that are highly resistant to cloning, and reverse engineering.
+                    Physically Unclonable Surfaces feature inherently random micro- and nano-scale textures that cannot be replicated, serving as robust physical fingerprints for secure identification, authentication, and anti-counterfeiting. They enable tamper-evident labeling, covert product tracking, and security architectures highly resistant to cloning and reverse engineering.
                   </p>
                   <div class="row ml-1 mr-1 p-0"></div>
                 </div>
@@ -180,7 +180,7 @@ horizontal: true
         <div class="col-md-8">
 <div class="card-body">
             <h3 class="card-title"> </h3>
-            <p class="card-text"> 3D-Printed Smart Structures and Energy Devices refer to multifunctional components fabricated through additive manufacturing that integrate sensing, actuation, energy harvesting, or energy storage directly into their geometry. By embedding these capabilities during the printing process, such structures become inherently intelligent, enabling advanced performance in applications ranging from structural health monitoring to autonomous, self-powered systems.        
+            <p class="card-text"> 3D-Printed Smart Structures and Energy Devices are multifunctional components created through additive manufacturing that integrate sensing, actuation, energy harvesting, or energy storage directly into their geometry. Embedding these functions during printing produces intelligent, lightweight structures suitable for applications such as structural health monitoring and autonomous, self-powered systems.
             
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
@@ -220,8 +220,7 @@ horizontal: true
         <div class="col-md-8">
 <div class="card-body">
             <h3 class="card-title"> </h3>
-            <p class="card-text"> Mechanistic Modeling for Additive Manufacturing involves developing physics-based models that capture the fundamental thermal, mechanical, and material behaviors governing layer-by-layer fabrication. These models enable deeper insight into process–structure–property relationships, supporting predictive simulation, defect mitigation, and the optimization of advanced AM processes.       
-            
+            <p class="card-text"> Mechanistic Modeling for Additive Manufacturing develops physics-based models that capture the thermal, mechanical, and material behaviors governing layer-by-layer fabrication. These models reveal key process–structure–property relationships, enabling predictive simulation, defect mitigation, and optimized AM process performance.
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
