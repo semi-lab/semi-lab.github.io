@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Mechanistic_modeling
+title: Mechanistic Modeling for Additive Manufacturing
 description: 
-importance: 2
+img: /assets/img/mechanistic2.webp
+importance: 1
 category: Mechanistic_modeling
 giscus_comments: false
 ---
@@ -22,12 +23,12 @@ giscus_comments: false
     </div>
 </div>
 
-Our group develops rigorous, physics-based models that capture the thermal, mechanical, and materials-level phenomena governing advanced additive manufacturing processes. By elucidating fundamental process–structure–property relationships, we enable predictive simulation, data-informed process optimization, and defect-aware design strategies. These modeling capabilities serve as a foundation for accelerating innovation across our advanced AM research portfolio and for enhancing the reliability, performance, and scalability of next-generation AM technologies.<br>
+Our group develops physics-based models that capture the thermal, mechanical, and materials-level phenomena governing advanced additive manufacturing processes. By elucidating fundamental process–structure–property relationships, we enable predictive simulation, data-informed process optimization, and defect-aware design strategies. These modeling capabilities serve as a foundation for accelerating innovation across our advanced AM research portfolio and for enhancing the reliability, performance, and scalability of next-generation AM technologies.<br>
 <br>
 <b> Our current research directions:</b>
 <ul>
 <li> <b> Data-driven surrogate modeling for rapid AM process prediction</b> </li>
 <li> <b> Physics-informed machine learning for process–structure–property mapping </b> </li>
-<li> <b> Multiphysics simulation of thermal–mechanical interactions </b> </li>
+<li> <b> Multiphysics simulation of thermo-mechanical interactions </b> </li>
 <li> <b> Simulation-driven process optimization
 
