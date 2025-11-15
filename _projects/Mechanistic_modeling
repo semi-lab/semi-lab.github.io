@@ -22,6 +22,7 @@ giscus_comments: false
         <img src="{{ '/assets/img/mechanistic2.webp' | relative_url }}" class="img-fluid custom-image-size rounded z-depth-1">
     </div>
 </div>
+<br>
 
 Our group develops physics-based models that capture the thermal, mechanical, and materials-level phenomena governing advanced additive manufacturing processes. By elucidating fundamental process–structure–property relationships, we enable predictive simulation, data-informed process optimization, and defect-aware design strategies. These modeling capabilities serve as a foundation for accelerating innovation across our advanced AM research portfolio and for enhancing the reliability, performance, and scalability of next-generation AM technologies.<br>
 <br>
