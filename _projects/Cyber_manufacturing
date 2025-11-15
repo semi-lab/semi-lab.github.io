@@ -23,7 +23,7 @@ giscus_comments: false
 </div>
 
 <br>
-Our research on Physically Unclonable Surfaces  focuses on creating surface-based security architectures that exploit the inherent randomness of solid-state additive manufacturing.  We generate Physically Unclonable Functions (PUFs) with unique micro/nano-scale textures that act as physical fingerprints for smart part authentication and traceability. These surfaces are digitally converted through image processing and feature encoding into distinctive identifiers, enabling tamper-proof verification and counterfeit prevention. <br>
+Our research on Physically Unclonable Surfaces focuses on creating surface-based security architectures that exploit the inherent randomness of solid-state additive manufacturing.  We generate Physically Unclonable Functions (PUFs) with unique micro/nano-scale textures that act as physical fingerprints for smart part authentication and traceability. These surfaces are digitally converted through image processing and feature encoding into distinctive identifiers, enabling tamper-proof verification and counterfeit prevention. <br>
 <br>
 <b>Our current work explores:</b>
 <ul>
