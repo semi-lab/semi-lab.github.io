@@ -229,7 +229,7 @@ horizontal: true
               </div>
               <div class="col-md-8">
                 <div class="card-body">
-                  <h3 class="card-title">Mechanistic Modeling for Additive Manufacturing</h3>
+                  <h3 class="card-title"></h3>
                   <p class="card-text">
                     <strong>Mechanistic modeling for additive manufacturing</strong> develops physics-based models
                     that capture the underlying thermal, mechanical, and materials-level behaviors governing
