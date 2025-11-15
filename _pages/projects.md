@@ -220,7 +220,7 @@ horizontal: true
         <div class="col-md-8">
 <div class="card-body">
             <h3 class="card-title"> </h3>
-            <p class="card-text"> <strong>Mechanistic modeling</strong>  for additive manufacturing develops physics-based models that capture the thermal, mechanical, and material behaviors. These models reveal key process–structure–property relationships, enabling predictive simulation, defect mitigation, and optimized AM process performance.
+            <p class="card-text"> <strong>Mechanistic modeling for additive manufacturing</strong> develops physics-based models that capture the thermal, mechanical, and material behaviors. These models reveal key process–structure–property relationships, enabling predictive simulation, defect mitigation, and optimized AM process performance.
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
