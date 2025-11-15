@@ -13,7 +13,7 @@ horizontal: true
 <!-- 1st card (project) -->
 <div class="projects">
   <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
-    
+    In-space Manufacturing & In-situ Resource Utilization
   </h2>
 
   <div class="container">
@@ -41,8 +41,7 @@ horizontal: true
               </div>
               <div class="col-md-8">
                 <div class="card-body">
-                  <h3 class="card-title">
-                    In-space Manufacturing & ISRU
+                  <h3 class="card-title">                    
                   </h3>
                   <p class="card-text">
                     In-space Manufacturing and In-situ Resource Utilization (ISRU) enable the
@@ -99,7 +98,7 @@ horizontal: true
               <!-- Card body -->
               <div class="col-md-8">
                 <div class="card-body">
-                  <h3 class="card-title">Physically Unclonable Surfaces</h3>
+                  <h3 class="card-title"></h3>
                   <p class="card-text">
                     Physically Unclonable Surfaces feature inherently random micro- and nano-scale textures formed during manufacturing that cannot be replicated. These unique surface patterns act as fingerprints for secure identification, authentication, and anti-counterfeiting.
                   </p>
@@ -143,7 +142,7 @@ horizontal: true
         </div>
         <div class="col-md-8">
 <div class="card-body">
-            <h3 class="card-title">Polymer Metallization & Printed Electronics</h3>
+            <h3 class="card-title"></h3>
             <p class="card-text">Polymer metallization and printed electronics are redefining device fabrication by combining polymer flexibility with metal-like conductivity. Together, they enable lightweight, adaptable electronic systems for consumer devices and next-generation smart technologies.
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
@@ -218,7 +217,7 @@ horizontal: true
         </div>
         <div class="col-md-8">
 <div class="card-body">
-            <h3 class="card-title">3D-Printed Smart Structures and Energy Devices </h3>
+            <h3 class="card-title"> </h3>
             <p class="card-text"> 3D-Printed Smart Structures and Energy Devices refer to multifunctional components fabricated through additive manufacturing that integrate sensing, actuation, energy harvesting, or energy storage directly into their geometry.         
             
 </p>
