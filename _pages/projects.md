@@ -44,9 +44,7 @@ horizontal: true
                   <h3 class="card-title">                    
                   </h3>
                   <p class="card-text">
-                    In-space Manufacturing and In-situ Resource Utilization (ISRU) enable the
-                    fabrication of components and extraction of essential resources directly from extraterrestrial
-                    materials, reducing Earth dependence and enhancing the sustainability of space missions.
+                  In-space Manufacturing and In-situ Resource Utilization (ISRU) enable the fabrication of components and the extraction of essential resources directly from extraterrestrial materials, reducing dependence on Earth. By converting lunar and Martian regolith into structural, functional, and energy-relevant materials, these approaches support autonomous construction, habitat development, and on-demand repair.
                   </p>
                   <div class="row ml-1 mr-1 p-0"></div>
                 </div>
@@ -100,7 +98,7 @@ horizontal: true
                 <div class="card-body">
                   <h3 class="card-title"></h3>
                   <p class="card-text">
-                    Physically Unclonable Surfaces feature inherently random micro- and nano-scale textures formed during manufacturing that cannot be replicated. These unique surface patterns act as fingerprints for secure identification, authentication, and anti-counterfeiting.
+                    Physically Unclonable Surfaces feature inherently random micro- and nano-scale textures formed during manufacturing that cannot be replicated. These stochastic surface patterns serve as robust physical fingerprints for secure identification, authentication, and anti-counterfeiting. These surfaces enable tamper-evident labeling, covert product tracking, and resilient security architectures that are highly resistant to cloning, and reverse engineering.
                   </p>
                   <div class="row ml-1 mr-1 p-0"></div>
                 </div>
@@ -156,42 +154,6 @@ horizontal: true
   </div>
 
 
-<!-- 
-3rd card (project)
-
-<div class="projects">
-
-  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">Printed Electronics</h2>
-
-  <div class="container">
-
-    <div class="row row-cols-1">
-      <div class="card-item col">
-        <a href="https://semi-lab.github.io/projects/Printed_electronics/">
-          <div class="card hoverable">
-            <div class="row g-0">
-
-              <div class="card-img col-md-4">
-                <figure>
-                  <picture>
-                    <source media="(max-width: 600px)" srcset="/assets/img/printedelectronics.webp">
-                    <img src="/assets/img/printedelectronics.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; this.remove();">
-                  </picture>
-                </figure>
-              </div>
-
-              <div class="col-md-8">
-                <div class="card-body">
-                  <h3 class="card-title">Printed Electronics</h3>
-                  <p class="card-text">
-                    Polymer electronics and printed electronics are redefining device fabrication by combining polymer flexibility with metal-like conductivity. Together, they enable lightweight, adaptable systems for wearables, consumer electronics, and emerging smart technologies.
-                  </p>
-                  <div class="row ml-1 mr-1 p-0"></div>
-                </div>
-              </div>
-            <
-
-
 <!-- 4th card (project) -->
 
 <div class="projects">
@@ -218,7 +180,7 @@ horizontal: true
         <div class="col-md-8">
 <div class="card-body">
             <h3 class="card-title"> </h3>
-            <p class="card-text"> 3D-Printed Smart Structures and Energy Devices refer to multifunctional components fabricated through additive manufacturing that integrate sensing, actuation, energy harvesting, or energy storage directly into their geometry.         
+            <p class="card-text"> 3D-Printed Smart Structures and Energy Devices refer to multifunctional components fabricated through additive manufacturing that integrate sensing, actuation, energy harvesting, or energy storage directly into their geometry. By embedding these capabilities during the printing process, such structures become inherently intelligent, enabling advanced performance in applications ranging from structural health monitoring to autonomous, self-powered systems.        
             
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
@@ -231,35 +193,35 @@ horizontal: true
     </div>
   </div>
 
-<!-- 3th card (project) -->
+
+<!-- 4th card (project) -->
 
 <div class="projects">
-  <!-- Display categorized projects -->
-  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
-  Spray-based Additive Manufacturing
-</h2>
-   <!-- Generate cards for each project -->
+  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);"> Mechanistic Modeling for Additive Manufacturing </h2>
+  <!-- Generate cards for each project -->
   <div class="container">
     <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
     <!-- <div class="row row-cols-2"> -->
     <div class="row row-cols-1">
 <div class="card-item col">
-<a href="https://semi-lab.github.io/projects/Cold_spray/"><div class="card hoverable">
+<a href="https://semi-lab.github.io/projects/Energy_devices/"><div class="card hoverable">
       <div class="row g-0">
 <div class="card-img col-md-4">
           <figure>
   <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/coldspray4.webp">
+    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/energyharvesting.webp">
     <!-- Fallback to the original file -->
-    <img src="/assets/img/coldspray4.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/energyharvesting.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
   </picture>
+
 </figure>
         </div>
         <div class="col-md-8">
 <div class="card-body">
-            <h3 class="card-title">Cold Spray Additive Manufacturing
-</h3>
-            <p class="card-text"> Cold spray additive manufacturing is a transformative advanced manufacturing technique by using supersonic kinetic energy to deposit functional materials.
+            <h3 class="card-title"> </h3>
+            <p class="card-text"> Mechanistic Modeling for Additive Manufacturing involves developing physics-based models that capture the fundamental thermal, mechanical, and material behaviors governing layer-by-layer fabrication. These models enable deeper insight into process–structure–property relationships, supporting predictive simulation, defect mitigation, and the optimization of advanced AM processes.       
+            
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
@@ -268,31 +230,10 @@ horizontal: true
     </div>
   </a>
 </div>
-<div class="card-item col">
-<a href="https://semi-lab.github.io/projects/Aerosol_printing/"><div class="card hoverable">
-      <div class="row g-0">
-<div class="card-img col-md-4">
-          <figure>
-  <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling3.webp">
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/spraymodeling3.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-  </picture>
-</figure>
-        </div>
-        <div class="col-md-8">
-<div class="card-body">
-            <h3 class="card-title">Aerosol Jet Printing
-</h3>
-            <p class="card-text">Aerosol jet printing holds significant importance in precise and high-resolution material deposition for applications like flexible electronics, sensors, and printed circuit boards. 
-</p>
-            <div class="row ml-1 mr-1 p-0"></div>
-          </div>
-        </div>
-      </div>
     </div>
-  </a>
-</div>
+  </div>
+
+
 
 <br> 
 <p style="font-size: 33px; text-align: left; font-weight: bold;">Research Sponsors</p>
@@ -342,6 +283,121 @@ horizontal: true
     </div>
 
   </div>
+</div>
+
+-->
+
+
+<!-- 
+3rd card (project)
+
+<div class="projects">
+
+  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">Printed Electronics</h2>
+
+  <div class="container">
+
+    <div class="row row-cols-1">
+      <div class="card-item col">
+        <a href="https://semi-lab.github.io/projects/Printed_electronics/">
+          <div class="card hoverable">
+            <div class="row g-0">
+
+              <div class="card-img col-md-4">
+                <figure>
+                  <picture>
+                    <source media="(max-width: 600px)" srcset="/assets/img/printedelectronics.webp">
+                    <img src="/assets/img/printedelectronics.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; this.remove();">
+                  </picture>
+                </figure>
+              </div>
+
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h3 class="card-title">Printed Electronics</h3>
+                  <p class="card-text">
+                    Polymer electronics and printed electronics are redefining device fabrication by combining polymer flexibility with metal-like conductivity. Together, they enable lightweight, adaptable systems for wearables, consumer electronics, and emerging smart technologies.
+                  </p>
+                  <div class="row ml-1 mr-1 p-0"></div>
+                </div>
+              </div>
+            <
+
+<!-- 
+3rd card (project)
+
+<div class="projects">
+
+  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
+    Spray-based Additive Manufacturing
+  </h2>
+
+  <div class="container">
+
+    <div class="row row-cols-1">
+
+      <div class="card-item col">
+        <a href="https://semi-lab.github.io/projects/Cold_spray/">
+          <div class="card hoverable">
+            <div class="row g-0">
+
+              <div class="card-img col-md-4">
+                <figure>
+                  <picture>    
+                    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/coldspray4.webp">
+                    <img src="/assets/img/coldspray4.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+                  </picture>
+                </figure>
+              </div>
+
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h3 class="card-title">Cold Spray Additive Manufacturing</h3>
+                  <p class="card-text">
+                    Cold spray additive manufacturing is a transformative advanced manufacturing technique that uses supersonic kinetic energy to deposit functional materials.
+                  </p>
+                  <div class="row ml-1 mr-1 p-0"></div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </a>
+      </div>
+
+      <div class="card-item col">
+        <a href="https://semi-lab.github.io/projects/Aerosol_printing/">
+          <div class="card hoverable">
+            <div class="row g-0">
+
+              <div class="card-img col-md-4">
+                <figure>
+                  <picture>    
+                    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/spraymodeling3.webp">
+                    <img src="/assets/img/spraymodeling3.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+                  </picture>
+                </figure>
+              </div>
+
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h3 class="card-title">Aerosol Jet Printing</h3>
+                  <p class="card-text">
+                    Aerosol jet printing enables precise, high-resolution material deposition for flexible electronics, sensors, and printed circuit boards.
+                  </p>
+                  <div class="row ml-1 mr-1 p-0"></div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </a>
+      </div>
+
+    </div>
+
+  </div>
+
 </div>
 
 -->
