@@ -5,7 +5,7 @@ permalink: /research/
 description: 
 nav: true
 nav_order: 2
-display_categories: [In-space Manufacturing & In-situ Resource Utilization, Physically Unclonable Surfaces, Spray-Based Additive Manufacturing, Printed  Electronics, Energy Devices and Smart Sensor]
+display_categories: [In-space Manufacturing & In-situ Resource Utilization, Physically Unclonable Surfaces, Polymer Metallization & Printed  Electronics, Spray-Based Additive Manufacturing, Energy Devices and Smart Sensor]
 horizontal: true
 ---
 
@@ -115,6 +115,84 @@ horizontal: true
 </div>
 
 
+<!-- 3rd card (project) -->
+
+<div class="projects">
+
+
+  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
+  Polymer Metallization & Printed Electronics</h2>
+  <!-- Generate cards for each project -->
+  <div class="container">
+    <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
+    <!-- <div class="row row-cols-2"> -->
+    <div class="row row-cols-1">
+<div class="card-item col">
+<a href="https://semi-lab.github.io/projects/Polymer_metallization/"><div class="card hoverable">
+      <div class="row g-0">
+<div class="card-img col-md-4">
+          <figure>
+  <picture>    
+    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/pol_metallization.webp">
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/pol_metallization.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+        </div>
+        <div class="col-md-8">
+<div class="card-body">
+            <h3 class="card-title">Polymer Metallization & Printed Electronics</h3>
+            <p class="card-text">Polymer metallization and printed electronics are redefining device fabrication by combining polymer flexibility with metal-like conductivity. Together, they enable lightweight, adaptable systems for consumer electronics and emerging smart technologies.
+</p>
+            <div class="row ml-1 mr-1 p-0"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+    </div>
+  </div>
+
+
+<!-- 
+3rd card (project)
+
+<div class="projects">
+
+  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">Printed Electronics</h2>
+
+  <div class="container">
+
+    <div class="row row-cols-1">
+      <div class="card-item col">
+        <a href="https://semi-lab.github.io/projects/Printed_electronics/">
+          <div class="card hoverable">
+            <div class="row g-0">
+
+              <div class="card-img col-md-4">
+                <figure>
+                  <picture>
+                    <source media="(max-width: 600px)" srcset="/assets/img/printedelectronics.webp">
+                    <img src="/assets/img/printedelectronics.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; this.remove();">
+                  </picture>
+                </figure>
+              </div>
+
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h3 class="card-title">Printed Electronics</h3>
+                  <p class="card-text">
+                    Polymer electronics and printed electronics are redefining device fabrication by combining polymer flexibility with metal-like conductivity. Together, they enable lightweight, adaptable systems for wearables, consumer electronics, and emerging smart technologies.
+                  </p>
+                  <div class="row ml-1 mr-1 p-0"></div>
+                </div>
+              </div>
+            <
+
+
 <!-- 3th card (project) -->
 
 <div class="projects">
@@ -176,90 +254,6 @@ horizontal: true
       </div>
     </div>
   </a>
-</div>
-
-<!-- 2nd card (project) -->
-
-<div class="projects">
-
-
-  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
-  Polymer Metallization</h2>
-  <!-- Generate cards for each project -->
-  <div class="container">
-    <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
-    <!-- <div class="row row-cols-2"> -->
-    <div class="row row-cols-1">
-<div class="card-item col">
-<a href="https://semi-lab.github.io/projects/Polymer_metallization/"><div class="card hoverable">
-      <div class="row g-0">
-<div class="card-img col-md-4">
-          <figure>
-  <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/pol_metallization.webp">
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/pol_metallization.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
-  </picture>
-
-</figure>
-        </div>
-        <div class="col-md-8">
-<div class="card-body">
-            <h3 class="card-title">Polymer Metallization</h3>
-            <p class="card-text">Polymer metallization is a crucial technology that bridges the gap between the diverse properties of polymers and the desirable electrically conductive attributes of metals.
-</p>
-            <div class="row ml-1 mr-1 p-0"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </a>
-</div>
-    </div>
-  </div>
-
-<!-- 
-3rd card (project)
-
-<div class="projects">
-  <!-- Display categorized projects -->
-  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">Printed Electronics</h2>
-  <!-- Generate cards for each project -->
-  <div class="container">
-    <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
-    <!-- <div class="row row-cols-2"> -->
-    <div class="row row-cols-1">
-      <div class="card-item col">
-        <a href="https://semi-lab.github.io/projects/Printed_electronics/">
-          <div class="card hoverable">
-            <div class="row g-0">
-              <div class="card-img col-md-4">
-                <figure>
-                  <picture>
-                    <!-- Add source element for responsive images -->
-                    <source media="(max-width: 600px)" srcset="/assets/img/printedelectronics.webp">
-                    <!-- Fallback to the original file -->
-                    <img src="/assets/img/printedelectronics.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; this.remove();">
-                  </picture>
-                </figure>
-              </div>
-              <div class="col-md-8">
-                <div class="card-body">
-                  <h3 class="card-title">Printed Electronics</h3>
-                  <p class="card-text">
-                    Printed electronics are central in driving technological progress and revolutionizing industries. 
-                    Their flexibility unlocks novel applications in healthcare, consumer electronics, and beyond.
-                  </p>
-                  <div class="row ml-1 mr-1 p-0"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </a>
-      </div>
-    </div>
-  </div>
 </div>
 
 <!-- 4th card (project) -->
