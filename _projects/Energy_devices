@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Energy Devices and Smart Sensors
-description: As the world continues to prioritize energy efficiency and environmental responsibility, the significance of energy devices and self-powered sensors becomes increasingly apparent in shaping a more sustainable and interconnected future.
+title: 3D-Printed Smart Structures and Energy Devices
+description: 
 img: /assets/img/Energydevices2.webp
 importance: 2
 category: Energy Devices and Smart Sensors
@@ -23,7 +23,7 @@ giscus_comments: false
     </div>
 </div>
 
-In SEMI Lab, we are dedicated to developing durable and reliable functional surface structures for emerging renewable energy harvesting devices. Our focus extends to various technologies, including but not limited to triboelectric nanogenerators (TENG) and dye-sensitized solar cells (DSSCs). We aim to contribute to these technologies, improving their resilience and effectiveness.
+In the SEMI-Lab, we design and develop 3D-printed smart structures that seamlessly integrate energy devices and advanced sensing capabilities within the material architecture. Leveraging state-of-the-art additive manufacturing, we embed energy harvesting, storage, and sensing functionalities into metallic, polymer, and composite systems, enabling self-powered operation, smart sensing, and real-time structural health monitoring. Our research encompasses triboelectric nanogenerators and multifunctional embedded sensors, advancing resilient and sustainable technologies for aerospace, defense, and space applications.
 <br>
 <br>
 <b> Our current research directions:</b>
