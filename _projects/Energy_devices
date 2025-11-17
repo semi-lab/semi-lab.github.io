@@ -22,7 +22,7 @@ giscus_comments: false
         <img src="{{ '/assets/img/Energydevices2.webp' | relative_url }}" class="img-fluid custom-image-size rounded z-depth-1">
     </div>
 </div>
-
+<br>
 In the SEMI-Lab, we design and develop 3D-printed smart structures that seamlessly integrate energy devices and advanced sensing capabilities within the material architecture. Leveraging state-of-the-art additive manufacturing, we embed energy harvesting, storage, and sensing functionalities into metallic, polymer, and composite systems, enabling self-powered operation, smart sensing, and real-time structural health monitoring. Our research encompasses triboelectric nanogenerators and multifunctional embedded sensors, advancing resilient and sustainable technologies for aerospace, defense, and space applications.
 <br>
 <br>
