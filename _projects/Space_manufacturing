@@ -23,8 +23,7 @@ giscus_comments: false
 </div>
 
 <br>
-In SEMI-LAb, we advance <strong>Solid-State Additive Manufacturing</strong> to enable in-situ fabrication, repair, and functionalization of components for In-Space Manufacturing and In-Situ Resource Utilization. By transforming lunar and martian regolith simulants into feedstocks for structural, energy-harvesting, and dust-mitigating applications, we aim to reduce Earth dependence and support sustainable, long-duration lunar and in-space missions.
-<br>
+In SEMI-LAb, we advance <strong>Solid-State Additive Manufacturing</strong> to enable in-situ fabrication, repair, and functionalization of components for <strong>In-Space Manufacturing</strong> and <strong>In-Situ Resource Utilization</strong> . By transforming lunar and martian regolith simulants into feedstocks for structural, energy-harvesting, and dust-mitigating applications, we aim to reduce Earth dependence and support sustainable lunar and in-space missions.<br>
 <br>
 <b>Our current work explores:</b>
 <ul>
@@ -33,8 +32,13 @@ In SEMI-LAb, we advance <strong>Solid-State Additive Manufacturing</strong> to e
   <li><b>Multi-scale additive manufacturing of regolith-derived materials</b></li>
   <li><b>Multiphysics modeling of regolith deposition under space conditions (i.e., vacuum, microgravity, radiation)</b></li>
 </ul>
-
-
-
-
-
+<br>
+<b>Selected Publications:</b>
+<ul>
+  <li>
+    <b>S. Rahman & S. Akin</b>, "Cold spray deposition of lunar regolith on polymeric substrates: A pathway toward in-situ resource utilization on the Moon," <u>Surfaces & Interfaces</u> (Under Revision)
+  </li>
+  <li>
+    <b>S. Rahman & S. Akin</b>, "Cold spraying of lunar regolith composite powders toward in-space electronics manufacturing," <u>ASME International Manufacturing Science and Engineering Conference (MSEC-2026)</u> (Under Review)
+  </li>
+</ul>
