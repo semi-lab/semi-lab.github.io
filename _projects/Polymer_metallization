@@ -21,10 +21,8 @@ giscus_comments: false
         <img src="{{ '/assets/img/Polymer_metallization2.webp' | relative_url }}" class="img-fluid custom-image-size rounded z-depth-1" loading="lazy" width="your_width" height="your_height">
     </div>
 </div>
-
-Polymer metallization is a crucial technology that bridges the gap between the diverse properties of polymers and the desirable electrically conductive attributes of metals. It plays a pivotal role in a wide range of industries, including electronics, automotive, aerospace, energy harvesting, and many more.  
-Polymer electronics and printed electronics are jointly reshaping how functional devices are manufactured. Polymer metallization enables the integration of metal-like electrical conductivity with the flexibility and durability of polymers, while printed electronics offer a scalable, low-cost route to fabricate such components directly on polymer substrates. Together, they unlock lightweight, adaptable electronic systems with growing impact in healthcare, wearables, consumer electronics, and emerging smart technologies.<br>
 <br>
+Polymer electronics and printed electronics are jointly reshaping how functional devices are manufactured. Polymer metallization enables the integration of metal-like electrical conductivity with the flexibility and durability of polymers, while printed electronics offer a scalable, low-cost route to fabricate such components directly on polymer substrates. Together, they unlock lightweight, adaptable electronic systems with growing impact in healthcare, wearables, consumer electronics, and emerging smart technologies.<br>
 <b> Our current work explores:</b>
 <ul>
 <li> <b> Multifield modeling framework for CSAM-based polymer metallization </b> </li>
