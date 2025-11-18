@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Polymer Metallization
-description: Polymer metallization is a crucial technology that bridges the gap between the diverse properties of polymers and the desirable electrically conductive attributes of metals. It plays a pivotal role in a wide range of industries, including electronics, automotive, aerospace, energy harvesting, and many more.  
-img: /assets/img/ACS_cover1.jpg
+title: Polymer Metallization & Printed Electronics
+description: 
+img: Polymer_metallization2.webp
 importance: 1
 category: Polymer metallization
 giscus_comments: false
@@ -22,6 +22,7 @@ giscus_comments: false
     </div>
 </div>
 
+Polymer metallization is a crucial technology that bridges the gap between the diverse properties of polymers and the desirable electrically conductive attributes of metals. It plays a pivotal role in a wide range of industries, including electronics, automotive, aerospace, energy harvesting, and many more.  
 Polymer electronics and printed electronics are jointly reshaping how functional devices are manufactured. Polymer metallization enables the integration of metal-like electrical conductivity with the flexibility and durability of polymers, while printed electronics offer a scalable, low-cost route to fabricate such components directly on polymer substrates. Together, they unlock lightweight, adaptable electronic systems with growing impact in healthcare, wearables, consumer electronics, and emerging smart technologies.<br>
 <br>
 <b> Our current work explores:</b>
