@@ -44,7 +44,7 @@ horizontal: true
                   <h3 class="card-title">                    
                   </h3>
                   <p class="card-text">
-                 <strong style="font-size: 1.4em;">In-space manufacturing and in-situ resource utilization</strong> enable the fabrication of components and extraction of essential resources directly from extraterrestrial materials, reducing reliance on Earth. By converting lunar and Martian regolith into structural, functional, and energy-relevant materials, these approaches support construction, habitat development, and on-demand repair.
+                 <strong style="font-size: 1.2em;">In-space manufacturing and in-situ resource utilization</strong> enable the fabrication of components and extraction of essential resources directly from extraterrestrial materials, reducing reliance on Earth. By converting lunar and Martian regolith into structural, functional, and energy-relevant materials, these approaches support construction, habitat development, and on-demand repair.
                   </p>
                   <div class="row ml-1 mr-1 p-0"></div>
                 </div>
@@ -98,7 +98,7 @@ horizontal: true
                 <div class="card-body">
                   <h3 class="card-title"></h3>
                   <p class="card-text">
-                    <strong>Physically Unclonable Surfaces</strong> feature inherently random micro- and nano-scale textures that cannot be replicated, serving as robust physical fingerprints for secure identification, authentication, and anti-counterfeiting. 
+                    <strong style="font-size: 1.2em;">Physically Unclonable Surfaces</strong> feature inherently random micro- and nano-scale textures that cannot be replicated, serving as robust physical fingerprints for secure identification, authentication, and anti-counterfeiting. 
                   </p>
                   <div class="row ml-1 mr-1 p-0"></div>
                 </div>
@@ -141,7 +141,7 @@ horizontal: true
         <div class="col-md-8">
 <div class="card-body">
             <h3 class="card-title"></h3>
-            <p class="card-text"><strong>Polymer metallization and printed electronics</strong> are redefining device fabrication by combining polymer flexibility with metal-like conductivity. Together, they enable lightweight, adaptable electronics for consumer devices and next-generation smart technologies.
+            <p class="card-text"><strong style="font-size: 1.2em;">Polymer metallization and printed electronics</strong></p> are redefining device fabrication by combining polymer flexibility with metal-like conductivity. Together, they enable lightweight, adaptable electronics for consumer devices and next-generation smart technologies.
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
@@ -180,7 +180,7 @@ horizontal: true
         <div class="col-md-8">
 <div class="card-body">
             <h3 class="card-title"> </h3>
-            <p class="card-text"> <strong>3D-printed smart structures and energy devices</strong>  are multifunctional components created through additive manufacturing that integrate sensing, actuation, and energy harvesting directly into their geometry. Embedding these functions during printing yields intelligent structures for structural health monitoring and self-powered systems.
+           <p class="card-text"><strong style="font-size: 1.2em;">3D-printed smart structures and energy devices</strong></p> are multifunctional components created through additive manufacturing that integrate sensing, actuation, and energy harvesting directly into their geometry. Embedding these functions during printing yields intelligent structures for structural health monitoring and self-powered systems.
             
 </p>
             <div class="row ml-1 mr-1 p-0"></div>
@@ -231,10 +231,8 @@ horizontal: true
                 <div class="card-body">
                   <h3 class="card-title"></h3>
                   <p class="card-text">
-                    <strong>Mechanistic modeling for additive manufacturing</strong> develops physics-based models
-                    that capture the underlying thermal, mechanical, and materials-level behaviors governing
-                    layer-by-layer fabrication. These models reveal key process–structure–property relationships,
-                    enabling predictive simulation, defect mitigation, and optimized AM process performance.
+                    <strong style="font-size: 1.2em;">Mechanistic modeling for additive manufacturing</strong>
+                    develops physics-based models that capture the underlying thermal, mechanical, and materials-level behaviors governing layer-by-layer fabrication. These models reveal key process–structure–property relationships, enabling predictive simulation, defect mitigation, and optimized AM process performance.
                   </p>
                   <div class="row ml-1 mr-1 p-0"></div>
                 </div>
