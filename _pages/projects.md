@@ -44,7 +44,7 @@ horizontal: true
                   <h3 class="card-title">                    
                   </h3>
                   <p class="card-text">
-                 <strong>In-space manufacturing and in-situ resource utilization</strong> enable the fabrication of components and extraction of essential resources directly from extraterrestrial materials, reducing reliance on Earth. By converting lunar and Martian regolith into structural, functional, and energy-relevant materials, these approaches support construction, habitat development, and on-demand repair.
+                 <strong style="font-size: 1.4em;">In-space manufacturing and in-situ resource utilization</strong> enable the fabrication of components and extraction of essential resources directly from extraterrestrial materials, reducing reliance on Earth. By converting lunar and Martian regolith into structural, functional, and energy-relevant materials, these approaches support construction, habitat development, and on-demand repair.
                   </p>
                   <div class="row ml-1 mr-1 p-0"></div>
                 </div>
