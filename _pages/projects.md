@@ -141,8 +141,10 @@ horizontal: true
         <div class="col-md-8">
 <div class="card-body">
             <h3 class="card-title"></h3>
-            <p class="card-text"><strong style="font-size: 1.2em;">Polymer metallization and printed electronics</strong></p> are redefining device fabrication by combining polymer flexibility with metal-like conductivity. Together, they enable lightweight, adaptable electronics for consumer devices and next-generation smart technologies.
-</p>
+            <p class="card-text">
+            <strong style="font-size: 1.2em;">Polymer metallization and printed electronics</strong>
+            are redefining device fabrication by combining polymer flexibility with metal-like conductivity. Together, they enable lightweight, adaptable electronics for consumer devices and next-generation smart technologies. 
+            </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
         </div>
@@ -180,9 +182,9 @@ horizontal: true
         <div class="col-md-8">
 <div class="card-body">
             <h3 class="card-title"> </h3>
-           <p class="card-text"><strong style="font-size: 1.2em;">3D-printed smart structures and energy devices</strong></p> are multifunctional components created through additive manufacturing that integrate sensing, actuation, and energy harvesting directly into their geometry. Embedding these functions during printing yields intelligent structures for structural health monitoring and self-powered systems.
-            
-</p>
+            <p class="card-text">
+            <strong style="font-size: 1.2em;">3D-printed smart structures and energy devices</strong> are multifunctional components created through additive manufacturing that integrate sensing, actuation, and energy harvesting directly into their geometry. Embedding these functions during printing yields intelligent structures for structural health monitoring and self-powered systems.
+            </p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
         </div>
