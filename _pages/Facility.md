@@ -7,9 +7,10 @@ nav: true
 nav_order: 6
 ---
 
-<p style="font-size: 32px; color: #FFD700;">
+<p style="font-size: 32px; color: #8B0000;">
   SEMI-Lab
 </p>
+
 
 
 <div style="text-align: center; margin: 20px 0; max-width: 700px; margin-left: auto; margin-right: auto;">
@@ -21,7 +22,7 @@ nav_order: 6
   <figure style="margin: 0 0 15px 0;">
     <img src="../assets/img/coldspraycell.png"
          alt="Cold Spray Cell"
-         style="width: 80%; max-width: 500px;">
+         style="width: 90%; max-width: 500px;">
   </figure>
 
   <p style="font-size: 16px; text-align: justify; margin-top: 10px;">
@@ -41,12 +42,13 @@ nav_order: 6
   <figure style="margin: 0;">
     <img src="../assets/img/Formalloy.png"
          alt="FormAlloy System"
-         style="width:80%; max-width:500px;">
+         style="width:90%; max-width:500px;">
   </figure>
 </div>
 
 
 
-<p style="font-size: 30px; color: #FFD700;">
+<p style="font-size: 30px; color: #8B0000;">
   Center for Smart Convergent Manufacturing Systems (CSCMS) 
 </p>
+
