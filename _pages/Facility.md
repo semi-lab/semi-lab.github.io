@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 <!-- ====== SECTION HEADER ====== -->
-<p style="font-size: 36px; color: #8B0000; font-weight: 700; text-align: center; margin-bottom: 10px;">
+<p style="font-size: 36px; color: #8B0000; font-weight: 700; text-align:; margin-bottom: 10px;">
   SEMI-Lab
 </p>
 
@@ -16,7 +16,7 @@ nav_order: 6
 <div style="text-align: center; margin: 40px auto; max-width: 750px;">
 
   <p style="font-size: 22px; font-weight: 700; margin-bottom: 15px;">
-    1. Cold Spray Additive Manufacturing and Rapid Deposition Cell
+    Cold Spray Additive Manufacturing and Rapid Deposition Cell
   </p>
 
   <figure style="margin: 0 0 20px 0;">
@@ -35,7 +35,7 @@ nav_order: 6
 <div style="text-align: center; margin: 40px auto; max-width: 750px;">
 
   <p style="font-size: 22px; font-weight: 700; margin-bottom: 15px;">
-    2. FormAlloy Laser Powder and Wire Directed Energy Deposition (DED) System
+    FormAlloy Laser Powder and Wire Directed Energy Deposition (DED) System
   </p>
 
   <figure style="margin: 0 0 20px 0;">
@@ -58,7 +58,6 @@ nav_order: 6
     • FFF 3D printers (Creality K1C, Ender 3-V3) <br>
     • Filament extruder kit <br>
     • DLP Printer and washing unit (Anycubic) <br>
-    • Glovebox <br>
     • Optical microscope <br>
     • Sand blaster <br>
     • Grinder and polisher <br>
@@ -69,7 +68,7 @@ nav_order: 6
 </div>
 
 <!-- ====== CSCMS HEADER ====== -->
-<p style="font-size: 32px; color: #8B0000; font-weight: 700; text-align: center; margin-top: 60px;">
+<p style="font-size: 32px; color: #8B0000; font-weight: 700; text-align:; margin-top: 60px;">
   Center for Smart Convergent Manufacturing Systems (CSCMS)
 </p>
 
@@ -123,6 +122,7 @@ nav_order: 6
     • High-energy planetary ball mill <br>
     • Haas CNC systems <br>
     • Water jet cutter <br>
+    • Glovebox <br>
     • Markforged printers <br>
     • SLA printers <br>
     • Vertical / horizontal band saws <br>
