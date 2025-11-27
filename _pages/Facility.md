@@ -4,7 +4,7 @@ permalink: /facility/
 title: Facility
 description:  
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 <!-- ====== SECTION HEADER ====== -->
