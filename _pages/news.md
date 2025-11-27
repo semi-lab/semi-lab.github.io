@@ -4,7 +4,7 @@ permalink: /news/
 title: News
 description: 
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 <!-- News -->
 

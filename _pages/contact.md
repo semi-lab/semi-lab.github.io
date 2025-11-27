@@ -4,7 +4,7 @@ permalink: /join us/
 title: Join Us
 description: 
 nav: true
-nav_order: 8
+nav_order: 9
 ---
 
 SEMI Lab is seeking for enthusiastic students at all academic levels (PhD, MS, BS) interested in surface engineering and additive manufacturing. If interested, please send your CV to Prof. Akin at <a href="mailto:akins@rpi.edu">akins@rpi.edu</a>. 
