@@ -7,6 +7,10 @@ nav: true
 nav_order: 6
 ---
 
+<p style="font-size: 32px; color: #FFD700;">
+  SEMI-Lab
+</p>
+
 
 <table>
   <tr>
@@ -27,3 +31,8 @@ nav_order: 6
     </td>
   </tr>
 </table>
+
+
+<p style="font-size: 30px; color: #FFD700;">
+  Center for Smart Convergent Manufacturing Systems (CSCMS) 
+</p>
