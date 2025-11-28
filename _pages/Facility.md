@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 <!-- ====== SECTION HEADER ====== -->
-<p style="font-size: 36px; color: #8B0000; font-weight: 700; text-align:; margin-bottom: 10px;">
+<p style="font-size: 32px; color: #8B0000; font-weight: 700; text-align:; margin-bottom: 10px;">
   SEMI-Lab
 </p>
 
@@ -35,7 +35,7 @@ nav_order: 5
 <div style="text-align: center; margin: 40px auto; max-width: 750px;">
 
   <p style="font-size: 22px; font-weight: 700; margin-bottom: 15px;">
-    FormAlloy Laser Powder and Wire Directed Energy Deposition (DED) System
+    FormAlloy Laser Directed Energy Deposition (L-DED) System
   </p>
 
   <figure style="margin: 0 0 20px 0;">
@@ -45,7 +45,6 @@ nav_order: 5
   </figure>
 
 </div>
-
 <!-- ====== SMALL EQUIPMENT LIST 1 ====== -->
 <div style="margin: 30px auto; max-width: 750px;">
   <p style="font-size: 20px; font-weight: 700; margin-bottom: 10px;">
@@ -53,22 +52,23 @@ nav_order: 5
   </p>
 
   <p style="font-size: 16px; line-height: 1.6;">
-    • Customized Aerosol Jet Printer <br>
-    • Customized Additive Friction Stir Deposition (AFSD) Unit <br>
-    • FFF 3D printers (Creality K1C, Ender 3-V3) <br>
-    • Filament extruder kit <br>
-    • DLP Printer and washing unit (Anycubic) <br>
-    • Optical microscope <br>
-    • Sand blaster <br>
-    • Grinder and polisher <br>
-    • Pull-off adhesion tester (Elcometer 510) <br>
-    • Powder and hazardous material storage <br>
-    • UV-light enclosure
+    • <strong>Customized Aerosol Jet Printer</strong> <br>
+    • <strong>Customized Additive Friction Stir Deposition (AFSD) Unit</strong> <br>
+    • <strong>FFF 3D printers (Creality K1C, Ender 3-V3)</strong> <br>
+    • <strong>Filament extruder kit</strong> <br>
+    • <strong>DLP Printer and washing unit (Anycubic)</strong> <br>
+    • <strong>Optical microscope</strong> <br>
+    • <strong>Sand blaster</strong> <br>
+    • <strong>Grinder and polisher</strong> <br>
+    • <strong>Pull-off adhesion tester (Elcometer 510)</strong> <br>
+    • <strong>Powder and hazardous material storage</strong> <br>
+    • <strong>UV-light enclosure</strong>
   </p>
 </div>
 
+
 <!-- ====== CSCMS HEADER ====== -->
-<p style="font-size: 32px; color: #8B0000; font-weight: 700; text-align:; margin-top: 60px;">
+<p style="font-size: 28px; color: #8B0000; font-weight: 700; text-align:; margin-top: 60px;">
   Center for Smart Convergent Manufacturing Systems (CSCMS)
 </p>
 
@@ -95,7 +95,7 @@ nav_order: 5
 <div style="text-align: center; margin: 40px auto; max-width: 750px;">
 
   <p style="font-size: 22px; font-weight: 700; margin-bottom: 15px;">
-    Automatic Fiber Placement (AFP) Cell
+    Automatic Fiber Placement (AFP) Systems
   </p>
 
   <figure style="margin: 0 0 20px 0;">
@@ -116,20 +116,21 @@ nav_order: 5
     Other Equipment at CSCMS
   </p>
 
-  <p style="font-size: 16px; line-height: 1.6;">
-    • Customized laser powder bed fusion (LPBF) machine <br>
-    • Universal tester (tensile, compression, flexural) <br>
-    • High-energy planetary ball mill <br>
-    • Haas CNC systems <br>
-    • Water jet cutter <br>
-    • Glovebox <br>
-    • Markforged printers <br>
-    • SLA printers <br>
-    • Vertical / horizontal band saws <br>
-    • Electronic arc welder <br>
-    • 3D scanner <br>
-    • High-speed camera <br>
-    • High-temperature furnace <br>
-    • Potentiostat/Galvanostat
-  </p>
+<p style="font-size: 16px; line-height: 1.6;">
+  • <strong>Customized laser powder bed fusion (LPBF) machine</strong> <br>
+  • <strong>Universal tester (tensile, compression, flexural)</strong> <br>
+  • <strong>High-energy planetary ball mill</strong> <br>
+  • <strong>Haas CNC systems</strong> <br>
+  • <strong>Water jet cutter</strong> <br>
+  • <strong>Glovebox</strong> <br>
+  • <strong>Markforged printers</strong> <br>
+  • <strong>SLA printers</strong> <br>
+  • <strong>Vertical / horizontal band saws</strong> <br>
+  • <strong>Electronic arc welder</strong> <br>
+  • <strong>3D scanner</strong> <br>
+  • <strong>High-speed camera</strong> <br>
+  • <strong>High-temperature furnace</strong> <br>
+  • <strong>Potentiostat/Galvanostat</strong>
+</p>
+
 </div>
