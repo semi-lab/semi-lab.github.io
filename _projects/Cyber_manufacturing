@@ -35,11 +35,12 @@ Our research on <strong>Physically Unclonable Surfaces</strong> focuses on creat
 
 <b style="color: blue;">Selected Publications:</b>
 <ul>
-  <li>
+  <!-- 
+<li>
     J. Jeon, S. Akin, "Physically unclonable surfaces enabled by cold spray deposition", 
     <i>ACS Applied Materials & Interfaces</i> (Under Revision).
-  </li>
-
+</li>
+-->
   <li>
     J. Jeon, FT. Zohora, S. Akin, "Direct-writing of physically unclonable surfaces for anti-counterfeiting", 
     <i>North American Manufacturing Research Conference (NAMRC-53)</i> (Under Review).
