@@ -108,6 +108,7 @@ nav_order: 3
 
 ## MS Students
 
+<!--
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/Faydia_.jpg" width="150" height="170"/>
     <div style="text-align: left; margin-left: 20px;">
@@ -123,8 +124,10 @@ nav_order: 3
      </a>    
     </div>
     <br>
-    </div>
+</div>
 <br>
+-->
+
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/Nicholas.png" width="150" height="170"/>
     <div style="text-align: left; margin-left: 20px;">

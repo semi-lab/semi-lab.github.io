@@ -90,6 +90,22 @@ nav_order: 8
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
       <tr>
+        <th scope="row" style="white-space: nowrap;">Dec 19, 2025</th>
+        <td>    Faydia has successfully completed her M.Eng. program and will be joining Sikorsky as an engineer. Congratulations, Faydia! </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="text-align: center;">
+          <figure>
+            <img src="../assets/img/faydia_graduate.png" alt="Faydia is presensing her research poster" style="width:60%; max-width:500px;">                        
+          </figure>
+        </td>
+      </tr>
+      <tr>
+
+
+<div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      <tr>
         <th scope="row" style="white-space: nowrap;">July 18, 2025</th>
         <td>    Our group participated in the NSF Engine milestone meeting as part of the RPI Team (from left to right: Prof. Akin, Prof. M. Stanley Whittingham (Nobel Laureate), Prof. Fudong Han). </td>
       </tr>
