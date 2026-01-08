@@ -91,12 +91,12 @@ nav_order: 8
     <table class="table table-sm table-borderless">
       <tr>
         <th scope="row" style="white-space: nowrap;">Dec 19, 2025</th>
-        <td>    Faydia has successfully completed her M.Eng. program and will be joining Sikorsky as an engineer. Congratulations, Faydia! </td>
+        <td>    Faydia has successfully completed her M.Eng. program and will be joining Sikorsky. Congrats, Faydia! </td>
       </tr>
       <tr>
         <td colspan="2" style="text-align: center;">
           <figure>
-            <img src="../assets/img/faydia_graduate.png" alt="Faydia is presensing her research poster" style="width:60%; max-width:500px;">                        
+            <img src="../assets/img/faydia_graduate.png" alt="Faydia is presensing her research poster" style="width:50%; max-width:300px;">                        
           </figure>
         </td>
       </tr>
