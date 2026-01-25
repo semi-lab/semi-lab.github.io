@@ -193,7 +193,8 @@ nav_order: 3
         <br>
         Research Interests: Additive manufacturing, Aerosol jet printing, Electronic textiles 
         <br>
-        &#128231;<a href="mailto:wonga9@rpi.edu" style="margin-right: 10px;">wonga9@rpi.edu</a>       
+        &#128231;<a href="mailto:wonga9@rpi.edu" style="margin-right: 10px;">wonga9@rpi.edu</a>  
+        <br> <i>Now an intern at Apple </i>     
     </div>
 </div>
 <br>
@@ -228,6 +229,23 @@ nav_order: 3
         Research Interests: 3D printed electronics, Rapid prototyping, Additive manufacturing
         <br>
        &#128231;<a href="raoana@rpi.edu" style="margin-right: 10px;">raoana@rpi.edu</a>         
+    </div>
+</div>
+<br>
+
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/John_poleway.jpg" width="150" height="170"/>
+    <div style="text-align: left; margin-left: 20px;">
+        <span style="font-size: 20px;"><b> John Poleway
+</b></span>
+        <br>
+        <span style="font-size: 17px;">BS Student </span>
+        <br>
+        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
+        <br>
+        Research Interests: 3D printing, Aerosol Jet Printing
+        <br>
+       &#128231;<a href="polewj@rpi.edu" style="margin-right: 10px;">polewj@rpi.edu</a>         
     </div>
 </div>
 <br>
