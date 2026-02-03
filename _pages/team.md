@@ -251,6 +251,23 @@ nav_order: 3
 <br>
 
 
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/Dyka.jpg" width="150" height="170"/>
+    <div style="text-align: left; margin-left: 20px;">
+        <span style="font-size: 20px;"><b> David Dyka
+</b></span>
+        <br>
+        <span style="font-size: 17px;">BS Student </span>
+        <br>
+        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
+        <br>
+        Research Interests: 3D printing, Aerosol Jet Printing
+        <br>
+       &#128231;<a href="dykad@rpi.edu" style="margin-right: 10px;">dykad@rpi.edu</a>         
+    </div>
+</div>
+<br>
+
 <!-- <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <img src="../assets/img/Brandon.jpg" width="150" height="170" style="margin-right: 20px;">
     <div style="text-align: left;">
