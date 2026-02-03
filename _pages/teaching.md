@@ -10,6 +10,7 @@ nav_order: 6
  <p style="font-size: 20px;">  <u>At Rensselaer Polytechnic Institute (RPI) </u><br> 
 
 <ul style="font-size: 16px;">
+     <li><b>MANE 6962:</b> Additive Manufacturing, <i>Spring 2026</i></li>    
     <li><b>ENGR 4710/MANE 4610:</b> Manufacturing Processes and Systems (MPS) I, <i>Fall 2025</i></li>
     <li><b>ENGR 4720/MANE 4620:</b> Manufacturing Processes and Systems (MPS) II, <i>Spring 2025</i></li>
     <li><b>ENGR 2050:</b> Introduction to Engineering Design, <i>Fall 2024</i></li>
