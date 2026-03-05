@@ -128,6 +128,25 @@ nav_order: 3
 <br>
 -->
 
+
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/Kate.jpg" width="150" height="170"/>
+    <div style="text-align: left; margin-left: 20px;">
+        <span style="font-size: 20px;"><b> Kate Goldstein</b></span>
+        <br>
+        <span style="font-size: 17px;">Master of Eng. Student </span>
+        <br>
+        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
+        <br>
+        Research Interests: Aerosol jet printing, Additive manufacturing
+        <br>
+        &#128231;<a href="walken3@rpi.edu" style="margin-right: 10px;"> walken3@rpi.edu
+     </a>    
+    </div>
+    <br>
+    </div>
+<br>
+
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/Nicholas.png" width="150" height="170"/>
     <div style="text-align: left; margin-left: 20px;">
