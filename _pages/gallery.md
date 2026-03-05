@@ -87,6 +87,23 @@ nav_order: 8
   });
 </script>
 
+
+<div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      <tr>
+        <th scope="row" style="white-space: nowrap;">Feb 16, 2026</th>
+        <td> We celebrated our group’s recent publications with a lunch accompanied by Turkish tea!</td>
+      </tr>
+      <tr>
+        <td colspan="2" style="text-align: center;">
+          <figure>
+            <img src="../assets/img/Lavenza.jpeg" alt="SEMI-Lab Lunch with PhD Students" style="width:70%; max-width:500px;">                      
+          </figure>
+        </td>
+      </tr>
+      <tr>
+
+
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
       <tr>
