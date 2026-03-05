@@ -140,7 +140,7 @@ nav_order: 3
         <br>
         Research Interests: Aerosol jet printing, Additive manufacturing
         <br>
-        &#128231;<a href="walken3@rpi.edu" style="margin-right: 10px;"> walken3@rpi.edu
+        &#128231;<a href="goldsk@rpi.edu" style="margin-right: 10px;"> goldsk@rpi.edu
      </a>    
     </div>
     <br>
