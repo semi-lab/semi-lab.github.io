@@ -12,6 +12,12 @@ nav_order: null
 
 <div class="year" style="font-size: 28px; text-align: right;">2025</div>
 
+<p class="paper-entry">18. J. Jeon, A. Wong, M. Koca, F. Thompson, O. Tumuklu, <u>S. Akin</u>, “Conductivity-tunable reactive aerosol jet metallization of textiles”, 
+  <i>ASME International Mechanical Engineering Congress & Exposition (IMECE)</i>, 2025. 
+  <a href="https://doi.org/10.1115/IMECE2025-164431">[Link]</a>, 
+  <a href="https://semi-lab.github.io/assets/pdf/Imece2025_AJP.pdf">[PDF]</a></p>
+
+
 <p class="paper-entry">17. S. Chen, F. Zhou, BN. Reggetz, EG. Lee, MA. Virji, A. Afshari, MBG. Jun, <u>S. Akin</u>, “Polymer metallization via cold spray: an investigation into the effects of particle hardness and morphology”, 
   <i>North American Manufacturing Research Conference (NAMRC)</i>, 2025. 
   <a href="https://doi.org/10.1016/j.mfglet.2025.06.039">[Link]</a>, 
