@@ -183,6 +183,24 @@ nav_order: 3
     </div>
 <br>
 
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/leo.jpeg" width="150" height="170"/>
+    <div style="text-align: left; margin-left: 20px;">
+        <span style="font-size: 20px;"><b>Leo Woytowich</b></span>
+        <br>
+        <span style="font-size: 17px;">Master of Eng. Student </span>
+        <br>
+        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
+        <br>
+        Research Interests: Space manufacturing, Aerosol jet printing, 3D-Printing
+        <br>
+        &#128231;<a href="woytol@rpi.edu" style="margin-right: 10px;"> woytol@rpi.edu
+     </a>    
+    </div>
+    <br>
+    </div>
+<br>
+
 ## Undergraduate Students
 
 <!-- Profile Card for Zhi Cheng Guan -->
@@ -213,7 +231,7 @@ nav_order: 3
         Research Interests: Additive manufacturing, Aerosol jet printing, Electronic textiles 
         <br>
         &#128231;<a href="mailto:wonga9@rpi.edu" style="margin-right: 10px;">wonga9@rpi.edu</a>  
-        <br> <i>Now an intern at Apple </i>     
+        <br> <i>Now intern at Apple </i>     
     </div>
 </div>
 <br>
