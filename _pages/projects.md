@@ -58,6 +58,45 @@ horizontal: true
 </div>
 
 
+<!-- 4th card (project) -->
+
+<div class="projects">
+  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);"> 3D-Printed Smart Structures and Energy Devices </h2>
+  <!-- Generate cards for each project -->
+  <div class="container">
+    <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
+    <!-- <div class="row row-cols-2"> -->
+    <div class="row row-cols-1">
+<div class="card-item col">
+<a href="https://semi-lab.github.io/projects/Energy_devices/"><div class="card hoverable">
+      <div class="row g-0">
+<div class="card-img col-md-4">
+          <figure>
+  <picture>    
+    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/energyharvesting.webp">
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/energyharvesting.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+        </div>
+        <div class="col-md-8">
+<div class="card-body">
+            <h3 class="card-title"> </h3>
+            <p class="card-text">
+            <strong style="font-size: 1.15em;">3D-printed smart structures and energy devices</strong> are multifunctional components created through additive manufacturing that integrate sensing, actuation, and energy harvesting directly into their geometry. Embedding these functions during printing yields intelligent structures for structural health monitoring and self-powered systems.
+            </p>
+            <div class="row ml-1 mr-1 p-0"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+    </div>
+  </div>
+
 
 <!-- 2nd card (project) -->
 <div class="projects">
@@ -156,44 +195,6 @@ horizontal: true
   </div>
 
 
-<!-- 4th card (project) -->
-
-<div class="projects">
-  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);"> 3D-Printed Smart Structures and Energy Devices </h2>
-  <!-- Generate cards for each project -->
-  <div class="container">
-    <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
-    <!-- <div class="row row-cols-2"> -->
-    <div class="row row-cols-1">
-<div class="card-item col">
-<a href="https://semi-lab.github.io/projects/Energy_devices/"><div class="card hoverable">
-      <div class="row g-0">
-<div class="card-img col-md-4">
-          <figure>
-  <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/energyharvesting.webp">
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/energyharvesting.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
-  </picture>
-
-</figure>
-        </div>
-        <div class="col-md-8">
-<div class="card-body">
-            <h3 class="card-title"> </h3>
-            <p class="card-text">
-            <strong style="font-size: 1.15em;">3D-printed smart structures and energy devices</strong> are multifunctional components created through additive manufacturing that integrate sensing, actuation, and energy harvesting directly into their geometry. Embedding these functions during printing yields intelligent structures for structural health monitoring and self-powered systems.
-            </p>
-            <div class="row ml-1 mr-1 p-0"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </a>
-</div>
-    </div>
-  </div>
 
 
 <!-- 5th card (project) -->
