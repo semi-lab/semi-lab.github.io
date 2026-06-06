@@ -165,7 +165,7 @@ horizontal: true
 <div class="projects">
   <!-- Project category heading -->
   <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
-    Physically Unclonable Surfaces & Cyberphysical Manufacturing
+    Physically Unclonable Surfaces 
   </h2>
 
   <!-- Container for project cards -->
