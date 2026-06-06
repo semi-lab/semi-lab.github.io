@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Data-Driven Smart Manufacturing
-description: 
+description: Data-Driven Mnufacturing leverages sensors, data analytics, artificial intelligence, and digital technologies to monitor, predict, and optimize manufacturing processes, enabling improved quality, productivity, efficiency, and autonomous decision-making.
 img: /assets/img/smart_manufacturing.webp
 importance: 1
-category: smart_manufacturing
+category: Data Driven Smart Manufacturing
 giscus_comments: false
 ---
 
