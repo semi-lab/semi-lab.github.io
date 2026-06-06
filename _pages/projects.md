@@ -66,7 +66,7 @@ horizontal: true
   <div class="container">
     <div class="row row-cols-1">
       <div class="card-item col">
-        <a href="https://semi-lab.github.io/projects/Energy_devices/">
+        <a href="https://semi-lab.github.io/projects/Smart_manufacturing/">
           <div class="card hoverable">
             <div class="row g-0">
               <div class="card-img col-md-4">
@@ -165,7 +165,7 @@ horizontal: true
 <div class="projects">
   <!-- Project category heading -->
   <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
-    Physically Unclonable Surfaces
+    Physically Unclonable Surfaces & Cyberphysical Manufacturing
   </h2>
 
   <!-- Container for project cards -->
