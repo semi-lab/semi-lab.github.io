@@ -5,7 +5,7 @@ permalink: /research/
 description: 
 nav: true
 nav_order: 2
-display_categories: [In-space Manufacturing & In-situ Resource Utilization, Physically Unclonable Surfaces, Polymer Metallization & Printed  Electronics, Spray-Based Additive Manufacturing, Energy Devices and Smart Sensor]
+display_categories: [In-space Manufacturing & In-situ Resource Utilization, Data-Driven Smart Manufacturing, 3D-Printed Smart Structures and Energy Devices, Physically Unclonable Surfaces & Cyberphysical Manufacturing, Polymer Metallization & Printed  Electronics, Mechanistic Modeling for Additive Manufacturing]
 horizontal: true
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Physically Unclonable Surfaces
+title: Physically Unclonable Surfaces & Cybersecurity
 description: 
 img: /assets/img/smart_manufacturing.webp
 importance: 1
-category: smart_manufacturing
+category: Cybersecurity
 giscus_comments: false
 ---
 
@@ -38,7 +38,7 @@ Our research on <strong>Physically Unclonable Surfaces</strong> focuses on creat
   <!-- 
 <li>
     J. Jeon, S. Akin, "Physically unclonable surfaces enabled by cold spray deposition", 
-    <i>ACS Applied Materials & Interfaces</i> (Under Revision).
+    <i>ACS Applied Materials & Interfaces</i> (Accepted).
 </li>
 -->
   <li>
