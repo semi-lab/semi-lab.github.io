@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data-Driven Smart Manufacturing
-description: Data-Driven Mnufacturing leverages sensors, data analytics, artificial intelligence, and digital technologies to monitor, predict, and optimize manufacturing processes, enabling improved quality, productivity, efficiency, and autonomous decision-making.
+description: 
 img: /assets/img/smart_manufacturing.webp
 importance: 1
 category: Data Driven Smart Manufacturing
@@ -23,7 +23,7 @@ giscus_comments: false
 </div>
 
 <br>
-Our research develops <strong>data-driven approaches<strong> to enable intelligent, adaptive, and autonomous manufacturing systems. By integrating multimodal sensing, artificial intelligence, machine learning, digital twins, and advanced data analytics, we transform manufacturing data into actionable insights for process monitoring, anomaly detection, and quality prediction. Through these efforts, we aim to create intelligent manufacturing platforms that are adaptive, resilient, and self-improving. <br>
+Our research develops <strong>data-driven approaches</strong> to enable intelligent, adaptive, and autonomous manufacturing systems. By integrating multimodal sensing, artificial intelligence, machine learning, digital twins, and advanced data analytics, we transform manufacturing data into actionable insights for process monitoring, anomaly detection, and quality prediction. Through these efforts, we aim to create intelligent manufacturing platforms that are adaptive, resilient, and self-improving. <br>
 
 <br>
 <b>Our current work explores:</b>
@@ -37,13 +37,13 @@ Our research develops <strong>data-driven approaches<strong> to enable intellige
 
 <b style="color: blue;">Selected Publications:</b>
 <ul>
-  <!-- 
-<li>
-    H. Lee, C. Han, T. Gabor, Y. Sim, S. Akin, MBG Jun, Y. Jeon, J. Lee, "Cold spray-based secure and unique product identification with neural encoding: A full-stack framework for scalable authentication in manufacturing", 
-    <i>Journal of Intelligent Manufacturing</i>, 2026. 
+  <li>
+    H. Lee, C. Han, T. Gabor, Y. Sim, S. Akin, MBG Jun, Y. Jeon, J. Lee,
+    "Cold spray-based secure and unique product identification with neural encoding:
+    A full-stack framework for scalable authentication in manufacturing",
+    <i>Journal of Intelligent Manufacturing</i>, 2026.
     <a href="https://semilab-rpi.com/assets/pdf/Puf_JIM.pdf" target="_blank">[Link]</a>
-</li>
--->  
+  </li>
 </ul>
 
 
