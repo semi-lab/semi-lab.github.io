@@ -61,6 +61,47 @@ horizontal: true
 <!-- 4th card (project) -->
 
 <div class="projects">
+  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);"> Data-Driven Smart Manufacturing</h2>
+  <!-- Generate cards for each project -->
+  <div class="container">
+    <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
+    <!-- <div class="row row-cols-2"> -->
+    <div class="row row-cols-1">
+<div class="card-item col">
+<a href="https://semi-lab.github.io/projects/Energy_devices/"><div class="card hoverable">
+      <div class="row g-0">
+<div class="card-img col-md-4">
+          <figure>
+  <picture>    
+    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/smart_manufacturing.webp">
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/smart_manufacturing.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+        </div>
+        <div class="col-md-8">
+<div class="card-body">
+            <h3 class="card-title"> </h3>
+            <p class="card-text">
+            <strong style="font-size: 1.15em;">Data-Driven Smart Manufacturing leverages sensors, data analytics, artificial intelligence, and digital technologies to monitor, predict, and optimize manufacturing processes, enabling improved quality, productivity, efficiency, and autonomous decision-making.
+            </p>
+            <div class="row ml-1 mr-1 p-0"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+    </div>
+  </div>
+
+
+
+<!-- 4th card (project) -->
+
+<div class="projects">
   <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);"> 3D-Printed Smart Structures and Energy Devices </h2>
   <!-- Generate cards for each project -->
   <div class="container">

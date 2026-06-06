@@ -2,9 +2,9 @@
 layout: page
 title: Physically Unclonable Surfaces
 description: 
-img: /assets/img/cyber2.webp
+img: /assets/img/smart_manufacturing.webp
 importance: 1
-category: Cyber_Manufacturing
+category: smart_manufacturing
 giscus_comments: false
 ---
 
@@ -60,9 +60,3 @@ for cyberph-pysical authentication", <i>North American Manufacturing Research Co
     <a href="https://semilab-rpi.com/assets/pdf/pulsed.pdf" target="_blank">[Link]</a>
   </li>
 </ul>
-
-
-
-
-
-

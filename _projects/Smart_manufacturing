@@ -1,0 +1,57 @@
+---
+layout: page
+title: Data-Driven Smart Manufacturing
+description: 
+img: /assets/img/smart_manufacturing.webp
+importance: 1
+category: smart_manufacturing
+giscus_comments: false
+---
+
+<style>
+.custom-image-size {
+    max-width: 90%;
+    display: block; /* Make the image a block-level element for centering */
+    margin: 0 auto; /* Center the image horizontally */
+}
+</style>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <img src="{{ '/assets/img/smart_manufacturing.webp' | relative_url }}" class="img-fluid custom-image-size rounded z-depth-1" loading="lazy" width="your_width" height="your_height">
+    </div>
+</div>
+
+<br>
+Our research develops <strong>data-driven approaches<strong> to enable intelligent, adaptive, and autonomous manufacturing systems. By integrating multimodal sensing, artificial intelligence, machine learning, digital twins, and advanced data analytics, we transform manufacturing data into actionable insights for process monitoring, anomaly detection, and quality prediction. Through these efforts, we aim to create intelligent manufacturing platforms that are adaptive, resilient, and self-improving. <br>
+
+<br>
+<b>Our current work explores:</b>
+<ul>
+  <li><b>Integration of multimodal sensing, AI/ML for intelligent manufacturing</b></li>
+  <li><b>Real-time process monitoring and anomaly detection in advanced manufacturing systems</b></li>
+  <li><b>Sensor fusion and data analytics for quality prediction and defect identification</b></li>
+  <li><b>Physics-informed AI for enhanced manufacturing reliability, efficiency, and resilience</b></li>
+
+</ul>
+
+<b style="color: blue;">Selected Publications:</b>
+<ul>
+  <!-- 
+<li>
+    H. Lee, C. Han, T. Gabor, Y. Sim, S. Akin, MBG Jun, Y. Jeon, J. Lee, "Cold spray-based secure and unique product identification with neural encoding: A full-stack framework for scalable authentication in manufacturing", 
+    <i>Journal of Intelligent Manufacturing</i>, 2026. 
+    <a href="https://semilab-rpi.com/assets/pdf/Puf_JIM.pdf" target="_blank">[Link]</a>
+</li>
+-->  
+</ul>
+
+
+
+
+
+
+
+
+
+
