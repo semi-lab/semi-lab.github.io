@@ -7,17 +7,47 @@ nav: true
 nav_order: 6
 ---
 
- <p style="font-size: 20px;">  <u>At Rensselaer Polytechnic Institute (RPI) </u><br> 
+ <p style="font-size: 22px;">  <u>At Rensselaer Polytechnic Institute (RPI) </u><br> 
+
+  <p style="font-size: 20px;">  <u>Graduate-Level </u><br> 
 
 <ul style="font-size: 16px;">
-     <li><b>MANE 6962:</b> Additive Manufacturing, <i>Spring 2026</i></li>    
-    <li><b>ENGR 4710/MANE 4610:</b> Manufacturing Processes and Systems (MPS) I, <i>Fall 2025</i></li>
-    <li><b>ENGR 4720/MANE 4620:</b> Manufacturing Processes and Systems (MPS) II, <i>Spring 2025</i></li>
-    <li><b>ENGR 2050:</b> Introduction to Engineering Design, <i>Fall 2024</i></li>
-    <li><b>ENGR 2050:</b> Introduction to Engineering Design, <i>Spring 2024</i></li>
+     <li><b>MANE 6962:</b> Additive Manufacturing, <i>Spring Semesters 
 </ul>
 
-<p style="font-size: 20px;">  <u>At Purdue University</u><br>
+<div style="display: flex; gap: 30px; align-items: center;">
+  <p style="font-size: 16px; margin: 0;">
+    <a href="https://semilab-rpi.com/assets/pdf/Syllabus.pdf">
+      Syllabus (Spring 2026)
+    </a>
+  </p>
+
+  <p style="font-size: 16px; margin: 0;">
+    <a href="https://semilab-rpi.com/assets/pdf/MANE_6962_AM_Final%20Project.pdf">
+      Final Project (Spring 2026)
+    </a>
+  </p>
+</div>
+
+
+
+  <figure style="margin: 0 0 20px 0;">
+    <img src="../assets/img/class_project.webp"
+         alt="Cold Spray Cell"
+         style="width: 90%; max-width: 550px; border-radius: 6px;">
+  </figure>
+
+  <p style="font-size: 20px;">  <u>Undergraduate-Level </u><br> 
+
+<ul style="font-size: 16px;">       
+    <li><b>ENGR 4710/MANE 4610:</b> Manufacturing Processes and Systems (MPS) I, <i>Fall 2025</i></li>
+    <li><b>ENGR 4720/MANE 4620:</b> Manufacturing Processes and Systems (MPS) II, <i>Spring 2025</i></li>
+    <li><b>ENGR 2050:</b> Introduction to Engineering Design, <i>Spring 2024, Fall 2024</i></li> 
+</ul>
+
+
+
+<p style="font-size: 22px;">  <u>At Purdue University</u><br>
 
 <ul style="font-size: 16px;">
     <li><b>ME 354:</b> Machine Design, <i> Spring & Fall 2024 </i></li>  
@@ -28,7 +58,7 @@ nav_order: 6
 
 <i>Purdue University - School of Mechanical Engineering <br> <u>Lecturer</u> as the Ward.A. Lambert Fellow (Spring 2022 and Fall 2022) </i> <br></p>
 
- <u><b>Course Content:</b></u> Factor of safety, Combined Stress, Static Failure Theories, Fatigue analysis methods, Fatigue failure criteria, Shaft design, Design of keys, Limits and fits, Mechanical springs, Material properties & processing, Contact stresses, Rolling element bearings, Lubrication, Journal bearings, Mechanical gears, Thread standards, Threaded fasteners, Geometric dimensioning & tolerancing. 
+ <!--  <u><b>Course Content:</b></u> Factor of safety, Combined Stress, Static Failure Theories, Fatigue analysis methods, Fatigue failure criteria, Shaft design, Design of keys, Limits and fits, Mechanical springs, Material properties & processing, Contact stresses, Rolling element bearings, Lubrication, Journal bearings, Mechanical gears, Thread standards, Threaded fasteners, Geometric dimensioning & tolerancing. 
  <br>
  <br>
 
