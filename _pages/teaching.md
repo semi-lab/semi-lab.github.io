@@ -12,10 +12,11 @@ nav_order: 6
   <p style="font-size: 20px;">  <u>Graduate-Level </u><br> 
 
 <ul style="font-size: 16px;">
-     <li><b>MANE 6962:</b> Additive Manufacturing, <i>Spring Semesters 
+    <li><b>MANE 6962:</b> Additive Manufacturing, <i>Spring 2026</i></li>
 </ul>
 
-<div style="display: flex; gap: 30px; align-items: center;">
+<br>
+<div style="display: flex; justify-content: center; gap: 30px; align-items: center;">
   <p style="font-size: 16px; margin: 0;">
     <a href="https://semilab-rpi.com/assets/pdf/Syllabus.pdf">
       Syllabus (Spring 2026)
@@ -28,7 +29,6 @@ nav_order: 6
     </a>
   </p>
 </div>
-
 
 
   <figure style="margin: 0 0 20px 0;">
