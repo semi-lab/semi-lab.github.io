@@ -16,7 +16,7 @@ nav_order: 6
 </ul>
 
 
-<div style="display: flex; gap: 40px; align-items: center; margin-left: 40px;">
+<div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
   <p style="font-size: 16px; margin: 0;">
     <a href="https://semilab-rpi.com/assets/pdf/Syllabus.pdf">
       Syllabus (Spring 2026)
