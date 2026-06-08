@@ -16,7 +16,7 @@ nav_order: 6
 </ul>
 
 
-<div style="display: flex; gap: 40px; align-items: center;">
+<div style="display: flex; gap: 40px; align-items: center; margin-left: 40px;">
   <p style="font-size: 16px; margin: 0;">
     <a href="https://semilab-rpi.com/assets/pdf/Syllabus.pdf">
       Syllabus (Spring 2026)
@@ -31,11 +31,11 @@ nav_order: 6
 </div>
 
 
-  <figure style="margin: 0 0 20px 0;">
-    <img src="../assets/img/class_project.webp"
-         alt="Cold Spray Cell"
-         style="width: 90%; max-width: 550px; border-radius: 6px;">
-  </figure>
+ <figure style="margin: 0 0 20px 0; text-align: center;">
+  <img src="../assets/img/class_project.webp"
+       alt="Cold Spray Cell"
+       style="width: 90%; max-width: 550px; border-radius: 6px;">
+</figure>
 
   <p style="font-size: 20px;">  <u>Undergraduate-Level </u><br> 
 
