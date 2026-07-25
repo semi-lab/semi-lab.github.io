@@ -147,41 +147,6 @@ nav_order: 3
     </div>
 <br>
 
-<div style="display: flex; align-items: center;">
-    <img src="../assets/img/Nicholas.png" width="150" height="170"/>
-    <div style="text-align: left; margin-left: 20px;">
-        <span style="font-size: 20px;"><b>Nicholas D. Walker</b></span>
-        <br>
-        <span style="font-size: 17px;">Master of Eng. Student </span>
-        <br>
-        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
-        <br>
-        Research Interests: Space manufacturing, 3D-printing
-        <br>
-        &#128231;<a href="walken3@rpi.edu" style="margin-right: 10px;"> walken3@rpi.edu
-     </a>    
-    </div>
-    <br>
-    </div>
-<br>
-
-<div style="display: flex; align-items: center;">
-    <img src="../assets/img/Philips.png" width="150" height="170"/>
-    <div style="text-align: left; margin-left: 20px;">
-        <span style="font-size: 20px;"><b>Jules Philips</b></span>
-        <br>
-        <span style="font-size: 17px;">Master of Eng. Student </span>
-        <br>
-        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
-        <br>
-        Research Interests: Space manufacturing, 3D-printing
-        <br>
-        &#128231;<a href="phillj12@rpi.edu" style="margin-right: 10px;"> phillj12@rpi.edu
-     </a>    
-    </div>
-    <br>
-    </div>
-<br>
 
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/leo.jpeg" width="150" height="170"/>
@@ -200,6 +165,24 @@ nav_order: 3
     <br>
     </div>
 <br>
+
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/Akshay.png" width="150" height="170"/>
+    <div style="text-align: left; margin-left: 20px;">
+        <span style="font-size: 20px;"><b> Akshay Rao Ananda
+</b></span>
+        <br>
+        <span style="font-size: 17px;">Master of Eng. Student </span>
+        <br>
+        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
+        <br>
+        Research Interests: 3D printed electronics, Rapid prototyping, Additive manufacturing
+        <br>
+       &#128231;<a href="raoana@rpi.edu" style="margin-right: 10px;">raoana@rpi.edu</a>         
+    </div>
+</div>
+<br>
+
 
 ## Undergraduate Students
 
@@ -236,57 +219,6 @@ nav_order: 3
 </div>
 <br>
 
-<div style="display: flex; align-items: center;">
-    <img src="../assets/img/Gracee.png" width="150" height="170"/>
-    <div style="text-align: left; margin-left: 20px;">
-        <span style="font-size: 20px;"><b> Grace Richard
-</b></span>
-        <br>
-        <span style="font-size: 17px;">BS Student </span>
-        <br>
-        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
-        <br>
-        Research Interests: 3D printed electronics, Rapid prototyping, RFID
-        <br>
-       &#128231;<a href="richag3@rpi.edu" style="margin-right: 10px;">richag3@rpi.edu</a>         
-    </div>
-</div>
-<br>
-
-<div style="display: flex; align-items: center;">
-    <img src="../assets/img/Akshay.png" width="150" height="170"/>
-    <div style="text-align: left; margin-left: 20px;">
-        <span style="font-size: 20px;"><b> Akshay Rao Ananda
-</b></span>
-        <br>
-        <span style="font-size: 17px;">BS Student </span>
-        <br>
-        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
-        <br>
-        Research Interests: 3D printed electronics, Rapid prototyping, Additive manufacturing
-        <br>
-       &#128231;<a href="raoana@rpi.edu" style="margin-right: 10px;">raoana@rpi.edu</a>         
-    </div>
-</div>
-<br>
-
-<div style="display: flex; align-items: center;">
-    <img src="../assets/img/John_poleway.jpg" width="150" height="170"/>
-    <div style="text-align: left; margin-left: 20px;">
-        <span style="font-size: 20px;"><b> John Poleway
-</b></span>
-        <br>
-        <span style="font-size: 17px;">BS Student </span>
-        <br>
-        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
-        <br>
-        Research Interests: 3D printing, Aerosol Jet Printing
-        <br>
-       &#128231;<a href="polewj@rpi.edu" style="margin-right: 10px;">polewj@rpi.edu</a>         
-    </div>
-</div>
-<br>
-
 
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/Dyka.jpg" width="150" height="170"/>
@@ -298,12 +230,31 @@ nav_order: 3
         <br>
         <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
         <br>
-        Research Interests: 3D printing, Aerosol Jet Printing
+        Research Interests: 3D printing, Aerosol Jet Printing, Smart structures
         <br>
        &#128231;<a href="dykad@rpi.edu" style="margin-right: 10px;">dykad@rpi.edu</a>         
     </div>
 </div>
 <br>
+
+
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/Dhruva.jpeg" width="150" height="170"/>
+    <div style="text-align: left; margin-left: 20px;">
+        <span style="font-size: 20px;"><b> Dhruva Raghavan
+</b></span>
+        <br>
+        <span style="font-size: 17px;">BS Student </span>
+        <br>
+        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
+        <br>
+        Research Interests: 3D printing, Smart structures
+        <br>
+       &#128231;<a href="dykad@rpi.edu" style="margin-right: 10px;">raghad@rpi.edu</a>         
+    </div>
+</div>
+<br>
+
 
 <!-- <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <img src="../assets/img/Brandon.jpg" width="150" height="170" style="margin-right: 20px;">
@@ -324,7 +275,11 @@ nav_order: 3
 ## Past Members
 <body>  
   <ul>
-    <li>Hongfei Liu, <i>Undergraduate Research Student</i> (Spring 2024) — Now at Carnegie Mellon University</li>
+    <li>Nicholas D. Walker, <i>M. Eng Student</i> (2025-2026) — Now at Lockheed Martin </li>
+    <li>Jules Philips, <i>M. Eng Student</i> (2025-2026) — Now at Lawrance Livermore National Laboratory </li>
+     <li>Faydia Thompson, <i>M. Eng Student</i> (2024-2025) — Now at Sikorsky </li>
+    <li>Grace Richard, <i>Undergraduate Research Student</i> (2025-2026) — Now at UC Berkeley </li>
+   <li>Hongfei Liu, <i>Undergraduate Research Student</i> (Spring 2024) — Now at Carnegie Mellon University</li>
     <li>Hongru Liu, <i>Undergraduate Research Student</i> (Spring 2024) — Now at Carnegie Mellon University</li>
     <li>Travis Johnson, <i>Undergraduate Research Student</i> (Fall 2024) — Now at Ohio State University</li>
     <li>Zhi Cheng Guan, <i>Undergraduate Research Student</i> (Spring 2024) — Now at Wabtec Corporation</li>
@@ -333,5 +288,6 @@ nav_order: 3
 </body>
 
      
+
 
 
