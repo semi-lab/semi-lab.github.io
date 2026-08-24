@@ -10,6 +10,14 @@ nav_order: null
 <!-- Filter bar -->
 <input type="text" id="confFilter" placeholder="Filter by author, title, year, etc." style="margin-bottom: 1em; padding: 0.5em; width: 100%; max-width: 400px; border-radius: 5px; border: 1px solid #ccc;">
 
+<div class="year" style="font-size: 28px; text-align: right;">2026</div>
+
+<p class="paper-entry">19. J. Ren, S. Huang, S. Rahman, F. Kopsaftopoulos, J. Samuel, <u>S. Akin</u>, “Convergent manufacturing of smart metallic structures”, 
+  <i>Excellence in Manufacturing and Operations (XMO)</i>, 2026. 
+  <a href="https://docs.lib.purdue.edu/mmrl-cms/2026/papers/4/?10.5703/1288284318666">[Link]</a>, 
+  <a href="https://semi-lab.github.io/assets/pdf/XMO.pdf">[PDF]</a></p>
+
+
 <div class="year" style="font-size: 28px; text-align: right;">2025</div>
 
 <p class="paper-entry">18. J. Jeon, A. Wong, M. Koca, F. Thompson, O. Tumuklu, <u>S. Akin</u>, “Conductivity-tunable reactive aerosol jet metallization of textiles”, 
