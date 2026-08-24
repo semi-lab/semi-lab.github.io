@@ -106,6 +106,29 @@ nav_order: 3
 </div>
 <br>
 
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/Tajwar.jpeg" width="150" height="170"/>
+    <div style="text-align: left; margin-left: 20px;">
+        <span style="font-size: 20px;"><b>Tajwar Razib</b></span>
+        <br>
+        <span style="font-size: 17px;">PhD Student </span>
+        <br>
+        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
+        <br>
+        Research Interests:  <br> Data-driven modeling, Smart manufacturing, Machie learning, Agentic AI
+        <br>
+        &#128231;<a href="mailto:razibt@rpi.edu" style="margin-right: 10px;"> razibt@rpi.edu
+     </a>   
+      <!-- LinkedIn -->
+        <a href="https://www.linkedin.com/in/tajwar-razib-19217a1aa/" target="_blank" rel="noopener" style="margin-right: 10px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
+                 alt="LinkedIn Logo" width="20" height="20" style="vertical-align: middle;">
+        </a> 
+    </div>
+</div>
+<br>
+
+
 ## MS Students
 
 <!--
