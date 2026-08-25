@@ -24,7 +24,7 @@ nav_order: 3
         <br>    
         &#128231;<a href="mailto:akins@rpi.edu" style="margin-right: 10px;"> akins@rpi.edu</a>
         <a href="https://www.linkedin.com/in/semih-akin-4297666b/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">
         </a>    
     </div>
 </div>
@@ -47,7 +47,7 @@ nav_order: 3
         <br>
         &#128231;<a href="mailto:rahmas5@rpi.edu" style="margin-right: 10px;"> rahmas5@rpi.edu</a>
         <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACWtziEBNf5khdYo15xvCk2lDuHnb_3q9ZE&keywords=sazedur%20rahman&origin=RICH_QUERY_SUGGESTION&position=2&searchId=2c86f559-b62a-45c3-a198-4d2d46c81fcd&sid=XcN&spellCorrectionEnabled=false">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">
         </a>    
     </div>
 </div>
@@ -69,7 +69,7 @@ nav_order: 3
       <!-- LinkedIn -->
         <a href="https://www.linkedin.com/in/jaehun-jeon-305b55370/" target="_blank" rel="noopener" style="margin-right: 10px;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
-                 alt="LinkedIn Logo" width="20" height="20" style="vertical-align: middle;">
+                 alt="LinkedIn" width="20" height="20" style="vertical-align: middle;">
         </a> 
     </div>
 </div>
@@ -95,7 +95,7 @@ nav_order: 3
         <!-- LinkedIn -->
         <a href="https://www.linkedin.com/in/fatema25/" target="_blank" rel="noopener" style="margin-right: 10px;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
-                 alt="LinkedIn Logo" width="20" height="20" style="vertical-align: middle;">
+                 alt="LinkedIn" width="20" height="20" style="vertical-align: middle;">
         </a>
         <!-- Personal Webpage -->
         <a href="https://sites.google.com/view/fatematujzohora?usp=sharing" target="_blank" rel="noopener">
@@ -115,14 +115,14 @@ nav_order: 3
         <br>
         <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
         <br>
-        Research Interests:  <br> Data-driven modeling, Smart manufacturing, Machine learning, Agentic AI
+        Research Interests:  <br> Data-driven modeling, Smart manufacturing, Machie learning, Agentic AI
         <br>
         &#128231;<a href="mailto:razibt@rpi.edu" style="margin-right: 10px;"> razibt@rpi.edu
      </a>   
       <!-- LinkedIn -->
         <a href="https://www.linkedin.com/in/tajwar-razib-19217a1aa/" target="_blank" rel="noopener" style="margin-right: 10px;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
-                 alt="LinkedIn Logo" width="20" height="20" style="vertical-align: middle;">
+                 alt="LinkedIn" width="20" height="20" style="vertical-align: middle;">
         </a> 
     </div>
 </div>
