@@ -115,7 +115,7 @@ nav_order: 3
         <br>
         <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
         <br>
-        Research Interests:  <br> Data-driven modeling, Smart manufacturing, Machie learning, Agentic AI
+        Research Interests:  <br> Data-driven modeling, Smart manufacturing, Machine learning, Agentic AI
         <br>
         &#128231;<a href="mailto:razibt@rpi.edu" style="margin-right: 10px;"> razibt@rpi.edu
      </a>   
