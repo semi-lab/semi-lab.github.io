@@ -206,6 +206,41 @@ nav_order: 3
 </div>
 <br>
 
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/Kanchan.jpg" width="150" height="170"/>
+    <div style="text-align: left; margin-left: 20px;">
+        <span style="font-size: 20px;"><b>Kanchan Suresh</b></span>
+        <br>
+        <span style="font-size: 17px;">Master of Eng. Student </span>
+        <br>
+        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
+        <br>
+        Research Interests: Additive manufacturing, 3-D printed smart structures
+        <br>
+        &#128231;<a href="mailto:suresk2@rpi.edu" style="margin-right: 10px;">suresk2@rpi.edu</a>      
+    </div>
+</div>
+<br>
+
+
+
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/Alex.png" width="150" height="170"/>
+    <div style="text-align: left; margin-left: 20px;">
+        <span style="font-size: 20px;"><b>Alex Wong</b></span>
+        <br>
+        <span style="font-size: 17px;">Master of Eng. Student </span>
+        <br>
+        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
+        <br>
+        Research Interests: Additive manufacturing, Aerosol jet printing, Electronic textiles, Smart 3D-printed structures 
+        <br>
+        &#128231;<a href="mailto:wonga9@rpi.edu" style="margin-right: 10px;">wonga9@rpi.edu</a>              
+    </div>
+</div>
+<br>
+
+
 
 ## Undergraduate Students
 
@@ -226,39 +261,40 @@ nav_order: 3
 
 
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/Alex.png" width="150" height="170"/>
+    <img src="../assets/img/Khan.jpg" width="150" height="170"/>
     <div style="text-align: left; margin-left: 20px;">
-        <span style="font-size: 20px;"><b>Alex Wong</b></span>
-        <br>
-        <span style="font-size: 17px;">BS Student </span>
-        <br>
-        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
-        <br>
-        Research Interests: Additive manufacturing, Aerosol jet printing, Electronic textiles 
-        <br>
-        &#128231;<a href="mailto:wonga9@rpi.edu" style="margin-right: 10px;">wonga9@rpi.edu</a>  
-        <br> <i>Now intern at Apple </i>     
-    </div>
-</div>
-<br>
-
-
-<div style="display: flex; align-items: center;">
-    <img src="../assets/img/Dyka.jpg" width="150" height="170"/>
-    <div style="text-align: left; margin-left: 20px;">
-        <span style="font-size: 20px;"><b> David Dyka
+        <span style="font-size: 20px;"><b> Azeem Khan
 </b></span>
         <br>
         <span style="font-size: 17px;">BS Student </span>
         <br>
         <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
         <br>
-        Research Interests: 3D printing, Aerosol Jet Printing, Smart structures
+        Research Interests: 3D printing, Smart lattice structures
         <br>
-       &#128231;<a href="dykad@rpi.edu" style="margin-right: 10px;">dykad@rpi.edu</a>         
+       &#128231;<a href="KHANA9@rpi.edu" style="margin-right: 10px;">khana9@rpi.edu</a>         
     </div>
 </div>
 <br>
+
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/Boyle.png" width="150" height="170"/>
+    <div style="text-align: left; margin-left: 20px;">
+        <span style="font-size: 20px;"><b> Quino Boyle
+</b></span>
+        <br>
+        <span style="font-size: 17px;">BS Student </span>
+        <br>
+        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
+        <br>
+        Research Interests: 3D printing, Smart structures, Embedded sensing
+        <br>
+       &#128231;<a href="boylej3@rpi.edu" style="margin-right: 10px;">boylej3@rpi.edu</a>         
+    </div>
+</div>
+<br>
+
+
 
 
 <div style="display: flex; align-items: center;">
@@ -306,7 +342,7 @@ nav_order: 3
     <li>Hongru Liu, <i>Undergraduate Research Student</i> (Spring 2024) — Now at Carnegie Mellon University</li>
     <li>Travis Johnson, <i>Undergraduate Research Student</i> (Fall 2024) — Now at Ohio State University</li>
     <li>Zhi Cheng Guan, <i>Undergraduate Research Student</i> (Spring 2024) — Now at Wabtec Corporation</li>
-    <li>Brandon Villanueva, <i>Undergraduate Research Student</i> (Spring–Summer 2024)</li>
+    <li>Brandon Villanueva, <i>Undergraduate Research Student</i> (Spring–Summer 2024) — Now at RPI </li>
   </ul>
 </body>
 
