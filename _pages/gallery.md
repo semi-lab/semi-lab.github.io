@@ -23,7 +23,7 @@ nav_order: 8
   >
     <!-- Photo 1 -->
     <img
-      src="../assets/img/MSEC_2026-1.JPEG"
+      src="../assets/img/MSEC_2026-1.jpeg"
       alt="MSEC/NAMRC-54 Conference Photo 1"
       style="
         position: absolute;
@@ -38,7 +38,7 @@ nav_order: 8
     />
     <!-- Photo 2 -->
     <img
-      src="../assets/img/MSEC_2026-2.JPEG"
+      src="../assets/img/MSEC_2026-2.jpg"
       alt="MSEC/NAMRC-54 Conference Photo 2"
       style="
         position: absolute;
@@ -53,8 +53,38 @@ nav_order: 8
     />
     <!-- Photo 3 -->
     <img
-      src="../assets/img/MSEC_2026-3.JPEG"
+      src="../assets/img/MSEC_2026-3.jpg"
       alt="MSEC/NAMRC-54 Conference Photo 3"
+      style="
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        top: 0;
+        left: 0;
+        opacity: 0;
+        transition: opacity 0.6s ease;
+      "
+    />
+    <!-- Photo 4 -->
+    <img
+      src="../assets/img/MSEC_2026-4.jpg"
+      alt="MSEC/NAMRC-54 Conference Photo 4"
+      style="
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        top: 0;
+        left: 0;
+        opacity: 0;
+        transition: opacity 0.6s ease;
+      "
+    />
+    <!-- Photo 5 -->
+    <img
+      src="../assets/img/MSEC_2026-5.jpg"
+      alt="MSEC/NAMRC-54 Conference Photo 5"
       style="
         position: absolute;
         width: 100%;
@@ -110,7 +140,9 @@ nav_order: 8
     >
       &#10095;
     </button>
+
   </div>
+  
   <!-- Caption -->
   <div
     id="caption"
@@ -137,6 +169,8 @@ document.addEventListener("DOMContentLoaded", function () {
   const nextButton = document.getElementById("next");
 
   const captions = [
+    "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
+    "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
     "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
     "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
     "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026)."
@@ -194,6 +228,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 });
 </script>
+
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
       <tr>
