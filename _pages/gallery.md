@@ -8,9 +8,9 @@ nav_order: 8
 ---
 
 
-
 <!-- Photo Collage with Arrows, Auto Transition, and Caption -->
 <div style="position: relative; max-width: 600px; margin: 0 auto 30px;">
+
   <div
     id="collage"
     style="
@@ -21,12 +21,11 @@ nav_order: 8
       height: 360px;
     "
   >
-    <!-- Images -->
+    <!-- Photo 1 -->
     <img
       src="../assets/img/MSEC_2026-1.JPEG"
       alt="MSEC/NAMRC-54 Conference Photo 1"
       style="
-        pointer-events: none;
         position: absolute;
         width: 100%;
         height: 100%;
@@ -37,12 +36,11 @@ nav_order: 8
         transition: opacity 0.6s ease;
       "
     />
-
+    <!-- Photo 2 -->
     <img
       src="../assets/img/MSEC_2026-2.JPEG"
       alt="MSEC/NAMRC-54 Conference Photo 2"
       style="
-        pointer-events: none;
         position: absolute;
         width: 100%;
         height: 100%;
@@ -53,12 +51,11 @@ nav_order: 8
         transition: opacity 0.6s ease;
       "
     />
-
+    <!-- Photo 3 -->
     <img
       src="../assets/img/MSEC_2026-3.JPEG"
       alt="MSEC/NAMRC-54 Conference Photo 3"
       style="
-        pointer-events: none;
         position: absolute;
         width: 100%;
         height: 100%;
@@ -69,86 +66,51 @@ nav_order: 8
         transition: opacity 0.6s ease;
       "
     />
-
-    <img
-      src="../assets/img/MSEC_2026-4.JPEG"
-      alt="MSEC/NAMRC-54 Conference Photo 4"
-      style="
-        pointer-events: none;
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        top: 0;
-        left: 0;
-        opacity: 0;
-        transition: opacity 0.6s ease;
-      "
-    />
-
-    <img
-      src="../assets/img/MSEC_2026-5.JPEG"
-      alt="MSEC/NAMRC-54 Conference Photo 5"
-      style="
-        pointer-events: none;
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        top: 0;
-        left: 0;
-        opacity: 0;
-        transition: opacity 0.6s ease;
-      "
-    />
-
     <!-- Previous Arrow -->
     <button
       id="prev"
       type="button"
-      aria-label="Previous photo"
       style="
         position: absolute;
         top: 50%;
         left: 10px;
         transform: translateY(-50%);
-        font-size: 2rem;
+        z-index: 10;
+        background: rgba(0,0,0,0.5);
         color: white;
-        background: rgba(0, 0, 0, 0.4);
         border: none;
-        padding: 5px 10px;
-        border-radius: 5px;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
         cursor: pointer;
-        z-index: 5;
+        font-size: 22px;
       "
     >
       &#10094;
     </button>
-
     <!-- Next Arrow -->
     <button
       id="next"
       type="button"
-      aria-label="Next photo"
       style="
         position: absolute;
         top: 50%;
         right: 10px;
         transform: translateY(-50%);
-        font-size: 2rem;
+        z-index: 10;
+        background: rgba(0,0,0,0.5);
         color: white;
-        background: rgba(0, 0, 0, 0.4);
         border: none;
-        padding: 5px 10px;
-        border-radius: 5px;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
         cursor: pointer;
-        z-index: 5;
+        font-size: 22px;
       "
     >
       &#10095;
     </button>
   </div>
-
   <!-- Caption -->
   <div
     id="caption"
@@ -162,66 +124,76 @@ nav_order: 8
   >
     Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).
   </div>
+
 </div>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const collage = document.getElementById("collage");
-    const images = collage.querySelectorAll("img");
-    const caption = document.getElementById("caption");
-    const prevButton = document.getElementById("prev");
-    const nextButton = document.getElementById("next");
+document.addEventListener("DOMContentLoaded", function () {
 
-    const captions = [
-      "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
-      "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
-      "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
-      "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
-      "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026)."
-    ];
+  const collage = document.getElementById("collage");
+  const images = collage.querySelectorAll("img");
+  const caption = document.getElementById("caption");
+  const prevButton = document.getElementById("prev");
+  const nextButton = document.getElementById("next");
 
-    let currentIndex = 0;
-    let intervalId = null;
+  const captions = [
+    "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
+    "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
+    "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026)."
+  ];
 
-    function showImage(index) {
-      images.forEach((img, i) => {
-        img.style.opacity = i === index ? "1" : "0";
-      });
+  let currentIndex = 0;
+  let intervalId;
 
-      caption.textContent = captions[index] || "";
-    }
+  function showImage(index) {
+    images.forEach((img, i) => {
+      img.style.opacity = i === index ? "1" : "0";
+    });
 
-    function nextImage() {
-      currentIndex = (currentIndex + 1) % images.length;
-      showImage(currentIndex);
-    }
+    caption.textContent = captions[index] || "";
+  }
 
-    function prevImage() {
-      currentIndex =
-        (currentIndex - 1 + images.length) % images.length;
-      showImage(currentIndex);
-    }
+  function nextImage() {
+    currentIndex = (currentIndex + 1) % images.length;
+    showImage(currentIndex);
+  }
 
-    function startAutoSlide() {
-      clearInterval(intervalId);
+  function prevImage() {
+    currentIndex =
+      (currentIndex - 1 + images.length) % images.length;
+
+    showImage(currentIndex);
+  }
+
+  function startAutoSlide() {
+    clearInterval(intervalId);
+
+    if (images.length > 1) {
       intervalId = setInterval(nextImage, 4000);
     }
+  }
 
+  if (prevButton) {
     prevButton.addEventListener("click", function () {
       prevImage();
       startAutoSlide();
     });
+  }
 
+  if (nextButton) {
     nextButton.addEventListener("click", function () {
       nextImage();
       startAutoSlide();
     });
+  }
 
+  if (images.length > 0) {
     showImage(currentIndex);
     startAutoSlide();
-  });
-</script>
+  }
 
+});
+</script>
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
       <tr>
