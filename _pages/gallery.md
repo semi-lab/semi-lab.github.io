@@ -229,6 +229,229 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
+
+<!-- Photo Collage with Arrows, Auto Transition, and Caption -->
+<div style="position: relative; max-width: 600px; margin: 0 auto 30px;">
+
+  <div
+    id="collage"
+    style="
+      position: relative;
+      border: 2px solid #ccc;
+      border-radius: 8px;
+      overflow: hidden;
+      height: 360px;
+    "
+  >
+    <!-- Photo 1 -->
+    <img
+      src="../assets/img/MSEC_2026-1.jpeg"
+      alt="MSEC/NAMRC-54 Conference Photo 1"
+      style="
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        top: 0;
+        left: 0;
+        opacity: 1;
+        transition: opacity 0.6s ease;
+      "
+    />
+    <!-- Photo 2 -->
+    <img
+      src="../assets/img/MSEC_2026-2.jpg"
+      alt="MSEC/NAMRC-54 Conference Photo 2"
+      style="
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        top: 0;
+        left: 0;
+        opacity: 0;
+        transition: opacity 0.6s ease;
+      "
+    />
+    <!-- Photo 3 -->
+    <img
+      src="../assets/img/MSEC_2026-3.jpg"
+      alt="MSEC/NAMRC-54 Conference Photo 3"
+      style="
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        top: 0;
+        left: 0;
+        opacity: 0;
+        transition: opacity 0.6s ease;
+      "
+    />
+    <!-- Photo 4 -->
+    <img
+      src="../assets/img/MSEC_2026-4.jpg"
+      alt="MSEC/NAMRC-54 Conference Photo 4"
+      style="
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        top: 0;
+        left: 0;
+        opacity: 0;
+        transition: opacity 0.6s ease;
+      "
+    />
+    <!-- Photo 5 -->
+    <img
+      src="../assets/img/MSEC_2026-5.jpg"
+      alt="MSEC/NAMRC-54 Conference Photo 5"
+      style="
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        top: 0;
+        left: 0;
+        opacity: 0;
+        transition: opacity 0.6s ease;
+      "
+    />
+    <!-- Previous Arrow -->
+    <button
+      id="prev"
+      type="button"
+      style="
+        position: absolute;
+        top: 50%;
+        left: 10px;
+        transform: translateY(-50%);
+        z-index: 10;
+        background: rgba(0,0,0,0.5);
+        color: white;
+        border: none;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        cursor: pointer;
+        font-size: 22px;
+      "
+    >
+      &#10094;
+    </button>
+    <!-- Next Arrow -->
+    <button
+      id="next"
+      type="button"
+      style="
+        position: absolute;
+        top: 50%;
+        right: 10px;
+        transform: translateY(-50%);
+        z-index: 10;
+        background: rgba(0,0,0,0.5);
+        color: white;
+        border: none;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        cursor: pointer;
+        font-size: 22px;
+      "
+    >
+      &#10095;
+    </button>
+
+  </div>
+  
+  <!-- Caption -->
+  <div
+    id="caption"
+    style="
+      text-align: center;
+      font-style: italic;
+      font-size: 1rem;
+      color: #555;
+      margin-top: 10px;
+    "
+  >
+    Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).
+  </div>
+
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const collage = document.getElementById("collage");
+  const images = collage.querySelectorAll("img");
+  const caption = document.getElementById("caption");
+  const prevButton = document.getElementById("prev");
+  const nextButton = document.getElementById("next");
+
+  const captions = [
+    "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
+    "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
+    "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
+    "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
+    "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026)."
+  ];
+
+  let currentIndex = 0;
+  let intervalId;
+
+  function showImage(index) {
+    images.forEach((img, i) => {
+      img.style.opacity = i === index ? "1" : "0";
+    });
+
+    caption.textContent = captions[index] || "";
+  }
+
+  function nextImage() {
+    currentIndex = (currentIndex + 1) % images.length;
+    showImage(currentIndex);
+  }
+
+  function prevImage() {
+    currentIndex =
+      (currentIndex - 1 + images.length) % images.length;
+
+    showImage(currentIndex);
+  }
+
+  function startAutoSlide() {
+    clearInterval(intervalId);
+
+    if (images.length > 1) {
+      intervalId = setInterval(nextImage, 4000);
+    }
+  }
+
+  if (prevButton) {
+    prevButton.addEventListener("click", function () {
+      prevImage();
+      startAutoSlide();
+    });
+  }
+
+  if (nextButton) {
+    nextButton.addEventListener("click", function () {
+      nextImage();
+      startAutoSlide();
+    });
+  }
+
+  if (images.length > 0) {
+    showImage(currentIndex);
+    startAutoSlide();
+  }
+
+});
+</script>
+
+
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
       <tr>
