@@ -230,9 +230,11 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 
 
-<!-- Photo Collage with Arrows, Auto Transition, and Caption -->
+<!-- Photo Collage with Manual Arrows and Caption -->
+
 <div style="position: relative; max-width: 600px; margin: 0 auto 30px;">
 
+  <!-- Photo Container -->
   <div
     id="collage"
     style="
@@ -242,12 +244,13 @@ document.addEventListener("DOMContentLoaded", function () {
       overflow: hidden;
       height: 360px;
     "
-  >
+    >
     <!-- Photo 1 -->
     <img
-      src="../assets/img/MSEC_2026-1.jpeg"
-      alt="MSEC/NAMRC-54 Conference Photo 1"
+      src="../assets/img/Korea-1.JPEG"
+      alt="KITECH and KIMM Visit Photo 1"
       style="
+        pointer-events: none;
         position: absolute;
         width: 100%;
         height: 100%;
@@ -260,9 +263,10 @@ document.addEventListener("DOMContentLoaded", function () {
     />
     <!-- Photo 2 -->
     <img
-      src="../assets/img/MSEC_2026-2.jpg"
-      alt="MSEC/NAMRC-54 Conference Photo 2"
+      src="../assets/img/Korea-2.JPEG"
+      alt="KITECH and KIMM Visit Photo 2"
       style="
+        pointer-events: none;
         position: absolute;
         width: 100%;
         height: 100%;
@@ -275,39 +279,10 @@ document.addEventListener("DOMContentLoaded", function () {
     />
     <!-- Photo 3 -->
     <img
-      src="../assets/img/MSEC_2026-3.jpg"
-      alt="MSEC/NAMRC-54 Conference Photo 3"
+      src="../assets/img/Korea-1.JPEG"
+      alt="KITECH and KIMM Visit Photo 3"
       style="
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        top: 0;
-        left: 0;
-        opacity: 0;
-        transition: opacity 0.6s ease;
-      "
-    />
-    <!-- Photo 4 -->
-    <img
-      src="../assets/img/MSEC_2026-4.jpg"
-      alt="MSEC/NAMRC-54 Conference Photo 4"
-      style="
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        top: 0;
-        left: 0;
-        opacity: 0;
-        transition: opacity 0.6s ease;
-      "
-    />
-    <!-- Photo 5 -->
-    <img
-      src="../assets/img/MSEC_2026-5.jpg"
-      alt="MSEC/NAMRC-54 Conference Photo 5"
-      style="
+        pointer-events: none;
         position: absolute;
         width: 100%;
         height: 100%;
@@ -319,52 +294,51 @@ document.addEventListener("DOMContentLoaded", function () {
       "
     />
     <!-- Previous Arrow -->
-    <button
+    <div
       id="prev"
-      type="button"
+      role="button"
+      aria-label="Previous photo"
       style="
         position: absolute;
         top: 50%;
         left: 10px;
         transform: translateY(-50%);
-        z-index: 10;
-        background: rgba(0,0,0,0.5);
+        font-size: 2rem;
         color: white;
-        border: none;
-        border-radius: 50%;
-        width: 40px;
-        height: 40px;
+        background: rgba(0, 0, 0, 0.4);
+        padding: 5px 10px;
+        border-radius: 5px;
         cursor: pointer;
-        font-size: 22px;
+        z-index: 5;
+        user-select: none;
       "
     >
       &#10094;
-    </button>
+    </div>
     <!-- Next Arrow -->
-    <button
+    <div
       id="next"
-      type="button"
+      role="button"
+      aria-label="Next photo"
       style="
         position: absolute;
         top: 50%;
         right: 10px;
         transform: translateY(-50%);
-        z-index: 10;
-        background: rgba(0,0,0,0.5);
+        font-size: 2rem;
         color: white;
-        border: none;
-        border-radius: 50%;
-        width: 40px;
-        height: 40px;
+        background: rgba(0, 0, 0, 0.4);
+        padding: 5px 10px;
+        border-radius: 5px;
         cursor: pointer;
-        font-size: 22px;
+        z-index: 5;
+        user-select: none;
       "
     >
       &#10095;
-    </button>
+    </div>
 
   </div>
-  
   <!-- Caption -->
   <div
     id="caption"
@@ -376,10 +350,39 @@ document.addEventListener("DOMContentLoaded", function () {
       margin-top: 10px;
     "
   >
-    Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).
+    SEMI-LAB hosted visitors from the Korea Institute of Industrial Technology
+    (KITECH) (Dr. Jungso Nam &amp; Dr. Kyeongeun Song) and the Korea Institute
+    of Machinery &amp; Materials (KIMM) (Dr. Jungsub Kim &amp; Dr. Gyuho Kim)
+    (June 2026).
   </div>
 
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const images = document.querySelectorAll("#collage img");
+    const prevButton = document.getElementById("prev");
+    const nextButton = document.getElementById("next");
+
+    let currentIndex = 0;
+
+    function showImage(index) {
+      images.forEach((img, i) => {
+        img.style.opacity = i === index ? "1" : "0";
+      });
+    }
+
+    nextButton.addEventListener("click", function () {
+      currentIndex = (currentIndex + 1) % images.length;
+      showImage(currentIndex);
+    });
+
+    prevButton.addEventListener("click", function () {
+      currentIndex = (currentIndex - 1 + images.length) % images.length;
+      showImage(currentIndex);
+    });
+  });
+</script>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
