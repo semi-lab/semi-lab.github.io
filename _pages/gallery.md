@@ -229,6 +229,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
+<!-- KOREAN VISITOR TO RPI -->
 
 <!-- Photo Collage with Manual Arrows and Caption -->
 
@@ -247,7 +248,7 @@ document.addEventListener("DOMContentLoaded", function () {
     >
     <!-- Photo 1 -->
     <img
-      src="../assets/img/Korea-1.JPEG"
+      src="../assets/img/Korea-1.jpeg"
       alt="KITECH and KIMM Visit Photo 1"
       style="
         pointer-events: none;
@@ -263,7 +264,7 @@ document.addEventListener("DOMContentLoaded", function () {
     />
     <!-- Photo 2 -->
     <img
-      src="../assets/img/Korea-2.JPEG"
+      src="../assets/img/Korea-2.jpeg"
       alt="KITECH and KIMM Visit Photo 2"
       style="
         pointer-events: none;
@@ -279,7 +280,7 @@ document.addEventListener("DOMContentLoaded", function () {
     />
     <!-- Photo 3 -->
     <img
-      src="../assets/img/Korea-1.JPEG"
+      src="../assets/img/Korea-3.jpeg"
       alt="KITECH and KIMM Visit Photo 3"
       style="
         pointer-events: none;
