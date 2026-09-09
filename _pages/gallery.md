@@ -229,231 +229,25 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
-<!-- KOREAN VISITOR TO RPI -->
 
-<!-- Photo Collage with Manual Arrows and Caption -->
-
-<div style="position: relative; max-width: 600px; margin: 0 auto 30px;">
-
-  <!-- Photo Container -->
-  <div
-    id="collage"
-    style="
-      position: relative;
-      border: 2px solid #ccc;
-      border-radius: 8px;
-      overflow: hidden;
-      height: 360px;
-    "
-    >
-    <!-- Photo 1 -->
-    <img
-      src="../assets/img/Korea-1.jpeg"
-      alt="KITECH and KIMM Visit Photo 1"
-      style="
-        pointer-events: none;
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        top: 0;
-        left: 0;
-        opacity: 1;
-        transition: opacity 0.6s ease;
-      "
-    />
-    <!-- Photo 2 -->
-    <img
-      src="../assets/img/Korea-2.jpeg"
-      alt="KITECH and KIMM Visit Photo 2"
-      style="
-        pointer-events: none;
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        top: 0;
-        left: 0;
-        opacity: 0;
-        transition: opacity 0.6s ease;
-      "
-    />
-    <!-- Photo 3 -->
-    <img
-      src="../assets/img/Korea-3.jpeg"
-      alt="KITECH and KIMM Visit Photo 3"
-      style="
-        pointer-events: none;
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        top: 0;
-        left: 0;
-        opacity: 0;
-        transition: opacity 0.6s ease;
-      "
-    />
-    <!-- Previous Arrow -->
-    <div
-      id="prev"
-      role="button"
-      aria-label="Previous photo"
-      style="
-        position: absolute;
-        top: 50%;
-        left: 10px;
-        transform: translateY(-50%);
-        font-size: 2rem;
-        color: white;
-        background: rgba(0, 0, 0, 0.4);
-        padding: 5px 10px;
-        border-radius: 5px;
-        cursor: pointer;
-        z-index: 5;
-        user-select: none;
-      "
-    >
-      &#10094;
-    </div>
-    <!-- Next Arrow -->
-    <div
-      id="next"
-      role="button"
-      aria-label="Next photo"
-      style="
-        position: absolute;
-        top: 50%;
-        right: 10px;
-        transform: translateY(-50%);
-        font-size: 2rem;
-        color: white;
-        background: rgba(0, 0, 0, 0.4);
-        padding: 5px 10px;
-        border-radius: 5px;
-        cursor: pointer;
-        z-index: 5;
-        user-select: none;
-      "
-    >
-      &#10095;
-    </div>
-
-  </div>
-  <!-- Caption -->
-  <div
-    id="caption"
-    style="
-      text-align: center;
-      font-style: italic;
-      font-size: 1rem;
-      color: #555;
-      margin-top: 10px;
-    "
-  >
-    SEMI-LAB hosted visitors from the Korea Institute of Industrial Technology
+<div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      <tr>
+        <th scope="row" style="white-space: nowrap;">June 2026</th>
+        <td> SEMI-LAB hosted visitors from the Korea Institute of Industrial Technology
     (KITECH) (Dr. Jungso Nam &amp; Dr. Kyeongeun Song) and the Korea Institute
     of Machinery &amp; Materials (KIMM) (Dr. Jungsub Kim &amp; Dr. Gyuho Kim)
-    (June 2026).
-  </div>
+    (June 2026).</td>
+      </tr>
+      <tr>
+        <td colspan="2" style="text-align: center;">
+          <figure>
+            <img src="../assets/img/Korea-1.jpeg" alt="KOREAN RESEARCHERS' VISIT TO RPI" style="width:70%; max-width:500px;">                      
+          </figure>
+        </td>
+      </tr>
+      <tr>
 
-</div>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const images = document.querySelectorAll("#collage img");
-    const prevButton = document.getElementById("prev");
-    const nextButton = document.getElementById("next");
-
-    let currentIndex = 0;
-
-    function showImage(index) {
-      images.forEach((img, i) => {
-        img.style.opacity = i === index ? "1" : "0";
-      });
-    }
-
-    nextButton.addEventListener("click", function () {
-      currentIndex = (currentIndex + 1) % images.length;
-      showImage(currentIndex);
-    });
-
-    prevButton.addEventListener("click", function () {
-      currentIndex = (currentIndex - 1 + images.length) % images.length;
-      showImage(currentIndex);
-    });
-  });
-</script>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-
-  const collage = document.getElementById("collage");
-  const images = collage.querySelectorAll("img");
-  const caption = document.getElementById("caption");
-  const prevButton = document.getElementById("prev");
-  const nextButton = document.getElementById("next");
-
-  const captions = [
-    "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
-    "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
-    "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
-    "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026).",
-    "Our group attended the ASME MSEC/SME NAMRC-54 Conference at Penn State University (June 2026)."
-  ];
-
-  let currentIndex = 0;
-  let intervalId;
-
-  function showImage(index) {
-    images.forEach((img, i) => {
-      img.style.opacity = i === index ? "1" : "0";
-    });
-
-    caption.textContent = captions[index] || "";
-  }
-
-  function nextImage() {
-    currentIndex = (currentIndex + 1) % images.length;
-    showImage(currentIndex);
-  }
-
-  function prevImage() {
-    currentIndex =
-      (currentIndex - 1 + images.length) % images.length;
-
-    showImage(currentIndex);
-  }
-
-  function startAutoSlide() {
-    clearInterval(intervalId);
-
-    if (images.length > 1) {
-      intervalId = setInterval(nextImage, 4000);
-    }
-  }
-
-  if (prevButton) {
-    prevButton.addEventListener("click", function () {
-      prevImage();
-      startAutoSlide();
-    });
-  }
-
-  if (nextButton) {
-    nextButton.addEventListener("click", function () {
-      nextImage();
-      startAutoSlide();
-    });
-  }
-
-  if (images.length > 0) {
-    showImage(currentIndex);
-    startAutoSlide();
-  }
-
-});
-</script>
 
 
 <div class="table-responsive">
