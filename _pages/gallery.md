@@ -249,6 +249,38 @@ document.addEventListener("DOMContentLoaded", function () {
       <tr>
 
 
+<div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      <tr>
+        <th scope="row" style="white-space: nowrap;">June 2026</th>
+        <td> SEMI-LAB hosted Prof. Martin Byung-Guk Jun from Purdue University (June 2026).</td>
+      </tr>
+      <tr>
+        <td colspan="2" style="text-align: center;">
+          <figure>
+            <img src="../assets/img/Martinjun.jpg" alt="Prof. Jun's visit to RPI" style="width:70%; max-width:500px;">                      
+          </figure>
+        </td>
+      </tr>
+      <tr>
+
+
+<div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      <tr>
+        <th scope="row" style="white-space: nowrap;">June 2025</th>
+        <td> With Friends from Purdue University at the MSEC 2025 Conference </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="text-align: center;">
+          <figure>
+            <img src="../assets/img/MSEC_1.JPG" alt="With Friends from Purdue University" style="width:70%; max-width:500px;">                      
+          </figure>
+        </td>
+      </tr>
+      <tr>
+
+
 
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
