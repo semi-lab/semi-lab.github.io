@@ -37,6 +37,12 @@ Our research develops <strong>data-driven approaches</strong> to enable intellig
 
 <b style="color: blue;">Selected Publications:</b>
 <ul>
+ <li>
+    FT. Zohora, J. Jeon, S. Akin,
+    "Data-driven prediction of cold spray additive manufacturing via CFD-guided machine learning",
+    <i>Results in Engineering,</i>, 2026.
+    <a href="https://semilab-rpi.com/assets/pdf/cfd-ai.pdf" target="_blank">[Link]</a>
+  </li>
   <li>
     H. Lee, C. Han, T. Gabor, Y. Sim, S. Akin, MBG Jun, Y. Jeon, J. Lee,
     "Cold spray-based secure and unique product identification with neural encoding:
