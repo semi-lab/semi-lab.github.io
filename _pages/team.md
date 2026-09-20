@@ -29,8 +29,7 @@ nav_order: 3
     </div>
 </div>
 <br>
- Dr. Semih Akin is a tenure-track Assistant Professor of Mechanical Engineering at [Rensselaer Polytechnic Institute (RPI)](https://www.rpi.edu/). He earned his Ph.D. in Mechanical Engineering from [Purdue University](https://www.purdue.edu/) in 2022, where he also worked as a Postdoctoral Fellow before joining RPI. He is the recipient of Purdue's College of Engineering `Outstanding Graduate Student Research Award` and `Lambert Teaching Fellowship` in recognition of his contributions to both research and teaching. Dr. Akin's cross-disciplinary research focuses on surface engineering, advanced multi-scale manufacturing, and smart manufacturing with applications in 3D-printed electronics, smart structures, physical unclonable functions (PUFs), electronic textiles, and energy devices.  
-<br>
+ Dr. Semih Akin is a tenure-track Assistant Professor of Mechanical Engineering at [Rensselaer Polytechnic Institute (RPI)](https://www.rpi.edu/). He earned his Ph.D. in Mechanical Engineering from [Purdue University](https://www.purdue.edu/) in 2022, where he also worked as a Postdoctoral Fellow before joining RPI. He is the recipient of Purdue's College of Engineering `Outstanding Graduate Student Research Award` and `Lambert Teaching Fellowship` in recognition of his contributions to both research and teaching. Dr. Akin’s research focuses on  advanced manufacturing and manufacturing intelligence, integrating physics-based modeling, AI, sensing, and digital twins to develop intelligent manufacturing processes and smart, multifunctional systems. His research spans applications in smart structures, in-space manufacturing, 3D-printed electronics, self-powered sensors, physical unclonable functions (PUFs), and energy devices.
 
 ## Ph.D. Students
 
