@@ -3,7 +3,7 @@ layout: about
 title: Home
 permalink: /
 subtitle: 
-  <h2>Laboratory for Surface Engineering and Manufacturing Innovation (SEMI) </h2>
+  <h2>Laboratory for Smart Engineering and Manufacturing Intelligence (SEMI) </h2>
 
 
 profile:
@@ -28,15 +28,17 @@ social: true  # includes social icons at the bottom of the page
 <body>
 
 <p class="justified-text">
-As the world advances into the era of the Internet of Things (IoT), intelligent sensor networks, and in-space manufacturing, the demand for highly functional and intelligent surfaces continues to grow. At the SEMI Lab, we aim to shape the future of surface engineering and advanced manufacturing by developing cutting-edge additive manufacturing technologies that enable next-generation functionality. Our research combines fundamental science, physics-based modeling, computational methods, and experimental manufacturing to understand and control material–surface interactions and translate this understanding into innovative manufacturing processes. Through this integrated approach, we seek to advance the design and fabrication of functional and smart surfaces with tailored mechanical, electrical, sensing, and energy-related properties. These capabilities support a broad range of emerging applications, including in-space manufacturing and in-situ resource utilization (ISRU), physical unclonable functions (PUFs), 3D-printed electronics, smart and multifunctional structures, energy devices, electronic textiles, and rapid product development.
-<p class="justified-text">
-
+As the world advances into the era of the Internet of Things (IoT), sensor fusion, digital twins, and in-space manufacturing, the demand for smart, multifunctional, and intelligently manufactured systems continues to grow. At the Smart Engineering and Manufacturing Intelligence (SEMI) Lab, we aim to advance the frontiers of engineering and manufacturing by integrating fundamental science, advanced manufacturing, computational modeling, sensing, artificial intelligence (AI), and digital twin technologies. Our research combines physics-based modeling, data-driven methods, computational tools, and experimental manufacturing to understand complex material–process–structure interactions and translate this knowledge into innovative manufacturing technologies and smart functional systems. Through this integrated approach, we develop intelligent methods for process prediction, optimization, monitoring, and control while enabling materials, surfaces, and structures with tailored mechanical, electrical, sensing, and energy-related functionalities.<p class="justified-text">
 
 <p class="justified-text">
- At the SEMI Lab, we are committed to addressing challenging problems at the intersection of surface engineering, materials, and additive manufacturing, translating fundamental understanding into innovative manufacturing technologies and functional systems. If you wish to be a part of this endeavor, please contact <a href="https://faculty.rpi.edu/semih-akin">Prof. Semih Akin</a> at <a href="mailto:akins@rpi.edu">akins@rpi.edu</a>. </p>  
+Our research spans a broad range of emerging applications, including smart and multifunctional structures, 3D-printed electronics, energy devices, physical unclonable functions (PUFs),  in-space manufacturing and in-situ resource utilization (ISRU), and rapid product development.
   <p class="justified-text">
+
+<p class="justified-text">
+At the SEMI Lab, we are committed to addressing challenging problems at the intersection of smart engineering, advanced manufacturing, and manufacturing intelligence, bridging fundamental science, computational intelligence, and experimental manufacturing to create next-generation manufacturing technologies and intelligent functional systems. If you wish to be a part of this endeavor, please contact <a href="https://faculty.rpi.edu/semih-akin">Prof. Semih Akin</a> at <a href="mailto:akins@rpi.edu">akins@rpi.edu</a>.  <p class="justified-text">
   
-  <i>"God made the bulk; the surface was invented by the devil."</i>
+<p class="justified-text">
+  <i>"What I cannot create, I do not understand."</i>
   <br>
-  <i>-Wolfgang Pauli-</i>
-  </p>  
+  <i>— Richard P. Feynman</i>
+</p>
