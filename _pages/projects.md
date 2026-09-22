@@ -45,7 +45,7 @@ horizontal: true
                   <h3 class="card-title"></h3>
                   <p class="card-text">
                     <strong style="font-size: 1.15em;">
-                      Intelligent & Autonomous Manufacturing
+                      Intelligent & autonomous manufacturing
                     </strong>
                     leverages sensors, data analytics, artificial intelligence, and digital technologies to monitor, predict, and optimize manufacturing processes, enabling improved quality, productivity, efficiency, and autonomous decision-making.
                   </p>
@@ -99,7 +99,7 @@ horizontal: true
                 <div class="card-body">
                   <h3 class="card-title"></h3>
                   <p class="card-text">
-                    <strong style="font-size: 1.15em;">Advanced Solid-state & Additive Manufacturing</strong> explores innovative materials and processes that enable precise control of material behavior, microstructure, and performance. Our research combines experiments, computational modeling, and advanced characterization to understand process–structure–property relationships.
+                    <strong style="font-size: 1.15em;">Advanced additive & solid-state manufacturing</strong> explores innovative materials and processes that enable precise control of material behavior, microstructure, and performance. Our research combines experiments, computational modeling, and advanced characterization to understand process–structure–property relationships.
                   </p>
                   <div class="row ml-1 mr-1 p-0"></div>
                 </div>
@@ -248,7 +248,7 @@ horizontal: true
                   <h3 class="card-title"></h3>
                   <p class="card-text">
                     <strong style="font-size: 1.15em;">
-                      Cyber-Physical Manufacturing and Security
+                      Cyber-physical manufacturing and security
                     </strong>
                     integrates advanced manufacturing, sensing, data-driven technologies, and physical security to enable secure and resilient manufacturing systems. Our research develops Physical Unclonable Functions (PUFs) and Agentic AI for traceability, authentication, and anti-counterfeiting using unique manufacturing signatures.
                   </p>
