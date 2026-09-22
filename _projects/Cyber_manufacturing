@@ -23,14 +23,14 @@ giscus_comments: false
 </div>
 
 <br>
-Our research on <strong>Physically Unclonable Surfaces</strong> focuses on creating surface-based security architectures that exploit the inherent randomness of solid-state additive manufacturing.  We generate <strong>Physical Unclonable Functions (PUFs)</strong> with unique micro/nano-scale textures that act as physical fingerprints for smart part authentication and traceability. These surfaces are digitally converted through image processing and feature encoding into distinctive identifiers, enabling tamper-proof verification and counterfeit prevention. <br>
-<br>
-<b>Our current work explores:</b>
+Our research develops <strong>cyber-physical manufacturing and security frameworks</strong> that bridge physical manufacturing processes with digital information to enable secure, traceable, and intelligent manufacturing systems. A key focus is the development of <strong>Physical Unclonable Functions (PUFs)</strong> that exploit process-induced randomness and unique micro-/nanoscale surface features as physical fingerprints for part authentication and identification. By integrating advanced manufacturing, imaging, feature extraction, data-driven methods, and digital authentication, we create <strong>physical–digital security architectures</strong> for part traceability, tamper detection, and counterfeit prevention throughout the manufacturing lifecycle. <br>
+
+<b>Our Current Research Directions:</b>
 <ul>
-  <li><b>Process-signature correleations</b></li>
-  <li><b>Algorithmic and AI-driven authentication frameworks</b></li>
-  <li><b>Multimodal PUF integration via optical, topographical, and electrical surface responses</b></li>
-  <li><b>Cybersecurity and Blockchain integration</b></li>
+  <li><b>Process–signature correlations for secure part identification and traceability</b></li>
+  <li><b>Algorithmic and AI-driven authentication and verification frameworks</b></li>
+  <li><b>Multimodal PUFs integrating optical, topographical, and electrical signatures</b></li>
+  <li><b>Cybersecurity and blockchain integration for secure manufacturing and digital traceability</b></li>
 </ul>
 
 <b style="color: blue;">Selected Publications:</b>
