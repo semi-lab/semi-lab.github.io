@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Data-Driven Smart Manufacturing
+title: Intelligent & Autonomous Manufacturing
 description: 
 img: /assets/img/smart_manufacturing.webp
 importance: 1
-category: Data Driven Smart Manufacturing
+category: Intelligent & Autonomous Manufacturing
 giscus_comments: false
 ---
 
@@ -23,7 +23,7 @@ giscus_comments: false
 </div>
 
 <br>
-Our research develops <strong>data-driven approaches</strong> to enable intelligent, adaptive, and autonomous manufacturing systems. By integrating multimodal sensing, artificial intelligence, machine learning, digital twins, and advanced data analytics, we transform manufacturing data into actionable insights for process monitoring, anomaly detection, and quality prediction. Through these efforts, we aim to create intelligent manufacturing platforms that are adaptive, resilient, and self-improving. <br>
+Our research develops <strong>data-driven approaches</strong> to enable intelligent, adaptive, and autonomous manufacturing systems. By integrating multimodal sensing, artificial intelligence, machine learning, physics-based modeling, digital twins, and advanced data analytics, we transform manufacturing data into actionable insights for process monitoring, anomaly detection, and quality prediction. Through these efforts, we aim to create intelligent manufacturing platforms that are adaptive, resilient, and self-improving. <br>
 
 <br>
 <b>Our current work explores:</b>
