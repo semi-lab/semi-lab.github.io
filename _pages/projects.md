@@ -247,7 +247,7 @@ horizontal: true
                   <h3 class="card-title"></h3>
                   <p class="card-text">
                     <strong style="font-size: 1.15em;">
-                     Cyber-Physical Manufacturing and Security</strong> integrates advanced manufacturing, sensing, data-driven technologies, and physical security to enable secure and resilient manufacturing systems. Our research develops Physical Unclonable Functions (PUFs) and Agentic AI for traceability, authentication, and anti-counterfeiting using unique manufacturing signatures.
+                     Cyber-Physical Manufacturing and Security</strong> integrates advanced manufacturing, sensing, data-driven technologies, and physical security to enable secure and resilient manufacturing systems. Our research develops Physical Unclonable Functions (PUFs) and Agentic AI for traceability, authentication, and anti-counterfeiting using unique signatures.
                   <div class="row ml-1 mr-1 p-0"></div>
                 </div>
               </div>
