@@ -45,7 +45,7 @@ horizontal: true
                   <h3 class="card-title"></h3>
                   <p class="card-text">
                     <strong style="font-size: 1.15em;">
-                      Intelligent & autonomous manufacturing</strong> integrates sensors, data analytics, artificial intelligence, and digital technologies to monitor, predict, and optimize manufacturing processes in real time. By enabling data-driven process control, adaptive decision-making, and autonomous operation, these technologies improve quality, productivity, efficiency, and manufacturing resilience while advancing next-generation smart manufacturing systems.
+                      Intelligent & autonomous manufacturing</strong> integrates sensors, data analytics, artificial intelligence, and digital technologies to monitor, predict, and optimize manufacturing processes in real time. By enabling data-driven process control, adaptive decision-making, and autonomous operation.
                   </p>
                   <div class="row ml-1 mr-1 p-0"></div>
                 </div>
