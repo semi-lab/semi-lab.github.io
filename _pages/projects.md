@@ -13,6 +13,110 @@ horizontal: true
 <!-- 1st card (project) -->
 <div class="projects">
   <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
+    Intelligent & Autonomous Manufacturing
+  </h2>
+
+  <div class="container">
+    <div class="row row-cols-1">
+      <div class="card-item col">
+        <a href="https://semi-lab.github.io/projects/Smart_manufacturing/">
+          <div class="card hoverable">
+            <div class="row g-0">
+              <div class="card-img col-md-4">
+                <figure>
+                  <picture>
+                    <source
+                      class="responsive-img-srcset"
+                      media="(max-width: 600px)"
+                      srcset="/assets/img/smart_manufacturing.webp"
+                    >
+                    <img
+                      src="/assets/img/smart_manufacturing.webp"
+                      alt="Data-Driven Smart Manufacturing"
+                      loading="lazy"
+                      style="width:100%; height:auto;"
+                      onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
+                    >
+                  </picture>
+                </figure>
+              </div>
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h3 class="card-title"></h3>
+                  <p class="card-text">
+                    <strong style="font-size: 1.15em;">
+                      Intelligent & Autonomous Manufacturing
+                    </strong>
+                    leverages sensors, data analytics, artificial intelligence, and digital technologies to monitor, predict, and optimize manufacturing processes, enabling improved quality, productivity, efficiency, and autonomous decision-making.
+                  </p>
+                  <div class="row ml-1 mr-1 p-0"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- 2nd card (project) -->
+<div class="projects">
+  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
+    Advanced Additive & Solid-State Manufacturing
+  </h2>
+
+  <!-- Generate cards for each project -->
+  <div class="container">
+    <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
+    <!-- <div class="row row-cols-2"> -->
+    <div class="row row-cols-1">
+      <div class="card-item col">
+        <a href="https://semi-lab.github.io/projects/Mechanistic_modeling/">
+          <div class="card hoverable">
+            <div class="row g-0">
+              <div class="card-img col-md-4">
+                <figure>
+                  <picture>
+                    <source
+                      class="responsive-img-srcset"
+                      media="(max-width: 600px)"
+                      srcset="/assets/img/mechanistic.webp"
+                    >
+                    <!-- Fallback to the original file -->
+                    <img
+                      src="/assets/img/mechanistic.webp"
+                      alt="Mechanistic modeling for additive manufacturing"
+                      loading="lazy"
+                      onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
+                    >
+                  </picture>
+                </figure>
+              </div>
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h3 class="card-title"></h3>
+                  <p class="card-text">
+                    <strong style="font-size: 1.15em;">Advanced Solid-state & Additive Manufacturing</strong> explores innovative materials and processes that enable precise control of material behavior, microstructure, and performance. Our research combines experiments, computational modeling, and advanced characterization to understand process–structure–property relationships.
+                  </p>
+                  <div class="row ml-1 mr-1 p-0"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- 3th card (project) -->
+
+<div class="projects">
+  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
     In-space Manufacturing & In-situ Resource Utilization
   </h2>
 
@@ -58,62 +162,11 @@ horizontal: true
 </div>
 
 
-<div class="projects">
-  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
-    Data-Driven Smart Manufacturing
-  </h2>
-
-  <div class="container">
-    <div class="row row-cols-1">
-      <div class="card-item col">
-        <a href="https://semi-lab.github.io/projects/Smart_manufacturing/">
-          <div class="card hoverable">
-            <div class="row g-0">
-              <div class="card-img col-md-4">
-                <figure>
-                  <picture>
-                    <source
-                      class="responsive-img-srcset"
-                      media="(max-width: 600px)"
-                      srcset="/assets/img/smart_manufacturing.webp"
-                    >
-                    <img
-                      src="/assets/img/smart_manufacturing.webp"
-                      alt="Data-Driven Smart Manufacturing"
-                      loading="lazy"
-                      style="width:100%; height:auto;"
-                      onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
-                    >
-                  </picture>
-                </figure>
-              </div>
-              <div class="col-md-8">
-                <div class="card-body">
-                  <h3 class="card-title"></h3>
-                  <p class="card-text">
-                    <strong style="font-size: 1.15em;">
-                      Data-Driven Smart Manufacturing
-                    </strong>
-                    leverages sensors, data analytics, artificial intelligence, and digital technologies to monitor, predict, and optimize manufacturing processes, enabling improved quality, productivity, efficiency, and autonomous decision-making.
-                  </p>
-                  <div class="row ml-1 mr-1 p-0"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
 <!-- 4th card (project) -->
 
 <div class="projects">
   <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
-    3D-Printed Smart Structures and Energy Devices
+    Smart Materials and Intelligent Structures
   </h2>
 
   <div class="container">
@@ -145,6 +198,113 @@ horizontal: true
                   <h3 class="card-title"></h3>
                   <p class="card-text">
                     <strong style="font-size: 1.15em;">
+                    Smart materials and intelligent structures</strong> integrate responsive materials, embedded sensing, actuation, and energy harvesting to create multifunctional systems with enhanced functionality. Our research explores the design and fabrication of intelligent structures for sensing, structural health monitoring, energy harvesting, and next-generation adaptive systems.
+                  </p>
+                  <div class="row ml-1 mr-1 p-0"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 5th card (project) -->
+
+<div class="projects">
+  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
+    Cyber-Physical Manufacturing and Security
+  </h2>
+
+  <div class="container">
+    <div class="row row-cols-1">
+      <div class="card-item col">
+        <a href="https://semi-lab.github.io/projects/Cyber_manufacturing/">
+          <div class="card hoverable">
+            <div class="row g-0">
+              <div class="card-img col-md-4">
+                <figure>
+                  <picture>
+                    <source
+                      class="responsive-img-srcset"
+                      media="(max-width: 600px)"
+                      srcset="/assets/img/cyber111.webp"
+                    />
+                    <img
+                      src="/assets/img/cyber111.webp"
+                      alt="Physically Unclonable Surfaces"
+                      loading="lazy"
+                      width="100%"
+                      height="auto"
+                    />
+                  </picture>
+                </figure>
+              </div>
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h3 class="card-title"></h3>
+                  <p class="card-text">
+                    <strong style="font-size: 1.15em;">
+                     Cyber-Physical Manufacturing and Security</strong> integrates advanced manufacturing, sensing, data-driven technologies, and physical security to enable secure and resilient manufacturing systems. Our research develops Physical Unclonable Functions (PUFs) and Agentic AI for traceability, authentication, and anti-counterfeiting using unique manufacturing signatures.
+                  <div class="row ml-1 mr-1 p-0"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br> 
+<p style="font-size: 33px; text-align: left; font-weight: bold;">Research Sponsors</p>
+<div style="text-align: center;">
+    <img src="../assets/img/sponsor.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width: auto; max-width: 1000px; height: auto; max-height: 130px;">
+</div>
+
+
+<!--
+
+4th card (project)
+
+<div class="projects">
+  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
+    3D-Printed Smart Structures and Energy Devices
+  </h2>
+
+  <div class="container">
+    <div class="row row-cols-1">
+      <div class="card-item col">
+        <a href="https://semi-lab.github.io/projects/Energy_devices/">
+          <div class="card hoverable">
+            <div class="row g-0">
+              <div class="card-img col-md-4">
+                <figure>
+                  <picture>
+                    <source
+                      class="responsive-img-srcset"
+                      media="(max-width: 600px)"
+                      srcset="/assets/img/energyharvesting.webp"
+                    >
+                    <img
+                      src="/assets/img/energyharvesting.webp"
+                      alt="3D-Printed Smart Structures and Energy Devices"
+                      loading="lazy"
+                      style="width:100%; height:auto;"
+                      onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
+                    >
+                  </picture>
+                </figure>
+              </div>
+
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h3 class="card-title"></h3>
+                  <p class="card-text">
+                    <strong style="font-size: 1.15em;">
                       3D-printed smart structures and energy devices
                     </strong>
                     are multifunctional components created through additive manufacturing that integrate sensing, actuation, and energy harvesting directly into their geometry. Embedding these functions during printing yields intelligent structures for structural health monitoring and self-powered systems.
@@ -161,21 +321,20 @@ horizontal: true
 </div>
 
 
-<!-- 2nd card (project) -->
+2nd card (project)
+
 <div class="projects">
-  <!-- Project category heading -->
   <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
-    Physically Unclonable Surfaces 
+    Physically Unclonable Surfaces
   </h2>
 
-  <!-- Container for project cards -->
   <div class="container">
     <div class="row row-cols-1">
       <div class="card-item col">
         <a href="https://semi-lab.github.io/projects/Cyber_manufacturing/">
           <div class="card hoverable">
-            <div class="row g-0">              
-              <!-- Card image -->
+            <div class="row g-0">
+
               <div class="card-img col-md-4">
                 <figure>
                   <picture>
@@ -184,7 +343,6 @@ horizontal: true
                       media="(max-width: 600px)"
                       srcset="/assets/img/cyber111.webp"
                     />
-                    <!-- Fallback to the original file -->
                     <img
                       src="/assets/img/cyber111.webp"
                       alt="Physically Unclonable Surfaces"
@@ -195,16 +353,20 @@ horizontal: true
                   </picture>
                 </figure>
               </div>
-              <!-- Card body -->
+
               <div class="col-md-8">
                 <div class="card-body">
                   <h3 class="card-title"></h3>
                   <p class="card-text">
-                    <strong style="font-size: 1.15em;">Physically Unclonable Surfaces</strong> feature inherently random micro- and nano-scale textures that cannot be replicated, serving as robust physical fingerprints for secure identification, authentication, and anti-counterfeiting. 
+                    <strong style="font-size: 1.15em;">
+                      Physically Unclonable Surfaces
+                    </strong>
+                    feature inherently random micro- and nano-scale textures that cannot be replicated, serving as robust physical fingerprints for secure identification, authentication, and anti-counterfeiting.
                   </p>
                   <div class="row ml-1 mr-1 p-0"></div>
                 </div>
               </div>
+
             </div>
           </div>
         </a>
@@ -214,113 +376,82 @@ horizontal: true
 </div>
 
 
-<!-- 3rd card (project) -->
+3rd card (project)
 
 <div class="projects">
 
-
   <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
-  Polymer Metallization & Printed Electronics</h2>
-  <!-- Generate cards for each project -->
-  <div class="container">
-    <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
-    <!-- <div class="row row-cols-2"> -->
-    <div class="row row-cols-1">
-<div class="card-item col">
-<a href="https://semi-lab.github.io/projects/Polymer_metallization/"><div class="card hoverable">
-      <div class="row g-0">
-<div class="card-img col-md-4">
-          <figure>
-  <picture>    
-    <source class="responsive-img-srcset" media="(max-width: 600px)" srcset="/assets/img/pol_metallization.webp">
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/pol_metallization.webp" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
-  </picture>
-
-</figure>
-        </div>
-        <div class="col-md-8">
-<div class="card-body">
-            <h3 class="card-title"></h3>
-            <p class="card-text">
-            <strong style="font-size: 1.15em;">Polymer metallization and printed electronics</strong>
-            are redefining device fabrication by combining polymer flexibility with metal-like conductivity. Together, they enable lightweight, adaptable electronics for consumer devices and next-generation smart technologies. 
-            </p>
-            <div class="row ml-1 mr-1 p-0"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </a>
-</div>
-    </div>
-  </div>
-
-
-
-
-<!-- 5th card (project) -->
-<div class="projects">
-  <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
-    Mechanistic Modeling for Additive Manufacturing
+    Polymer Metallization & Printed Electronics
   </h2>
 
-  <!-- Generate cards for each project -->
   <div class="container">
-    <!-- Change the layout of horizontal cards: 1x1 vs. 1x2 per row -->
-    <!-- <div class="row row-cols-2"> -->
     <div class="row row-cols-1">
+
       <div class="card-item col">
-        <a href="https://semi-lab.github.io/projects/Mechanistic_modeling/">
+        <a href="https://semi-lab.github.io/projects/Polymer_metallization/">
           <div class="card hoverable">
             <div class="row g-0">
+
               <div class="card-img col-md-4">
                 <figure>
                   <picture>
                     <source
                       class="responsive-img-srcset"
                       media="(max-width: 600px)"
-                      srcset="/assets/img/mechanistic.webp"
+                      srcset="/assets/img/pol_metallization.webp"
                     >
-                    <!-- Fallback to the original file -->
                     <img
-                      src="/assets/img/mechanistic.webp"
-                      alt="Mechanistic modeling for additive manufacturing"
-                      loading="lazy"
+                      src="/assets/img/pol_metallization.webp"
+                      width="auto"
+                      height="auto"
+                      alt="project thumbnail"
                       onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
                     >
                   </picture>
                 </figure>
               </div>
+
               <div class="col-md-8">
                 <div class="card-body">
                   <h3 class="card-title"></h3>
                   <p class="card-text">
-                    <strong style="font-size: 1.15em;">Mechanistic modeling for additive manufacturing</strong>
-                    develops physics-based models that capture the underlying thermal, mechanical, and materials-level behaviors governing layer-by-layer fabrication. These models reveal key process–structure–property relationships, enabling predictive simulation, defect mitigation, and optimized AM process performance.
+                    <strong style="font-size: 1.15em;">
+                      Polymer metallization and printed electronics
+                    </strong>
+                    are redefining device fabrication by combining polymer flexibility with metal-like conductivity. Together, they enable lightweight, adaptable electronics for consumer devices and next-generation smart technologies.
                   </p>
                   <div class="row ml-1 mr-1 p-0"></div>
                 </div>
               </div>
+
             </div>
           </div>
         </a>
       </div>
+
     </div>
   </div>
+
 </div>
 
 
+Research Sponsors
 
-<br> 
-<p style="font-size: 33px; text-align: left; font-weight: bold;">Research Sponsors</p>
+<br>
+
+<p style="font-size: 33px; text-align: left; font-weight: bold;">
+  Research Sponsors
+</p>
+
 <div style="text-align: center;">
-    <img src="../assets/img/sponsor.jpg" alt="Cold Spray Additive Manufacturing Cell" style="width: auto; max-width: 1000px; height: auto; max-height: 130px;">
+  <img
+    src="../assets/img/sponsor.jpg"
+    alt="Cold Spray Additive Manufacturing Cell"
+    style="width: auto; max-width: 1000px; height: auto; max-height: 130px;"
+  >
 </div>
 
-
-
+-->
 <!-- 
 4th card (project)
 
