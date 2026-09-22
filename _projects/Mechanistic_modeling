@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Mechanistic Modeling for Additive Manufacturing
+title: Advanced Solid-State & Additive Manufacturing
 description: 
 img: /assets/img/mechanistic2.webp
 importance: 1
-category: Mechanistic_modeling
+category: Advanced Solid-State & Additive Manufacturing
 giscus_comments: false
 ---
 
@@ -24,7 +24,7 @@ giscus_comments: false
 </div>
 <br>
 
-Our group develops physics-based models that capture the thermal, mechanical, and materials-level phenomena governing advanced additive manufacturing processes. By elucidating fundamental process–structure–property relationships, we enable predictive simulation, data-informed process optimization, and defect-aware design strategies. These modeling capabilities serve as a foundation for accelerating innovation across our advanced AM research portfolio and for enhancing the reliability, performance, and scalability of next-generation AM technologies.<br>
+Our group develops physics-based models and advanced manufacturing strategies to understand and control the thermal, mechanical, and materials-level phenomena governing solid-state and additive manufacturing processes. By uncovering fundamental process–structure–property relationships, we enable predictive simulation, process optimization, defect mitigation, and microstructure control. These capabilities advance the reliability, performance, and scalability of next-generation solid-state and additive manufacturing technologies.<br>
 <br>
 <b> Our current research directions:</b>
 <ul>
