@@ -23,8 +23,7 @@ giscus_comments: false
 </div>
 
 <br>
-Our research develops <strong>data-driven approaches</strong> to enable intelligent, adaptive, and autonomous manufacturing systems. By integrating multimodal sensing, artificial intelligence, machine learning, physics-based modeling, digital twins, and advanced data analytics, we transform manufacturing data into actionable insights for process monitoring, anomaly detection, and quality prediction. Through these efforts, we aim to create intelligent manufacturing platforms that are adaptive, resilient, and self-improving. <br>
-
+Our research develops <strong>data-driven and physics-informed approaches</strong> to enable intelligent, adaptive, and autonomous manufacturing systems. By integrating multimodal sensing, artificial intelligence, machine learning, physics-based modeling, digital twins, and advanced data analytics, we transform manufacturing data into actionable insights for real-time process monitoring, anomaly detection, quality prediction, and autonomous decision-making. Through these efforts, we aim to develop <strong>self-aware, adaptive, resilient, and self-improving manufacturing systems</strong> capable of continuously learning from process data and autonomously optimizing manufacturing performance. <br>
 <br>
 <b>Our current work explores:</b>
 <ul>
@@ -50,11 +49,13 @@ Our research develops <strong>data-driven approaches</strong> to enable intellig
     <i>Journal of Intelligent Manufacturing</i>, 2026.
     <a href="https://semilab-rpi.com/assets/pdf/Puf_JIM.pdf" target="_blank">[Link]</a>
   </li>
+<li>
+   J. Lee, S. Akin, Y. Sim, H. Lee, E. Kim, J. Nam, K. Song, MBG Jun,
+    "A stethoscope-guided interpretable deep learning framework for powder flow diagnosis in cold spray additive manufacturing",
+    <i>Manufacturing Letters</i>, 2024.
+    <a href="https://semilab-rpi.com/assets/pdf/stetescope.pdf" target="_blank">[Link]</a>
+  </li>
 </ul>
-
-
-
-
 
 
 
