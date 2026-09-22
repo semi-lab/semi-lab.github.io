@@ -63,7 +63,7 @@ horizontal: true
 <!-- 2nd card (project) -->
 <div class="projects">
   <h2 class="category" style="font-weight: 400; text-shadow: 0.25px 0.25px 0.25px rgba(0, 0, 0, 0.5);">
-    Advanced Additive & Solid-State Manufacturing
+    Additive & Solid-State Manufacturing
   </h2>
 
   <!-- Generate cards for each project -->
@@ -97,7 +97,7 @@ horizontal: true
                 <div class="card-body">
                   <h3 class="card-title"></h3>
                   <p class="card-text">
-                    <strong style="font-size: 1.15em;">Advanced additive & solid-state manufacturing</strong> explores innovative materials and processes that enable precise control of material behavior, microstructure, and performance. Our research combines experiments, computational modeling, and advanced characterization to understand process–structure–property relationships.
+                    <strong style="font-size: 1.15em;"> Additive & solid-state manufacturing</strong> explores innovative materials and processes that enable precise control of material behavior, microstructure, and performance. Our research combines experiments, computational modeling, and advanced characterization to understand process–structure–property relationships.
                   </p>
                   <div class="row ml-1 mr-1 p-0"></div>
                 </div>
