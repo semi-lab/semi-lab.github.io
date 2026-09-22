@@ -224,6 +224,7 @@ horizontal: true
         <a href="https://semi-lab.github.io/projects/Cyber_manufacturing/">
           <div class="card hoverable">
             <div class="row g-0">
+              <!-- Card image -->
               <div class="card-img col-md-4">
                 <figure>
                   <picture>
@@ -234,20 +235,23 @@ horizontal: true
                     />
                     <img
                       src="/assets/img/cyber111.webp"
-                      alt="Physically Unclonable Surfaces"
+                      alt="Cyber-Physical Manufacturing and Security"
                       loading="lazy"
-                      width="100%"
-                      height="auto"
+                      style="width: 100%; height: auto;"
                     />
                   </picture>
                 </figure>
               </div>
+              <!-- Card content -->
               <div class="col-md-8">
                 <div class="card-body">
                   <h3 class="card-title"></h3>
                   <p class="card-text">
                     <strong style="font-size: 1.15em;">
-                     Cyber-Physical Manufacturing and Security</strong> integrates advanced manufacturing, sensing, data-driven technologies, and physical security to enable secure and resilient manufacturing systems. Our research develops Physical Unclonable Functions (PUFs) and Agentic AI for traceability, authentication, and anti-counterfeiting using unique signatures.
+                      Cyber-Physical Manufacturing and Security
+                    </strong>
+                    integrates advanced manufacturing, sensing, data-driven technologies, and physical security to enable secure and resilient manufacturing systems. Our research develops Physical Unclonable Functions (PUFs) and Agentic AI for traceability, authentication, and anti-counterfeiting using unique manufacturing signatures.
+                  </p>
                   <div class="row ml-1 mr-1 p-0"></div>
                 </div>
               </div>
@@ -258,6 +262,7 @@ horizontal: true
     </div>
   </div>
 </div>
+
 
 <br> 
 <p style="font-size: 33px; text-align: left; font-weight: bold;">Research Sponsors</p>
