@@ -26,12 +26,12 @@ giscus_comments: false
 Our research develops <strong>data-driven and physics-informed approaches</strong> to enable intelligent, adaptive, and autonomous manufacturing systems. By integrating multimodal sensing, artificial intelligence, machine learning, physics-based modeling, digital twins, and advanced data analytics, we transform manufacturing data into actionable insights for real-time process monitoring, anomaly detection, quality prediction, and autonomous decision-making. Through these efforts, we aim to develop <strong>self-aware, adaptive, resilient, and self-improving manufacturing systems</strong> capable of continuously learning from process data and autonomously optimizing manufacturing performance. <br>
 <br>
 <b>Our current work explores:</b>
-<ul>
-  <li><b>Integration of multimodal sensing, AI/ML for intelligent manufacturing</b></li>
-  <li><b>Real-time process monitoring and anomaly detection in advanced manufacturing systems</b></li>
-  <li><b>Sensor fusion and data analytics for quality prediction and defect identification</b></li>
-  <li><b>Physics-informed AI for enhanced manufacturing reliability, efficiency, and resilience</b></li>
 
+<ul>
+  <li><b>Multimodal sensing and sensor fusion for intelligent manufacturing</b></li>
+  <li><b>AI/ML-enabled real-time process monitoring, anomaly detection, and quality prediction</b></li>
+  <li><b>Physics-informed AI and digital twins for process prediction and optimization</b></li>
+  <li><b>Autonomous decision-making, adaptive control, and self-optimizing manufacturing systems</b></li>
 </ul>
 
 <b style="color: blue;">Selected Publications:</b>
