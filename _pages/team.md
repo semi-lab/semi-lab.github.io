@@ -22,12 +22,10 @@ nav_order: 3
         <br>
         Erik Jonsson Engineering Center, Troy, NY 12180
         <br>    
-        &#128231;<a href="mailto:akins@rpi.edu" style="margin-right: 10px;"> akins@rpi.edu</a>
 &#128231;
 <a href="mailto:akins@rpi.edu" style="margin-right: 12px;">
     akins@rpi.edu
 </a>
-
 <a href="https://www.linkedin.com/in/semih-akin-4297666b/"
    target="_blank"
    rel="noopener noreferrer"
@@ -38,9 +36,11 @@ nav_order: 3
          height="20"
          style="display: block;">
 </a>         
+  </div>
 </div>
+
 <br>
- Dr. Semih Akin is a tenure-track Assistant Professor of Mechanical Engineering at [Rensselaer Polytechnic Institute (RPI)](https://www.rpi.edu/). He earned his Ph.D. in Mechanical Engineering from [Purdue University](https://www.purdue.edu/) in 2022, where he also worked as a Postdoctoral Fellow before joining RPI. He is the recipient of Purdue's College of Engineering `Outstanding Graduate Student Research Award` and `Lambert Teaching Fellowship` in recognition of his contributions to both research and teaching. Dr. Akin’s research focuses on  advanced manufacturing and manufacturing intelligence, integrating physics-based modeling, AI, sensing, and digital twins to develop intelligent manufacturing processes and smart, multifunctional systems. His research spans applications in smart structures, in-space manufacturing, 3D-printed electronics, self-powered sensors, physical unclonable functions (PUFs), and energy devices.
+Dr. Semih Akin is a tenure-track Assistant Professor of Mechanical Engineering at [Rensselaer Polytechnic Institute (RPI)](https://www.rpi.edu/). He earned his Ph.D. in Mechanical Engineering from [Purdue University](https://www.purdue.edu/) in 2022, where he also worked as a Postdoctoral Fellow before joining RPI. He is the recipient of Purdue's College of Engineering `Outstanding Graduate Student Research Award` and `Lambert Teaching Fellowship` in recognition of his contributions to both research and teaching. Dr. Akin’s research focuses on  advanced manufacturing and manufacturing intelligence, integrating physics-based modeling, AI, sensing, and digital twins to develop intelligent manufacturing processes and smart, multifunctional systems. His research spans applications in smart structures, in-space manufacturing, 3D-printed electronics, self-powered sensors, physical unclonable functions (PUFs), and energy devices.
 
 ## Ph.D. Students
 
@@ -62,7 +62,9 @@ nav_order: 3
        width="20"
        height="20">
 </a>                   
+  </div>
 </div>
+
 <br>
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/Jaehun.jpg" width="150" height="170"/>
@@ -83,9 +85,10 @@ nav_order: 3
        width="20"
        height="20">
 </a>               
+   </div>
 </div>
+    
 <br>
-
 <div style="display: flex; align-items: center;">
     <!-- Profile Image -->
     <img src="../assets/img/Fatema.jpg" width="150" height="170" style="border-radius: 8px;"/>
@@ -110,7 +113,9 @@ nav_order: 3
        width="20"
        height="20">
 </a>          
+  </div>
 </div>
+    
 <br>
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/Tajwar.jpeg" width="150" height="170"/>
@@ -152,8 +157,8 @@ nav_order: 3
         &#128231;<a href="goldsk@rpi.edu" style="margin-right: 10px;"> goldsk@rpi.edu
      </a>    
     </div>
-    <br>
-    </div>
+    <br>   
+</div>
 <br>
 
 <div style="display: flex; align-items: center;">
