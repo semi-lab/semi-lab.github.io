@@ -23,10 +23,12 @@ nav_order: 3
         Erik Jonsson Engineering Center, Troy, NY 12180
         <br>    
         &#128231;<a href="mailto:akins@rpi.edu" style="margin-right: 10px;"> akins@rpi.edu</a>
-        <a href="https://www.linkedin.com/in/semih-akin-4297666b/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">
-        </a>    
-    </div>
+<a href="https://www.linkedin.com/in/semih-akin-4297666b/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+       alt="LinkedIn"
+       width="20"
+       height="20">
+</a>             
 </div>
 <br>
  Dr. Semih Akin is a tenure-track Assistant Professor of Mechanical Engineering at [Rensselaer Polytechnic Institute (RPI)](https://www.rpi.edu/). He earned his Ph.D. in Mechanical Engineering from [Purdue University](https://www.purdue.edu/) in 2022, where he also worked as a Postdoctoral Fellow before joining RPI. He is the recipient of Purdue's College of Engineering `Outstanding Graduate Student Research Award` and `Lambert Teaching Fellowship` in recognition of his contributions to both research and teaching. Dr. Akin’s research focuses on  advanced manufacturing and manufacturing intelligence, integrating physics-based modeling, AI, sensing, and digital twins to develop intelligent manufacturing processes and smart, multifunctional systems. His research spans applications in smart structures, in-space manufacturing, 3D-printed electronics, self-powered sensors, physical unclonable functions (PUFs), and energy devices.
@@ -45,10 +47,13 @@ nav_order: 3
         Research Interests: Additive Manufacturing, Cold spray, Smart structures, <br> Numerical modeling, Manufacturing for space
         <br>
         &#128231;<a href="mailto:rahmas5@rpi.edu" style="margin-right: 10px;"> rahmas5@rpi.edu</a>
-        <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACWtziEBNf5khdYo15xvCk2lDuHnb_3q9ZE&keywords=sazedur%20rahman&origin=RICH_QUERY_SUGGESTION&position=2&searchId=2c86f559-b62a-45c3-a198-4d2d46c81fcd&sid=XcN&spellCorrectionEnabled=false">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">
-        </a>    
-    </div>
+<a href="https://www.linkedin.com/in/sazedur-rahman-115856157/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+       alt="LinkedIn"
+       width="20"
+       height="20">
+</a>                   
+
 </div>
 <br>
 
@@ -65,12 +70,12 @@ nav_order: 3
         <br>
         &#128231;<a href="mailto:jeonj4@rpi.edu" style="margin-right: 10px;"> jeonj4@rpi.edu
      </a>   
-      <!-- LinkedIn -->
-        <a href="https://www.linkedin.com/in/jaehun-jeon-305b55370/" target="_blank" rel="noopener" style="margin-right: 10px;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
-                 alt="LinkedIn" width="20" height="20" style="vertical-align: middle;">
-        </a> 
-    </div>
+<a href="https://www.linkedin.com/in/jaehun-jeon-305b55370/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+       alt="LinkedIn"
+       width="20"
+       height="20">
+</a>               
 </div>
 <br>
 
@@ -92,16 +97,13 @@ nav_order: 3
         &#128231; 
         <a href="mailto:zohorf@rpi.edu" style="margin-right: 10px;">zohorf@rpi.edu</a>
         <!-- LinkedIn -->
-        <a href="https://www.linkedin.com/in/fatema25/" target="_blank" rel="noopener" style="margin-right: 10px;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
-                 alt="LinkedIn" width="20" height="20" style="vertical-align: middle;">
-        </a>
-        <!-- Personal Webpage -->
-        <a href="https://sites.google.com/view/fatematujzohora?usp=sharing" target="_blank" rel="noopener">
-            <img src="../assets/img/globe.png" 
-                 alt="Personal Webpage" width="20" height="20" style="vertical-align: middle;">
-        </a>
-    </div>
+<a href="https://www.linkedin.com/in/fatema25/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+       alt="LinkedIn"
+       width="20"
+       height="20">
+</a>    
+      
 </div>
 <br>
 
@@ -118,38 +120,18 @@ nav_order: 3
         <br>
         &#128231;<a href="mailto:razibt@rpi.edu" style="margin-right: 10px;"> razibt@rpi.edu
      </a>   
-      <!-- LinkedIn -->
-        <a href="https://www.linkedin.com/in/tajwar-razib-19217a1aa/" target="_blank" rel="noopener" style="margin-right: 10px;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
-                 alt="LinkedIn" width="20" height="20" style="vertical-align: middle;">
-        </a> 
+        <a href="https://www.linkedin.com/in/tajwar-razib-19217a1aa/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+       alt="LinkedIn"
+       width="20"
+       height="20">
+</a>      
     </div>
 </div>
 <br>
 
 
 ## MS Students
-
-<!--
-<div style="display: flex; align-items: center;">
-    <img src="../assets/img/Faydia_.jpg" width="150" height="170"/>
-    <div style="text-align: left; margin-left: 20px;">
-        <span style="font-size: 20px;"><b>Faydia Thompson</b></span>
-        <br>
-        <span style="font-size: 17px;">Master of Eng. Student </span>
-        <br>
-        <i> Department of Mechanical, Aerospace, and Nuclear Engineering (MANE) </i>
-        <br>
-        Research Interests: Aerosol jet printing, Data-driven modeling
-        <br>
-        &#128231;<a href="mailto:thompf2@rpi.edu" style="margin-right: 10px;"> thompf2@rpi.edu
-     </a>    
-    </div>
-    <br>
-</div>
-<br>
--->
-
 
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/Kate.jpg" width="150" height="170"/>
