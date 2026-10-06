@@ -14,8 +14,7 @@ nav_order: null
 
 <p class="paper-entry">19. J. Jeon, FT. Zohora, <u>S. Akin</u>, “Direct-writing of physical unclonable function (PUF)-augmented QR codes for cyber–physical authentication”, 
   <i>North American Manufacturing Research Conference (NAMRC)</i>, 2026. 
-  <a href="https://doi.org/10.1016/j.mfglet.2026.08.030">[Link]</a>, 
-  <a href="https://semi-lab.github.io/assets/pdf/XMO.pdf">[PDF]</a></p>
+  <a href="https://doi.org/10.1016/j.mfglet.2026.08.030">[Link]</a></p>
 
 
 <p class="paper-entry">19. J. Ren, S. Huang, S. Rahman, F. Kopsaftopoulos, J. Samuel, <u>S. Akin</u>, “Convergent manufacturing of smart metallic structures”, 
