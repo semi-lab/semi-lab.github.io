@@ -12,6 +12,12 @@ nav_order: null
 
 <div class="year" style="font-size: 28px; text-align: right;">2026</div>
 
+<p class="paper-entry">19. J. Jeon, FT. Zohora, <u>S. Akin</u>, “Direct-writing of physical unclonable function (PUF)-augmented QR codes for cyber–physical authentication”, 
+  <i>North American Manufacturing Research Conference (NAMRC)</i>, 2026. 
+  <a href="https://doi.org/10.1016/j.mfglet.2026.08.030">[Link]</a>, 
+  <a href="https://semi-lab.github.io/assets/pdf/XMO.pdf">[PDF]</a></p>
+
+
 <p class="paper-entry">19. J. Ren, S. Huang, S. Rahman, F. Kopsaftopoulos, J. Samuel, <u>S. Akin</u>, “Convergent manufacturing of smart metallic structures”, 
   <i>Excellence in Manufacturing and Operations (XMO)</i>, 2026. 
   <a href="https://docs.lib.purdue.edu/mmrl-cms/2026/papers/4/?10.5703/1288284318666">[Link]</a>, 
