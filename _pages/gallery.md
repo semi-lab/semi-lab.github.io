@@ -233,6 +233,24 @@ document.addEventListener("DOMContentLoaded", function () {
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
       <tr>
+        <th scope="row" style="white-space: nowrap;">October 2026</th>
+        <td> SEMI-LAB was delighted to host Prof. Sang Won Lee from Sungkyunkwan University, South Korea, for a visit to RPI.
+  </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="text-align: center;">
+          <figure>
+            <img src="../assets/img/Korea-1.jpeg" alt="KOREAN RESEARCHERS' VISIT TO RPI" style="width:70%; max-width:500px;">              </figure>
+        </td>
+      </tr>
+      <tr>
+
+
+
+
+<div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      <tr>
         <th scope="row" style="white-space: nowrap;">June 2026</th>
         <td> SEMI-LAB hosted visitors from the Korea Institute of Industrial Technology
     (KITECH) (Dr. Jungso Nam &amp; Dr. Kyeongeun Song) and the Korea Institute
