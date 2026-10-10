@@ -240,7 +240,7 @@ document.addEventListener("DOMContentLoaded", function () {
       <tr>
         <td colspan="2" style="text-align: center;">
           <figure>
-            <img src="../assets/img/Korea-1.jpeg" alt="KOREAN RESEARCHERS' VISIT TO RPI" style="width:70%; max-width:500px;">              </figure>
+            <img src="../assets/img/DrleeSKKU.png" alt="Prof. Sang Won Lee's visit to RPI" style="width:70%; max-width:500px;">              </figure>
         </td>
       </tr>
       <tr>
