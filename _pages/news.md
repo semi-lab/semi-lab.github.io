@@ -15,8 +15,7 @@ nav_order: 7
             <tr>
                 <th scope="row" style="white-space: nowrap;">November, 2026</th>
                 <td>
-                    Dr. Akin delivered a seminar at Florida International University (FIU)
-                    </span>.
+                    Dr. Akin delivered a seminar at Florida International University (FIU)                  
                     <span style="color:red;">&#9733;</span>
                 </td>
             </tr>
