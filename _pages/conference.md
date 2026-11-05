@@ -16,7 +16,7 @@ nav_order: null
 <p class="paper-entry">21. S. Rahman, <u>S. Akin</u>, “Cold spray deposition of lunar regolith composite powders towards in-space electronics manufacturing”, 
   <i>International Manufacturing Science and Engineering Conference (MSEC)</i>, 2026. 
   <a href="https://doi.org/10.1115/MSEC2026-182587">[Link]</a>
-  <a href="https://doi.org/10.1115/MSEC2026-18258">[PDF]</a></p>
+  <a href="https://semi-lab.github.io/assets/pdf/MSEC_2026_space">[PDF]</a></p>
 
 <p class="paper-entry">20. J. Jeon, FT. Zohora, <u>S. Akin</u>, “Direct-writing of physical unclonable function (PUF)-augmented QR codes for cyber–physical authentication”, 
   <i>North American Manufacturing Research Conference (NAMRC)</i>, 2026. 
