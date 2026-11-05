@@ -8,6 +8,31 @@ nav_order: 7
 ---
 <!-- News -->
 
+
+<div class="news">
+    <div class="table-responsive">
+        <table class="table table-sm table-borderless">
+            <tr>
+                <th scope="row" style="white-space: nowrap;">November, 2026</th>
+                <td>
+                    Dr. Akin delivered a seminar at Florida International University (FIU)
+                    </span>.
+                    <span style="color:red;">&#9733;</span>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                <figure>
+            <img src="../assets/img/FIU_visit.png" alt="Dr. Akin's visit to FIU" style="width:90%; max-width:500px;">              </figure>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+
+
+
 <div class="news">
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
