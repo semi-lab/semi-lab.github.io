@@ -141,7 +141,7 @@ Dr. Semih Akin is a tenure-track Assistant Professor of Mechanical Engineering a
 <br>
 
 
-## MS Students
+## Master's Students
 
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/Kate.jpg" width="150" height="170"/>
