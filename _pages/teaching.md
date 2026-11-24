@@ -18,13 +18,13 @@ nav_order: 6
 
 <div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
   <p style="font-size: 16px; margin: 0;">
-    <a href="https://semilab-rpi.com/assets/pdf/Syllabus.pdf">
+    <a href="https://semi-lab.github.io//assets/pdf/Syllabus.pdf">
       Syllabus (Spring 2026)
     </a>
   </p>
 
   <p style="font-size: 16px; margin: 0;">
-    <a href="https://semilab-rpi.com/assets/pdf/MANE_6962_AM_Final%20Project.pdf">
+    <a href="https://semi-lab.github.io/assets/pdf/MANE_6962_AM_Final%20Project.pdf">
       Final Project (Spring 2026)
     </a>
   </p>
