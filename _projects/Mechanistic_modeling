@@ -37,46 +37,55 @@ Our group develops physics-based models and advanced manufacturing strategies to
 
 <b style="color: blue;">Selected Publications:</b>
 <ul>
+
+ <li>
+    K. Young, J. Dhar, J. Samuel, S. Akin,
+    "Filament-fed additive friction stir deposition (AFSD) for polymer surface functionalization",
+    <i>Journal of Manufacturing Processes,</i>, 2026.
+    <a href="https://semi-lab.github.io/assets/pdf/afsd_jmp.pdf" target="_blank">[Link]</a>
+  </li>
+
+
  <li>
     FT. Zohora, J. Jeon, S. Akin,
     "Data-driven prediction of cold spray additive manufacturing via CFD-guided machine learning",
     <i>Results in Engineering,</i>, 2026.
-    <a href="https://semilab-rpi.com/assets/pdf/cfd-ai.pdf" target="_blank">[Link]</a>
+    <a href="https://semi-lab.github.io/assets/pdf/cfd-ai.pdf" target="_blank">[Link]</a>
   </li>
 
   <li>
     T. Gabor, Y. Wang, S. Akin, F. Zhou, J. Chen, MBG. Jun, 
     "Design, modeling, and characterization of a pulsed cold spray system", 
     <i>Surface & Coatings Technology</i>, 2025. 
-    <a href="https://semilab-rpi.com/assets/pdf/PCS.pdf" target="_blank">[Link]</a>
+    <a href="https://semi-lab.github.io/assets/pdf/PCS.pdf" target="_blank">[Link]</a>
   </li>
 
     <li>
     T. Gabor, S. Akin, MBG. Jun, 
     "Numerical studies on cold spray gas dynamics and powder flow in circular and rectangular nozzles", 
     <i>Journal of Manufacturing Processes</i>, 2024. 
-    <a href="https://semilab-rpi.com/assets/pdf/jmp_2024.pdf" target="_blank">[Link]</a>
+    <a href="semi-lab.github.io/assets/pdf/jmp_2024.pdf" target="_blank">[Link]</a>
   </li>
   
     <li>
     S. Akin, P. Wu, JT. Tsai, J. Chen, MBG. Jun, 
     "A study on converging-diverging nozzle design for supersonic spraying of liquid droplets toward nanocoating applications", 
     <i>ASME Journal of Manufacturing Science & Engineering</i>, 2023. 
-    <a href="https://semilab-rpi.com/assets/pdf/ASME_2023.pdf target="_blank">[Link]</a>
+    <a href="semi-lab.github.io/assets/pdf/ASME_2023.pdf target="_blank">[Link]</a>
   </li>
 
    <li>
     T. Gabor, H. Yun, S. Akin, MBG. Jun, 
     "Continuous coaxial nozzle designs for improved powder focusing in direct laser metal deposition", 
     <i>Journal of Manufacturing Processes</i>, 2022. 
-    <a href="https://semilab-rpi.com/assets/pdf/JMP_3.pdf" target="_blank">[Link]</a>
+    <a href="semi-lab.github.io/assets/pdf/JMP_3.pdf" target="_blank">[Link]</a>
   </li>
 
     <li>
     S. Akin, P. Wu, JT. Tsai, J. Chen, MBG. Jun, 
     "A study on droplets dispersion and deposition characteristics under supersonic spray flow for nanomaterial coating applications", 
     <i>Surface & Coatings Technology</i>, 2022. 
-    <a href="https://semilab-rpi.com/assets/pdf/surfcoat.pdf" target="_blank">[Link]</a>
+    <a href="semi-lab.github.io/assets/pdf/surfcoat.pdf" target="_blank">[Link]</a>
   </li>
 
 </ul>
